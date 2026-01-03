@@ -34,5 +34,5 @@ class Solution(object):
     
 
 #required some additional help for understanding which patterns to look at
-#initially was looking at howmany diffferent options for the next row based on a previos row (quess)
+#initially was looking at how many different options for the next row based on a previos row (quess)
     #this would be good if there already existed a Turing machine (some algorithm) to already determine if the solution is valid, not for finding hte solution
