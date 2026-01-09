@@ -53,7 +53,7 @@ class Solution(object):
                 return (left_depth + 1, left_node)
             elif right_depth > left_depth: #if right subtree is deeper go to right node
                 return (right_depth + 1, right_node)
-            else: #if both subtrees have equakl depth, return current node
+            else: #if both subtrees have equal depth, return current node
                 return (left_depth + 1, node) 
         
         return dfs(root)[1] #return the node part of the tuple
