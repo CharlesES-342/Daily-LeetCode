@@ -39,7 +39,7 @@ class Solution(object):
         # Collect all unique substrings of length k
         subSet = set()
         for i in range(n - k + 1):  # Fixed range: was n-k-1, missing last window
-            subSet.add(s[i:i+k])    # Fixed: string slicing uses [i:i+k], not (i, i+k-1)
+            subSet.add(s[i:i+k])
 
         # Check if all 2^k combinations are present
-        return len(subSet) == (2**k)  # Simplified if/else to direct return
+        return len(subSet) == (2**k) 
