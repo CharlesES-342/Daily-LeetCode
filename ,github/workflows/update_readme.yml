@@ -3,14 +3,14 @@ name: Update LeetCode README
 on:
   push:
     paths:
-      - '2026/**' # Only runs when you add/change files in the 2026 folder
-  workflow_dispatch: # Allows you to run it manually from the "Actions" tab
+      - '2026/**'
+  workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
     permissions:
-      contents: write # Important: Gives the bot permission to edit your README
+      contents: write  # Crucial for the bot to edit your files
 
     steps:
       - name: Checkout code
@@ -29,5 +29,4 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add README.md
-          # Only commit if there are actually changes to the README
-          git diff --quiet && git diff --staged --quiet || (git commit -m "docs: auto-update README with new solutions" && git push)
+          git diff --quiet && git diff --staged --quiet || (git commit -m "docs: auto-update README" && git push)
