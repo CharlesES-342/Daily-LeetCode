@@ -5,8 +5,6 @@
 # have the same number of 1's you have to sort them in ascending order.
 # Return the array after sorting it.
 
- 
-
 # Example 1:
 # Input: arr = [0,1,2,3,4,5,6,7,8]
 # Output: [0,1,2,4,8,3,5,6,7]
