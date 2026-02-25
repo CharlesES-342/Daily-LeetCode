@@ -1,5 +1,6 @@
-# You are given an n x n integer matrix. You can do the following operation any number of times:
+#1975. Maximum Matrix Sum
 
+# You are given an n x n integer matrix. You can do the following operation any number of times:
 # Choose any two adjacent elements of matrix and multiply each of them by -1.
 # Two elements are considered adjacent if and only if they share a border.
 
