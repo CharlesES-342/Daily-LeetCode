@@ -33,6 +33,8 @@
 
 '''
 First Approach: this took too long to run
+    I understand the principles and would hae gotten there eventually, but needed the hint to get started
+    oherwise the solution I would ahve given would have been slower
 '''
 from collections import deque
 class Solution(object):
@@ -56,7 +58,7 @@ class Solution(object):
         
         while queue:
             #get the current position you are looking at (number of zeros, distance from the root)
-            #where the distnace from teh root is eqal to the number of operations
+            #where the distnace from teh root is equual to the number of operations
             currentCount, dist = queue.popleft() 
 
             #you are choosing some k zeros from s:
