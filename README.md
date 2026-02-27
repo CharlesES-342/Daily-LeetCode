@@ -65,6 +65,7 @@ This repository automatically tracks my LeetCode progress using a custom Python 
 | 3640 | 3640. Trionic Array II | You are given an integer array nums of length n. A trionic subarray is a contiguous subarray nums[l...r] (with 0 <= l... | [View Code](./2026/February/Day%2035%20-%20(3640).py) |
 | 190 | 190. Reverse Bits | Reverse bits of a given 32 bits signed integer. Example 1: Input: n = 43261596 | [View Code](./2026/February/Day%2047%20-%20(190).py) |
 | 868 | 868. Binary Gap | Given a positive integer n, find and return the longest distance between any two adjacent 1's' 'in the binary represe... | [View Code](./2026/February/Day%2053%20-%20(868).py) |
+| 3666 | 3666. Minimum Operations to Equalize Binary String | You are given a binary string s, and an integer k. In one operation, you must choose exactly k different indices and ... | [View Code](./2026/February/Day%2058%20-%20(3666).py) |
 | 799 | 799. Champagne Tower | We stack glasses in a pyramid, where the first row has 1 glass, the second row has 2 glasses, and so on until the 100... | [View Code](./2026/February/Day%2045%20-%20(799).py) |
 | 761 | 761. Special Binary String | Special binary strings are binary strings with the following two properties: The number of 0's is equal to the number... | [View Code](./2026/February/Day%2051%20-%20(761).py) |
 
