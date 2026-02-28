@@ -42,6 +42,7 @@ This repository automatically tracks my LeetCode progress using a custom Python 
 | ID | Problem Title | Description | Solution |
 | :--- | :--- | :--- | :--- |
 | 3010 | 3010. Divide an Array into Subarrays with minimum Cost 1 | Testing v2 : You are given an array of integers nums of length n. The cost of an array is the value of its first elem... | [View Code](./2026/February/Day%2032%20-%20(3010).py) |
+| 1680 | 1680. Concatenation of Consecutive Binary Numbers | Given an integer n, return the decimal value of the binary string formed by concatenating the binary representations ... | [View Code](./2026/February/Day%2059%20-%20(1680).py) |
 | 3637 | 3637. Tronic Array 1 | You are given an integer array nums of length n. An array is trionic if there exist indices 0 < p < q < n − 1 such th... | [View Code](./2026/February/Day%2034%20-%20(3637).py) |
 | 696 | 696. Count Binary Substrings | Given a binary string s, return the number of non-empty substrings that have the same number of 0's and 1's, and all ... | [View Code](./2026/February/Day%2050%20-%20(696).py) |
 | 1022 | 1022. Sum of Root To Leaf Binary Numbers | You are given the root of a binary tree where each node has a value 0 or 1. Each root-to-leaf path represents a binar... | [View Code](./2026/February/Day%2055%20-%20(1022).py) |
