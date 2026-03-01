@@ -61,7 +61,6 @@ This repository automatically tracks my LeetCode progress using a custom Python 
 | 762 | 762. Prime Number of Set Bits in Binary Representation | Given two integers left and right, return the count of numbers in the inclusive range [left, right] having a prime nu... | [View Code](./2026/February/Day%2052%20-%20(762).py) |
 | 3634 | 3634. Minimum Removals to Balance Array | You are given an integer array nums and an integer k. An array is considered balanced if the value of its maximum ele... | [View Code](./2026/February/Day%2037%20-%20(3634).py) |
 | 3013 | 3013. Divide an Array into Subarrays with minimum Cost 2 | You are given a 0-indexed array of integers nums of length n, and two positive integers k and dist. The cost of an ar... | [View Code](./2026/February/Day%2033%20-%20(3013).py) |
-| 1689 | 1689. Partitioning Into Minimum Number Of Deci-Binary Numbers | A decimal number is called deci-binary if each of its digits is either 0 or 1 without any leading zeros. For example,... | [View Code](./2026/February/Day%2060%20-%20(1689).py) |
 | 1653 | 1653. Minimum Deletions to Make String Balanced | You are given a string s consisting only of characters 'a' and 'b'​​​​. You can delete any number of characters in s ... | [View Code](./2026/February/Day%2038%20-%20(1653).py) |
 | 110 | 110. Balanced Binary Tree | Given a binary tree, determine if it is height-balanced. Example 1: Input: root = [3,9,20,null,null,15,7] | [View Code](./2026/February/Day%2039%20-%20(110).py) |
 | 3640 | 3640. Trionic Array II | You are given an integer array nums of length n. A trionic subarray is a contiguous subarray nums[l...r] (with 0 <= l... | [View Code](./2026/February/Day%2035%20-%20(3640).py) |
@@ -70,5 +69,11 @@ This repository automatically tracks my LeetCode progress using a custom Python 
 | 3666 | 3666. Minimum Operations to Equalize Binary String | You are given a binary string s, and an integer k. In one operation, you must choose exactly k different indices and ... | [View Code](./2026/February/Day%2058%20-%20(3666).py) |
 | 799 | 799. Champagne Tower | We stack glasses in a pyramid, where the first row has 1 glass, the second row has 2 glasses, and so on until the 100... | [View Code](./2026/February/Day%2045%20-%20(799).py) |
 | 761 | 761. Special Binary String | Special binary strings are binary strings with the following two properties: The number of 0's is equal to the number... | [View Code](./2026/February/Day%2051%20-%20(761).py) |
+
+---
+## 📅 March
+| ID | Problem Title | Description | Solution |
+| :--- | :--- | :--- | :--- |
+| 1689 | 1689. Partitioning Into Minimum Number Of Deci-Binary Numbers | A decimal number is called deci-binary if each of its digits is either 0 or 1 without any leading zeros. For example,... | [View Code](./2026/March/Day%2060%20-%20(1689).py) |
 
 ---
