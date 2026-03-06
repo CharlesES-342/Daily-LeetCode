@@ -74,6 +74,7 @@ This repository automatically tracks my LeetCode progress using a custom Python 
 ## 📅 March
 | ID | Problem Title | Description | Solution |
 | :--- | :--- | :--- | :--- |
+| 1784 | 1784. Check if Binary String Has at Most One Segment of Ones | Given a binary string s ​​​​​without leading zeros, return true​​​ if s contains at most one contiguous segment of on... | [View Code](./2026/March/Day%2065%20-%20(1784).py) |
 | 1536 | 1536. Minimum Swaps to Arrange a Binary Grid | Given an n x n binary grid, in one step you can choose two adjacent rows of the grid and swap them. A grid is said to... | [View Code](./2026/March/Day%2061%20-%20(1536).py) |
 | 1758 | 1758. Minimum Changes To Make Alternating Binary String | You are given a string s consisting only of the characters '0' and '1'. In one operation, you can change any '0' to '... | [View Code](./2026/March/Day%2064%20-%20(1758).py) |
 | 1689 | 1689. Partitioning Into Minimum Number Of Deci-Binary Numbers | A decimal number is called deci-binary if each of its digits is either 0 or 1 without any leading zeros. For example,... | [View Code](./2026/March/Day%2060%20-%20(1689).py) |
