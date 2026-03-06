@@ -75,6 +75,7 @@ This repository automatically tracks my LeetCode progress using a custom Python 
 | ID | Problem Title | Description | Solution |
 | :--- | :--- | :--- | :--- |
 | 1536 | 1536. Minimum Swaps to Arrange a Binary Grid | Given an n x n binary grid, in one step you can choose two adjacent rows of the grid and swap them. A grid is said to... | [View Code](./2026/March/Day%2061%20-%20(1536).py) |
+| 1758 | 1758. Minimum Changes To Make Alternating Binary String | You are given a string s consisting only of the characters '0' and '1'. In one operation, you can change any '0' to '... | [View Code](./2026/March/Day%2064%20-%20(1758).py) |
 | 1689 | 1689. Partitioning Into Minimum Number Of Deci-Binary Numbers | A decimal number is called deci-binary if each of its digits is either 0 or 1 without any leading zeros. For example,... | [View Code](./2026/March/Day%2060%20-%20(1689).py) |
 | 1545 | 1545. Find Kth Bit in Nth Binary String | Given two positive integers n and k, the binary string Sn is formed as follows: S1 = "0" Si = Si - 1 + "1" + reverse(... | [View Code](./2026/March/Day%2062%20-%20(1545).py) |
 | 1582 | 1582. Special Positions in a Binary Matrix | Given an m x n binary matrix mat, return the number of special positions in mat. A position (i, j) is called special ... | [View Code](./2026/March/Day%2063%20-%20(1582).py) |
