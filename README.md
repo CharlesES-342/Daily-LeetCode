@@ -85,5 +85,6 @@ This repository automatically tracks my LeetCode progress using a custom Python 
 | 1545 | 1545. Find Kth Bit in Nth Binary String | Given two positive integers n and k, the binary string Sn is formed as follows: S1 = "0" Si = Si - 1 + "1" + reverse(... | [View Code](./2026/March/Day%2062%20-%20(1545).py) |
 | 1980 | 1980. Find Unique Binary String | Given an array of strings nums containing n unique binary strings each of length n, return a binary string of length ... | [View Code](./2026/March/Day%2067%20-%20(1980).py) |
 | 1582 | 1582. Special Positions in a Binary Matrix | Given an m x n binary matrix mat, return the number of special positions in mat. A position (i, j) is called special ... | [View Code](./2026/March/Day%2063%20-%20(1582).py) |
+| 3600 | 3600. Maximize Spanning Tree Stability with Upgrades | You are given an integer n, representing n nodes numbered from 0 to n - 1 and a list of edges, where edges[i] = [ui, ... | [View Code](./2026/March/Day%2071%20-%20(3600).py) |
 
 ---
