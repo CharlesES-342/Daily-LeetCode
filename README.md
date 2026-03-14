@@ -5,8 +5,7 @@
 This repository automatically tracks my LeetCode progress using a custom Python scraper.
 
 ### 🔍 Quick Navigation
-[**January**](#-january) | [**February**](#-february) | [**March**](#-march) | [**Search by ID**](https://github.com/CharlesES-342/Daily-LeetCode/search?q=)
-
+[**January**](#-january) | [**February**](#-february) | [**March**](#-march) |
 ---
 
 ## 📅 January
