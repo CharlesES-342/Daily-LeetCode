@@ -41,7 +41,6 @@ def extract_metadata(file_path):
 
 def generate_readme():
     base_dir = "2026"
-    repo_url = "https://github.com/CharlesES-342/Daily-LeetCode" 
     
     months_order = ["January", "February", "March", "April", "May", "June", 
                     "July", "August", "September", "October", "November", "December"]
@@ -98,7 +97,7 @@ def generate_readme():
     header += f"**Total Problems Solved: {total_solved}**\n\n"
     header += "This repository automatically tracks my LeetCode progress using a custom Python scraper.\n\n"
     header += "### 🔍 Quick Navigation\n"
-    header += f"{jump_links} | [**Search by ID**]({repo_url}/search?q=)\n\n"
+    header += f"{jump_links} |\n"
     header += "---\n\n"
 
     # 4. Write to File
