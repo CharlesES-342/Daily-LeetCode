@@ -1,8 +1,18 @@
 # 📖 LeetCode Journey 2026
 
+**Total Problems Solved: 73**
+
 This repository automatically tracks my LeetCode progress using a custom Python scraper.
 
+### 🔍 Quick Navigation
+[**January**](#-january) | [**February**](#-february) | [**March**](#-march) | [**Search by ID**](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME/search?q=)
+
+---
+
 ## 📅 January
+<details>
+<summary>Click to view January problems</summary>
+
 | ID | Problem Title | Description | Solution |
 | :--- | :--- | :--- | :--- |
 | 3510 | 3510. Minimum Pair Removal to Sort Array 2 | Given an array nums, you can perform the following operation any number of times: Select the adjacent pair with the m... | [View Code](./2026/January/Day%2023%20-%20(3510).py) |
@@ -37,8 +47,13 @@ This repository automatically tracks my LeetCode progress using a custom Python 
 | 3453 | 3453. Separate Squares | You are given a 2D integer array squares. Each squares[i] = [xi, yi, li] represents the coordinates of the bottom-lef... | [View Code](./2026/January/Day%2013%20-%20(3453).py) |
 | 1895 | 1895. Largest Magic Square | A k x k magic square is a k x k grid filled with integers such that every row sum, every column sum, and both diagona... | [View Code](./2026/January/Day%2018%20-%20(1895).py) |
 
+</details>
+
 ---
 ## 📅 February
+<details>
+<summary>Click to view February problems</summary>
+
 | ID | Problem Title | Description | Solution |
 | :--- | :--- | :--- | :--- |
 | 3010 | 3010. Divide an Array into Subarrays with minimum Cost 1 | Testing v2 : You are given an array of integers nums of length n. The cost of an array is the value of its first elem... | [View Code](./2026/February/Day%2032%20-%20(3010).py) |
@@ -70,8 +85,13 @@ This repository automatically tracks my LeetCode progress using a custom Python 
 | 799 | 799. Champagne Tower | We stack glasses in a pyramid, where the first row has 1 glass, the second row has 2 glasses, and so on until the 100... | [View Code](./2026/February/Day%2045%20-%20(799).py) |
 | 761 | 761. Special Binary String | Special binary strings are binary strings with the following two properties: The number of 0's is equal to the number... | [View Code](./2026/February/Day%2051%20-%20(761).py) |
 
+</details>
+
 ---
 ## 📅 March
+<details>
+<summary>Click to view March problems</summary>
+
 | ID | Problem Title | Description | Solution |
 | :--- | :--- | :--- | :--- |
 | 1784 | 1784. Check if Binary String Has at Most One Segment of Ones | Given a binary string s ​​​​​without leading zeros, return true​​​ if s contains at most one contiguous segment of on... | [View Code](./2026/March/Day%2065%20-%20(1784).py) |
@@ -88,5 +108,7 @@ This repository automatically tracks my LeetCode progress using a custom Python 
 | 1980 | 1980. Find Unique Binary String | Given an array of strings nums containing n unique binary strings each of length n, return a binary string of length ... | [View Code](./2026/March/Day%2067%20-%20(1980).py) |
 | 1582 | 1582. Special Positions in a Binary Matrix | Given an m x n binary matrix mat, return the number of special positions in mat. A position (i, j) is called special ... | [View Code](./2026/March/Day%2063%20-%20(1582).py) |
 | 3600 | 3600. Maximize Spanning Tree Stability with Upgrades | You are given an integer n, representing n nodes numbered from 0 to n - 1 and a list of edges, where edges[i] = [ui, ... | [View Code](./2026/March/Day%2071%20-%20(3600).py) |
+
+</details>
 
 ---
