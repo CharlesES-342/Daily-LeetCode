@@ -42,7 +42,7 @@ def extract_metadata(file_path):
 def generate_readme():
     base_dir = "2026"
     # Update these with your actual details!
-    repo_url = "https://github.com/YOUR_USERNAME/YOUR_REPO_NAME" 
+    repo_url = "https://github.com/CharlesES-342/Daily-LeetCode" 
     
     months_order = ["January", "February", "March", "April", "May", "June", 
                     "July", "August", "September", "October", "November", "December"]
