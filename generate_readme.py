@@ -12,30 +12,25 @@ def extract_metadata(file_path):
 
             # 1. Clean Title: Remove the '#' and the 'n' typo if it exists
             raw_title = lines[0].strip('# ').strip()
-            # Fix common "nConstruct" typos or extra 'n's at the start
             title = re.sub(r'^[nN](?=[A-Z])', '', raw_title) 
             
             # 2. Extract Description
             desc_parts = []
             for line in lines[1:]:
                 clean = line.strip()
-                
-                # STOP if we hit the class, the personal notes, or an empty line
-                if "class" in clean or "I had" in clean or "Confussed" in clean:
+                if any(x in clean for x in ["class", "I had", "Confussed"]):
                     break
-                
-                # Only add if it's a comment and not empty
                 if clean.startswith('#'):
                     content = clean.strip('# ').strip()
                     if content:
                         desc_parts.append(content)
-                elif not clean: # Skip empty lines but keep looking
+                elif not clean:
                     continue
-                else: # Hit actual code that isn't the class
+                else:
                     break
             
             if desc_parts:
-                description = " ".join(desc_parts[:3]) # Take first 3 lines
+                description = " ".join(desc_parts[:3])
                 if len(description) > 120:
                     description = description[:117] + "..."
                     
@@ -46,52 +41,70 @@ def extract_metadata(file_path):
 
 def generate_readme():
     base_dir = "2026"
+    
     months_order = ["January", "February", "March", "April", "May", "June", 
                     "July", "August", "September", "October", "November", "December"]
     
-    readme_content = "# 📖 LeetCode Journey 2026\n\n"
-    readme_content += "This repository automatically tracks my LeetCode progress using a custom Python scraper.\n\n"
-
     if not os.path.exists(base_dir):
         print(f"Error: Folder '{base_dir}' not found.")
         return
 
-    # Sort months based on the calendar
+    # 1. Identify and Sort Months
     found_months = [m for m in os.listdir(base_dir) if os.path.isdir(os.path.join(base_dir, m))]
     sorted_months = sorted(found_months, key=lambda x: months_order.index(x) if x in months_order else 99)
 
-    for month in sorted_months:
+    # 2. Process Tables and Count
+    total_solved = 0
+    tables_content = ""
+
+    for i, month in enumerate(sorted_months):
         month_path = os.path.join(base_dir, month)
-        # Sort files numerically by the "day" number
-        files = sorted(os.listdir(month_path), key=lambda x: int(re.search(r'day (\d+)', x).group(1)) if re.search(r'day (\d+)', x) else 0)
+        all_files = os.listdir(month_path)
         
-        if not files:
+        # Sort files numerically by the "day" number
+        files = sorted(all_files, key=lambda x: int(re.search(r'day (\d+)', x, re.IGNORECASE).group(1)) if re.search(r'day (\d+)', x, re.IGNORECASE) else 0)
+        
+        py_files = [f for f in files if f.endswith(".py")]
+        if not py_files:
             continue
 
-        readme_content += f"## 📅 {month}\n"
-        readme_content += "| ID | Problem Title | Description | Solution |\n"
-        readme_content += "| :--- | :--- | :--- | :--- |\n"
+        total_solved += len(py_files)
 
-        for file in files:
-            if file.endswith(".py"):
-                full_path = os.path.join(month_path, file)
-                title, description = extract_metadata(full_path)
-                
-                # Regex to extract the Problem ID from inside the parentheses
-                id_match = re.search(r"\((\d+)\)", file)
-                prob_id = id_match.group(1) if id_match else "N/A"
-                
-                # URL encode spaces for Markdown links
-                encoded_path = f"./2026/{month}/{file}".replace(" ", "%20")
-                
-                readme_content += f"| {prob_id} | {title} | {description} | [View Code]({encoded_path}) |\n"
+        # Logic: Current month is "open", previous months are collapsed
+        is_open = "open" if i == len(sorted_months) - 1 else ""
+
+        tables_content += f"## 📅 {month}\n"
+        tables_content += f"<details {is_open}>\n<summary>Click to view {month} problems</summary>\n\n"
+        tables_content += "| ID | Problem Title | Description | Solution |\n"
+        tables_content += "| :--- | :--- | :--- | :--- |\n"
+
+        for file in py_files:
+            full_path = os.path.join(month_path, file)
+            title, description = extract_metadata(full_path)
+            
+            id_match = re.search(r"\((\d+)\)", file)
+            prob_id = id_match.group(1) if id_match else "N/A"
+            
+            encoded_path = f"./2026/{month}/{file}".replace(" ", "%20")
+            tables_content += f"| {prob_id} | {title} | {description} | [View Code]({encoded_path}) |\n"
         
-        readme_content += "\n---\n"
+        tables_content += "\n</details>\n\n---\n"
 
-    with open("README.md", "w", encoding="utf-8") as f:
-        f.write(readme_content)
+    # 3. Assemble Final Header and Navigation
+    jump_links = " | ".join([f"[**{m}**](#-{m.lower()})" for m in sorted_months])
     
-    print("✨ Success! README.md updated with titles and descriptions.")
+    header = "# 📖 LeetCode Journey 2026\n\n"
+    header += f"**Total Problems Solved: {total_solved}**\n\n"
+    header += "This repository automatically tracks my LeetCode progress using a custom Python scraper.\n\n"
+    header += "### 🔍 Quick Navigation\n"
+    header += f"{jump_links} |\n"
+    header += "---\n\n"
+
+    # 4. Write to File
+    with open("README.md", "w", encoding="utf-8") as f:
+        f.write(header + tables_content)
+    
+    print(f"✨ Success! README updated. Total solved: {total_solved}")
 
 if __name__ == "__main__":
     generate_readme()
