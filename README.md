@@ -1,6 +1,6 @@
 # 📖 LeetCode Journey 2026
 
-**Total Problems Solved: 74**
+**Total Problems Solved: 75**
 
 This repository automatically tracks my LeetCode progress using a custom Python scraper.
 
@@ -108,6 +108,7 @@ This repository automatically tracks my LeetCode progress using a custom Python 
 | 3296 | 3296. Minimum Number of Seconds to Make Mountain Height Zero | You are given an integer mountainHeight denoting the height of a mountain. You are also given an integer array worker... | [View Code](./2026/March/Day%2072%20-%20(3296).py) |
 | 1415 | 1415. The k-th Lexicographical String of All Happy Strings of Length n | A happy string is a string that: consists only of letters of the set ['a', 'b', 'c']. s[i] != s[i + 1] for all values... | [View Code](./2026/March/Day%2073%20-%20(1415).py) |
 | 1622 | 1622. Fancy Sequence | Write an API that generates fancy sequences using the append, addAll, and multAll operations. | [View Code](./2026/March/Day%2074%20-%20(1622).py) |
+| 1878 | 1878. Get Biggest Three Rhombus Sums in a Grid | You are given an m x n integer matrix grid​​​. A rhombus sum is the sum of the elements that form the border of a reg... | [View Code](./2026/March/Day%2075%20-%20(1878).py) |
 
 </details>
 
