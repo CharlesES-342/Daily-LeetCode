@@ -1,6 +1,6 @@
 # 📖 LeetCode Journey 2026
 
-**Total Problems Solved: 75**
+**Total Problems Solved: 76**
 
 This repository automatically tracks my LeetCode progress using a custom Python scraper.
 
@@ -109,6 +109,7 @@ This repository automatically tracks my LeetCode progress using a custom Python 
 | 1415 | 1415. The k-th Lexicographical String of All Happy Strings of Length n | A happy string is a string that: consists only of letters of the set ['a', 'b', 'c']. s[i] != s[i + 1] for all values... | [View Code](./2026/March/Day%2073%20-%20(1415).py) |
 | 1622 | 1622. Fancy Sequence | Write an API that generates fancy sequences using the append, addAll, and multAll operations. | [View Code](./2026/March/Day%2074%20-%20(1622).py) |
 | 1878 | 1878. Get Biggest Three Rhombus Sums in a Grid | You are given an m x n integer matrix grid​​​. A rhombus sum is the sum of the elements that form the border of a reg... | [View Code](./2026/March/Day%2075%20-%20(1878).py) |
+| 1727 | 1727. Largest Submatrix With Rearrangements | You are given a binary matrix matrix of size m x n, and you are allowed to rearrange the columns of the matrix in any... | [View Code](./2026/March/Day%2076%20-%20(1727).py) |
 
 </details>
 
