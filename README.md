@@ -1,6 +1,6 @@
 # 📖 LeetCode Journey 2026
 
-**Total Problems Solved: 76**
+**Total Problems Solved: 77**
 
 This repository automatically tracks my LeetCode progress using a custom Python scraper.
 
@@ -110,6 +110,7 @@ This repository automatically tracks my LeetCode progress using a custom Python 
 | 1622 | 1622. Fancy Sequence | Write an API that generates fancy sequences using the append, addAll, and multAll operations. | [View Code](./2026/March/Day%2074%20-%20(1622).py) |
 | 1878 | 1878. Get Biggest Three Rhombus Sums in a Grid | You are given an m x n integer matrix grid​​​. A rhombus sum is the sum of the elements that form the border of a reg... | [View Code](./2026/March/Day%2075%20-%20(1878).py) |
 | 1727 | 1727. Largest Submatrix With Rearrangements | You are given a binary matrix matrix of size m x n, and you are allowed to rearrange the columns of the matrix in any... | [View Code](./2026/March/Day%2076%20-%20(1727).py) |
+| 3070 | 3070. Count Submatrices with Top-Left Element and Sum Less Than k | You are given a 0-indexed integer matrix grid and an integer k. Return the number of submatrices that contain the top... | [View Code](./2026/March/Day%2077%20-%20(3070).py) |
 
 </details>
 
