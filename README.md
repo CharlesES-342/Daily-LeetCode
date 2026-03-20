@@ -1,6 +1,6 @@
 # 📖 LeetCode Journey 2026
 
-**Total Problems Solved: 78**
+**Total Problems Solved: 79**
 
 This repository automatically tracks my LeetCode progress using a custom Python scraper.
 
@@ -112,6 +112,7 @@ This repository automatically tracks my LeetCode progress using a custom Python 
 | 1727 | 1727. Largest Submatrix With Rearrangements | You are given a binary matrix matrix of size m x n, and you are allowed to rearrange the columns of the matrix in any... | [View Code](./2026/March/Day%2076%20-%20(1727).py) |
 | 3070 | 3070. Count Submatrices with Top-Left Element and Sum Less Than k | You are given a 0-indexed integer matrix grid and an integer k. Return the number of submatrices that contain the top... | [View Code](./2026/March/Day%2077%20-%20(3070).py) |
 | 3212 | 3212. Count Submatrices With Equal Frequency of X and Y | Given a 2D character matrix grid, where grid[i][j] is either 'X', 'Y', or '.', return the number of submatrices that ... | [View Code](./2026/March/Day%2078%20-%20(3212).py) |
+| 3567 | 3567. Minimum Absolute Difference in Sliding Submatrix | You are given an m x n integer matrix grid and an integer k. For every contiguous k x k submatrix of grid, compute th... | [View Code](./2026/March/Day%2079%20-%20(3567).py) |
 
 </details>
 
