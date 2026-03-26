@@ -1,6 +1,6 @@
 # 📖 LeetCode Journey 2026
 
-**Total Problems Solved: 79**
+**Total Problems Solved: 85**
 
 This repository automatically tracks my LeetCode progress using a custom Python scraper.
 
@@ -113,6 +113,12 @@ This repository automatically tracks my LeetCode progress using a custom Python 
 | 3070 | 3070. Count Submatrices with Top-Left Element and Sum Less Than k | You are given a 0-indexed integer matrix grid and an integer k. Return the number of submatrices that contain the top... | [View Code](./2026/March/Day%2077%20-%20(3070).py) |
 | 3212 | 3212. Count Submatrices With Equal Frequency of X and Y | Given a 2D character matrix grid, where grid[i][j] is either 'X', 'Y', or '.', return the number of submatrices that ... | [View Code](./2026/March/Day%2078%20-%20(3212).py) |
 | 3567 | 3567. Minimum Absolute Difference in Sliding Submatrix | You are given an m x n integer matrix grid and an integer k. For every contiguous k x k submatrix of grid, compute th... | [View Code](./2026/March/Day%2079%20-%20(3567).py) |
+| 3643 | 3643. Flip Square Submatrix Vertically | You are given an m x n integer matrix grid, and three integers x, y, and k. The integers x and y represent the row an... | [View Code](./2026/March/Day%2080%20-%20(3643).py) |
+| 1886 | 1886. Determine Whether Matrix Can Be Obtained By Rotation | Given two n x n binary matrices mat and target, return true if it is possible to make mat equal to target by rotating... | [View Code](./2026/March/Day%2081%20-%20(1886).py) |
+| 1594 | 1594. Maximum Non Negative Product in a Matrix | You are given a m x n matrix grid. Initially, you are located at the top-left corner (0, 0), and in each step, you ca... | [View Code](./2026/March/Day%2082%20-%20(1594).py) |
+| 2906 | 2906. Construct Product Matrix | Given a 0-indexed 2D integer matrix grid of size n * m, we define a 0-indexed 2D matrix p of size n * m as the produc... | [View Code](./2026/March/Day%2083%20-%20(2906).py) |
+| 3546 | 3546. Equal Sum Grid Partition I | You are given an m x n matrix grid of positive integers. Your task is to determine if it is possible to make either o... | [View Code](./2026/March/Day%2084%20-%20(3546).py) |
+| 3548 | 3548. Equal Sum Grid Partition II | You are given an m x n matrix grid of positive integers. Your task is to determine if it is possible to make either o... | [View Code](./2026/March/Day%2085%20-%20(3548).py) |
 
 </details>
 
