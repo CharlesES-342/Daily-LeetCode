@@ -1,6 +1,6 @@
 # 📖 LeetCode Journey 2026
 
-**Total Problems Solved: 85**
+**Total Problems Solved: 86**
 
 This repository automatically tracks my LeetCode progress using a custom Python scraper.
 
@@ -119,6 +119,7 @@ This repository automatically tracks my LeetCode progress using a custom Python 
 | 2906 | 2906. Construct Product Matrix | Given a 0-indexed 2D integer matrix grid of size n * m, we define a 0-indexed 2D matrix p of size n * m as the produc... | [View Code](./2026/March/Day%2083%20-%20(2906).py) |
 | 3546 | 3546. Equal Sum Grid Partition I | You are given an m x n matrix grid of positive integers. Your task is to determine if it is possible to make either o... | [View Code](./2026/March/Day%2084%20-%20(3546).py) |
 | 3548 | 3548. Equal Sum Grid Partition II | You are given an m x n matrix grid of positive integers. Your task is to determine if it is possible to make either o... | [View Code](./2026/March/Day%2085%20-%20(3548).py) |
+| 2946 | 2946. Matrix Similarity After Cyclic Shifts | You are given an m x n integer matrix mat and an integer k. The matrix rows are 0-indexed. The following proccess hap... | [View Code](./2026/March/Day%2086%20-%20(2946).py) |
 
 </details>
 
