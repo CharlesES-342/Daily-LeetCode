@@ -1,6 +1,6 @@
 # 📖 LeetCode Journey 2026
 
-**Total Problems Solved: 86**
+**Total Problems Solved: 87**
 
 This repository automatically tracks my LeetCode progress using a custom Python scraper.
 
@@ -120,6 +120,7 @@ This repository automatically tracks my LeetCode progress using a custom Python 
 | 3546 | 3546. Equal Sum Grid Partition I | You are given an m x n matrix grid of positive integers. Your task is to determine if it is possible to make either o... | [View Code](./2026/March/Day%2084%20-%20(3546).py) |
 | 3548 | 3548. Equal Sum Grid Partition II | You are given an m x n matrix grid of positive integers. Your task is to determine if it is possible to make either o... | [View Code](./2026/March/Day%2085%20-%20(3548).py) |
 | 2946 | 2946. Matrix Similarity After Cyclic Shifts | You are given an m x n integer matrix mat and an integer k. The matrix rows are 0-indexed. The following proccess hap... | [View Code](./2026/March/Day%2086%20-%20(2946).py) |
+| 2573 | 2573. Find the String with LCP | We define the lcp matrix of any 0-indexed string word of n lowercase English letters as an n x n grid such that: lcp[... | [View Code](./2026/March/Day%2087%20-%20(2573).py) |
 
 </details>
 
