@@ -36,7 +36,7 @@ class Solution(object):
         if n1 != n2:
             return False
 
-        #only need to check if the odds are teh same and if the evens are the
+        #only need to check if the odds are the same and if the evens are
         #   if the odds are not then it will never be possible (positions matter)
         #   if the evens are the same, then it could be possible (all posiitons are swappable)
         evens_match = sorted(s1[0::2]) == sorted(s2[0::2])
