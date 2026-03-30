@@ -1,6 +1,6 @@
 # 📖 LeetCode Journey 2026
 
-**Total Problems Solved: 88**
+**Total Problems Solved: 89**
 
 This repository automatically tracks my LeetCode progress using a custom Python scraper.
 
@@ -122,6 +122,7 @@ This repository automatically tracks my LeetCode progress using a custom Python 
 | 2946 | 2946. Matrix Similarity After Cyclic Shifts | You are given an m x n integer matrix mat and an integer k. The matrix rows are 0-indexed. The following proccess hap... | [View Code](./2026/March/Day%2086%20-%20(2946).py) |
 | 2573 | 2573. Find the String with LCP | We define the lcp matrix of any 0-indexed string word of n lowercase English letters as an n x n grid such that: lcp[... | [View Code](./2026/March/Day%2087%20-%20(2573).py) |
 | 2839 | 2839. Check if Strings Can be Made Equal With Operations I | You are given two strings s1 and s2, both of length 4, consisting of lowercase English letters. You can apply the fol... | [View Code](./2026/March/Day%2088%20-%20(2839).py) |
+| 2840 | 2840. Check if Strings Can be Made Equal With Operations II | You are given two strings s1 and s2, both of length n, consisting of lowercase English letters. You can apply the fol... | [View Code](./2026/March/Day%2089%20-%20(2840).py) |
 
 </details>
 
