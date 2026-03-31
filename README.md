@@ -1,6 +1,6 @@
 # 📖 LeetCode Journey 2026
 
-**Total Problems Solved: 89**
+**Total Problems Solved: 90**
 
 This repository automatically tracks my LeetCode progress using a custom Python scraper.
 
@@ -123,6 +123,7 @@ This repository automatically tracks my LeetCode progress using a custom Python 
 | 2573 | 2573. Find the String with LCP | We define the lcp matrix of any 0-indexed string word of n lowercase English letters as an n x n grid such that: lcp[... | [View Code](./2026/March/Day%2087%20-%20(2573).py) |
 | 2839 | 2839. Check if Strings Can be Made Equal With Operations I | You are given two strings s1 and s2, both of length 4, consisting of lowercase English letters. You can apply the fol... | [View Code](./2026/March/Day%2088%20-%20(2839).py) |
 | 2840 | 2840. Check if Strings Can be Made Equal With Operations II | You are given two strings s1 and s2, both of length n, consisting of lowercase English letters. You can apply the fol... | [View Code](./2026/March/Day%2089%20-%20(2840).py) |
+| 3474 | 3474. Lexicographically Smallest Generated String | You are given two strings, str1 and str2, of lengths n and m, respectively. A string word of length n + m - 1 is defi... | [View Code](./2026/March/Day%2090%20-(3474).py) |
 
 </details>
 
