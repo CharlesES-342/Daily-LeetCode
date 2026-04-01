@@ -1,11 +1,11 @@
 # 📖 LeetCode Journey 2026
 
-**Total Problems Solved: 90**
+**Total Problems Solved: 91**
 
 This repository automatically tracks my LeetCode progress using a custom Python scraper.
 
 ### 🔍 Quick Navigation
-[**January**](#-january) | [**February**](#-february) | [**March**](#-march) |
+[**January**](#-january) | [**February**](#-february) | [**March**](#-march) | [**April**](#-april) |
 ---
 
 ## 📅 January
@@ -88,7 +88,7 @@ This repository automatically tracks my LeetCode progress using a custom Python 
 
 ---
 ## 📅 March
-<details open>
+<details >
 <summary>Click to view March problems</summary>
 
 | ID | Problem Title | Description | Solution |
@@ -124,6 +124,17 @@ This repository automatically tracks my LeetCode progress using a custom Python 
 | 2839 | 2839. Check if Strings Can be Made Equal With Operations I | You are given two strings s1 and s2, both of length 4, consisting of lowercase English letters. You can apply the fol... | [View Code](./2026/March/Day%2088%20-%20(2839).py) |
 | 2840 | 2840. Check if Strings Can be Made Equal With Operations II | You are given two strings s1 and s2, both of length n, consisting of lowercase English letters. You can apply the fol... | [View Code](./2026/March/Day%2089%20-%20(2840).py) |
 | 3474 | 3474. Lexicographically Smallest Generated String | You are given two strings, str1 and str2, of lengths n and m, respectively. A string word of length n + m - 1 is defi... | [View Code](./2026/March/Day%2090%20-(3474).py) |
+
+</details>
+
+---
+## 📅 April
+<details open>
+<summary>Click to view April problems</summary>
+
+| ID | Problem Title | Description | Solution |
+| :--- | :--- | :--- | :--- |
+| N/A | 2751. Robot Collisions | There are n 1-indexed robots, each having a position on a line, health, and movement direction. You are given 0-index... | [View Code](./2026/April/Day%2091%20-%20().py) |
 
 </details>
 
