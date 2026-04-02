@@ -134,7 +134,7 @@ This repository automatically tracks my LeetCode progress using a custom Python 
 
 | ID | Problem Title | Description | Solution |
 | :--- | :--- | :--- | :--- |
-| N/A | 2751. Robot Collisions | There are n 1-indexed robots, each having a position on a line, health, and movement direction. You are given 0-index... | [View Code](./2026/April/Day%2091%20-%20().py) |
+| 2751 | 2751. Robot Collisions | There are n 1-indexed robots, each having a position on a line, health, and movement direction. You are given 0-index... | [View Code](./2026/April/Day%2091%20-%20(2751).py) |
 
 </details>
 
