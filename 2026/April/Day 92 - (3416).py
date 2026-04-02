@@ -89,5 +89,5 @@ class Solution(object):
         
 # I did not write the code becuase I simply could not be bothered, however I understood
 # all principles used becuase I asked for them secifically when prompting gemini.ai.
-# it returned something what was exactly as I wanted. I understood how to do the question,
+# It returned something that was exactly as I wanted. I understood how to do the question,
 # just couldnt be bothered thismorning :(
