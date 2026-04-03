@@ -115,7 +115,7 @@ class Solution(object):
 #   and the right destroying 5 (total 11) so that the next one can get the full 7 rather then the
 #   other choice of 1. Have to choose for the greater good.
 
-
+#I understand all ideas and principles, and propted it to head in this direction efficiently.
 
 from bisect import bisect_left, bisect_right
 
