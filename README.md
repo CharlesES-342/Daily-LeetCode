@@ -1,6 +1,6 @@
 # 📖 LeetCode Journey 2026
 
-**Total Problems Solved: 92**
+**Total Problems Solved: 93**
 
 This repository automatically tracks my LeetCode progress using a custom Python scraper.
 
@@ -136,6 +136,7 @@ This repository automatically tracks my LeetCode progress using a custom Python 
 | :--- | :--- | :--- | :--- |
 | 2751 | 2751. Robot Collisions | There are n 1-indexed robots, each having a position on a line, health, and movement direction. You are given 0-index... | [View Code](./2026/April/Day%2091%20-%20(2751).py) |
 | 3416 | 3418. Maximum Amount of Money Robot Can Earn | You are given an m x n grid. A robot starts at the top-left corner of the grid (0, 0) and wants to reach the bottom-r... | [View Code](./2026/April/Day%2092%20-%20(3416).py) |
+| 3661 | 3661. Maximum Walls Destroyed by Robots | There is an endless straight line populated with some robots and walls. You are given integer arrays robots, distance... | [View Code](./2026/April/Day%2093%20-%20(3661).py) |
 
 </details>
 
