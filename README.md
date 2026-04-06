@@ -1,6 +1,6 @@
 # 📖 LeetCode Journey 2026
 
-**Total Problems Solved: 95**
+**Total Problems Solved: 96**
 
 This repository automatically tracks my LeetCode progress using a custom Python scraper.
 
@@ -139,6 +139,7 @@ This repository automatically tracks my LeetCode progress using a custom Python 
 | 3661 | 3661. Maximum Walls Destroyed by Robots | There is an endless straight line populated with some robots and walls. You are given integer arrays robots, distance... | [View Code](./2026/April/Day%2093%20-%20(3661).py) |
 | 2075 | 2075. Decode the Slanted Ciphertext | A string originalText is encoded using a slanted transposition cipher to a string encodedText with the help of a matr... | [View Code](./2026/April/Day%2094%20-%20(2075).py) |
 | 657 | 657. Robot Return to Origin | There is a robot starting at the position (0, 0), the origin, on a 2D plane. Given a sequence of its moves, judge if ... | [View Code](./2026/April/Day%2095%20-%20(657).py) |
+| 874 | 874. Walking Robot Simulation | A robot on an infinite XY-plane starts at point (0, 0) facing north. The robot receives an array of integers commands... | [View Code](./2026/April/Day%2096%20-%20(874).py) |
 
 </details>
 
