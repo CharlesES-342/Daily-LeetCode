@@ -1,6 +1,6 @@
 # 📖 LeetCode Journey 2026
 
-**Total Problems Solved: 94**
+**Total Problems Solved: 95**
 
 This repository automatically tracks my LeetCode progress using a custom Python scraper.
 
@@ -138,6 +138,7 @@ This repository automatically tracks my LeetCode progress using a custom Python 
 | 3416 | 3418. Maximum Amount of Money Robot Can Earn | You are given an m x n grid. A robot starts at the top-left corner of the grid (0, 0) and wants to reach the bottom-r... | [View Code](./2026/April/Day%2092%20-%20(3416).py) |
 | 3661 | 3661. Maximum Walls Destroyed by Robots | There is an endless straight line populated with some robots and walls. You are given integer arrays robots, distance... | [View Code](./2026/April/Day%2093%20-%20(3661).py) |
 | 2075 | 2075. Decode the Slanted Ciphertext | A string originalText is encoded using a slanted transposition cipher to a string encodedText with the help of a matr... | [View Code](./2026/April/Day%2094%20-%20(2075).py) |
+| 657 | 657. Robot Return to Origin | There is a robot starting at the position (0, 0), the origin, on a 2D plane. Given a sequence of its moves, judge if ... | [View Code](./2026/April/Day%2095%20-%20(657).py) |
 
 </details>
 
