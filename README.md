@@ -1,6 +1,6 @@
 # 📖 LeetCode Journey 2026
 
-**Total Problems Solved: 98**
+**Total Problems Solved: 99**
 
 This repository automatically tracks my LeetCode progress using a custom Python scraper.
 
@@ -142,6 +142,7 @@ This repository automatically tracks my LeetCode progress using a custom Python 
 | 874 | 874. Walking Robot Simulation | A robot on an infinite XY-plane starts at point (0, 0) facing north. The robot receives an array of integers commands... | [View Code](./2026/April/Day%2096%20-%20(874).py) |
 | 2069 | 2069. Walking Robot Simulation II | A width x height grid is on an XY-plane with the bottom-left cell at (0, 0) and the top-right cell at (width - 1, hei... | [View Code](./2026/April/Day%2097%20-%20(2069).py) |
 | 3653 | 3653. XOR After Range Multiplication Queries I | You are given an integer array nums of length n and a 2D integer array queries of size q, where queries[i] = [li, ri,... | [View Code](./2026/April/Day%2098%20-(3653).py) |
+| 3655 | 3655. XOR After Range Multiplication Queries II | You are given an integer array nums of length n and a 2D integer array queries of size q, where queries[i] = [li, ri,... | [View Code](./2026/April/Day%2099%20-%20(3655).py) |
 
 </details>
 
