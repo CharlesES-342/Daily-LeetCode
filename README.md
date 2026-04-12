@@ -1,6 +1,6 @@
 # 📖 LeetCode Journey 2026
 
-**Total Problems Solved: 100**
+**Total Problems Solved: 101**
 
 This repository automatically tracks my LeetCode progress using a custom Python scraper.
 
@@ -144,6 +144,7 @@ This repository automatically tracks my LeetCode progress using a custom Python 
 | 3653 | 3653. XOR After Range Multiplication Queries I | You are given an integer array nums of length n and a 2D integer array queries of size q, where queries[i] = [li, ri,... | [View Code](./2026/April/Day%2098%20-(3653).py) |
 | 3655 | 3655. XOR After Range Multiplication Queries II | You are given an integer array nums of length n and a 2D integer array queries of size q, where queries[i] = [li, ri,... | [View Code](./2026/April/Day%2099%20-%20(3655).py) |
 | 3740 | 3740. Minimum Distance Between Three Equal Elements I | You are given an integer array nums. A tuple (i, j, k) of 3 distinct indices is good if nums[i] == nums[j] == nums[k]... | [View Code](./2026/April/Day%20100%20-%20(3740).py) |
+| 3741 | 3741. Minimum Distance Between Three Equal Elements II | You are given an integer array nums. A tuple (i, j, k) of 3 distinct indices is good if nums[i] == nums[j] == nums[k]... | [View Code](./2026/April/Day%20101%20-%20(3741).py) |
 
 </details>
 
