@@ -1,6 +1,6 @@
 # 📖 LeetCode Journey 2026
 
-**Total Problems Solved: 101**
+**Total Problems Solved: 102**
 
 This repository automatically tracks my LeetCode progress using a custom Python scraper.
 
@@ -145,6 +145,7 @@ This repository automatically tracks my LeetCode progress using a custom Python 
 | 3655 | 3655. XOR After Range Multiplication Queries II | You are given an integer array nums of length n and a 2D integer array queries of size q, where queries[i] = [li, ri,... | [View Code](./2026/April/Day%2099%20-%20(3655).py) |
 | 3740 | 3740. Minimum Distance Between Three Equal Elements I | You are given an integer array nums. A tuple (i, j, k) of 3 distinct indices is good if nums[i] == nums[j] == nums[k]... | [View Code](./2026/April/Day%20100%20-%20(3740).py) |
 | 3741 | 3741. Minimum Distance Between Three Equal Elements II | You are given an integer array nums. A tuple (i, j, k) of 3 distinct indices is good if nums[i] == nums[j] == nums[k]... | [View Code](./2026/April/Day%20101%20-%20(3741).py) |
+| 1320 | 1320. Minimum Distance to Type a Word Using Two Fingers | You have a keyboard layout as shown above in the X-Y plane, where each English uppercase letter is located at some co... | [View Code](./2026/April/Day%20102%20-%20(1320).py) |
 
 </details>
 
