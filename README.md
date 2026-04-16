@@ -1,6 +1,6 @@
 # 📖 LeetCode Journey 2026
 
-**Total Problems Solved: 104**
+**Total Problems Solved: 105**
 
 This repository automatically tracks my LeetCode progress using a custom Python scraper.
 
@@ -148,6 +148,7 @@ This repository automatically tracks my LeetCode progress using a custom Python 
 | 1320 | 1320. Minimum Distance to Type a Word Using Two Fingers | You have a keyboard layout as shown above in the X-Y plane, where each English uppercase letter is located at some co... | [View Code](./2026/April/Day%20102%20-%20(1320).py) |
 | 1848 | 1848. Minimum Distance to the Target Element | Given an integer array nums (0-indexed) and two integers target and start, find an index i such that nums[i] == targe... | [View Code](./2026/April/Day%20103%20-%20(1848).py) |
 | 2463 | 2463. Minimum Total Distance Traveled | There are some robots and factories on the X-axis. You are given an integer array robot where robot[i] is the positio... | [View Code](./2026/April/Day%20104%20-%20(2463).py) |
+| 2515 | 2515. Shortest Distance to Target String in a Circular Array | You are given a 0-indexed circular string array words and a string target. A circular array means that the array's en... | [View Code](./2026/April/Day%20105%20-%20(2515).py) |
 
 </details>
 
