@@ -1,6 +1,6 @@
 # 📖 LeetCode Journey 2026
 
-**Total Problems Solved: 106**
+**Total Problems Solved: 107**
 
 This repository automatically tracks my LeetCode progress using a custom Python scraper.
 
@@ -150,6 +150,7 @@ This repository automatically tracks my LeetCode progress using a custom Python 
 | 2463 | 2463. Minimum Total Distance Traveled | There are some robots and factories on the X-axis. You are given an integer array robot where robot[i] is the positio... | [View Code](./2026/April/Day%20104%20-%20(2463).py) |
 | 2515 | 2515. Shortest Distance to Target String in a Circular Array | You are given a 0-indexed circular string array words and a string target. A circular array means that the array's en... | [View Code](./2026/April/Day%20105%20-%20(2515).py) |
 | 3488 | 3488. Closest Equal Element Queries | You are given a circular array nums and an array queries. For each query i, you have to find the following: The minim... | [View Code](./2026/April/Day%20106%20-%20(3488).py) |
+| 3761 | 3761. Minimum Absolute Distance Between Mirror Pairs | You are given an integer array nums. A mirror pair is a pair of indices (i, j) such that: 0 <= i < j < nums.length, and | [View Code](./2026/April/Day%20107%20-%20(3761).py) |
 
 </details>
 
