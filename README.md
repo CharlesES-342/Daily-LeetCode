@@ -1,6 +1,6 @@
 # 📖 LeetCode Journey 2026
 
-**Total Problems Solved: 109**
+**Total Problems Solved: 110**
 
 This repository automatically tracks my LeetCode progress using a custom Python scraper.
 
@@ -153,6 +153,7 @@ This repository automatically tracks my LeetCode progress using a custom Python 
 | 3761 | 3761. Minimum Absolute Distance Between Mirror Pairs | You are given an integer array nums. A mirror pair is a pair of indices (i, j) such that: 0 <= i < j < nums.length, and | [View Code](./2026/April/Day%20107%20-%20(3761).py) |
 | 3783 | 3783. Mirror Distance of an Integer | You are given an integer n. Define its mirror distance as: abs(n - reverse(n))​​​​​​​ where reverse(n) is the integer... | [View Code](./2026/April/Day%20108%20-%20(3783).py) |
 | 1855 | 1855. Maximum Distance Between a Pair of Values | You are given two non-increasing 0-indexed integer arrays nums1​​​​​​ and nums2​​​​​​. A pair of indices (i, j), wher... | [View Code](./2026/April/Day%20109%20-%20(1855).py) |
+| 2078 | 2078. Two Furthest Houses With Different Colors | There are n houses evenly lined up on the street, and each house is beautifully painted. You are given a 0-indexed in... | [View Code](./2026/April/Day%20110%20-%20(2078).py) |
 
 </details>
 
