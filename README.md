@@ -1,6 +1,6 @@
 # 📖 LeetCode Journey 2026
 
-**Total Problems Solved: 108**
+**Total Problems Solved: 109**
 
 This repository automatically tracks my LeetCode progress using a custom Python scraper.
 
@@ -152,6 +152,7 @@ This repository automatically tracks my LeetCode progress using a custom Python 
 | 3488 | 3488. Closest Equal Element Queries | You are given a circular array nums and an array queries. For each query i, you have to find the following: The minim... | [View Code](./2026/April/Day%20106%20-%20(3488).py) |
 | 3761 | 3761. Minimum Absolute Distance Between Mirror Pairs | You are given an integer array nums. A mirror pair is a pair of indices (i, j) such that: 0 <= i < j < nums.length, and | [View Code](./2026/April/Day%20107%20-%20(3761).py) |
 | 3783 | 3783. Mirror Distance of an Integer | You are given an integer n. Define its mirror distance as: abs(n - reverse(n))​​​​​​​ where reverse(n) is the integer... | [View Code](./2026/April/Day%20108%20-%20(3783).py) |
+| 1855 | 1855. Maximum Distance Between a Pair of Values | You are given two non-increasing 0-indexed integer arrays nums1​​​​​​ and nums2​​​​​​. A pair of indices (i, j), wher... | [View Code](./2026/April/Day%20109%20-%20(1855).py) |
 
 </details>
 
