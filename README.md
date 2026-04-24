@@ -1,6 +1,6 @@
 # 📖 LeetCode Journey 2026
 
-**Total Problems Solved: 113**
+**Total Problems Solved: 114**
 
 This repository automatically tracks my LeetCode progress using a custom Python scraper.
 
@@ -157,6 +157,7 @@ This repository automatically tracks my LeetCode progress using a custom Python 
 | 1722 | 1722. Minimize Hamming Distance After Swap Operations | You are given two integer arrays, source and target, both of length n. You are also given an array allowedSwaps where... | [View Code](./2026/April/Day%20111%20-%20(1722).py) |
 | 2452 | 2452. Words Within Two Edits of Dictionary | You are given two string arrays, queries and dictionary. All words in each array comprise of lowercase English letter... | [View Code](./2026/April/Day%20112%20-%20(2452).py) |
 | 2651 | 2615. Sum of Distances | You are given a 0-indexed integer array nums. There exists an array arr of length nums.length, where arr[i] is the su... | [View Code](./2026/April/Day%20113%20-%20(2651).py) |
+| 2933 | 2833. Furthest Point From Origin | You are given a string moves of length n consisting only of characters 'L', 'R', and '_'. The string represents your ... | [View Code](./2026/April/Day%20114%20-%20(2933).py) |
 
 </details>
 
