@@ -161,7 +161,7 @@ This repository automatically tracks my LeetCode progress using a custom Python 
 | 3464 | 3464. Maximize the Distance Between Points on a Square | You are given an integer side, representing the edge length of a square with corners at (0, 0), (0, side), (side, 0),... | [View Code](./2026/April/Day%20115%20-%20(3464).py) |
 | 1559 | 1559. Detect Cycles in 2D Grid | Given a 2D array of characters grid of size m x n, you need to find if there exists any cycle consisting of the same ... | [View Code](./2026/April/Day%20116%20-%20(1559).py) |
 | 1391 | 1391. Check if There is a Valid Path in a Grid | You are given an m x n grid. Each cell of grid represents a street. The street of grid[i][j] can be: 1 which means a ... | [View Code](./2026/April/Day%20117%20-%20(1391).py) |
-| N/A | 2033. Minimum Operations to Make a Uni-Value Grid | You are given a 2D integer grid of size m x n and an integer x. In one operation, you can add x to or subtract x from... | [View Code](./2026/April/Day%20118%20-%20().py) |
+| 2033 | 2033. Minimum Operations to Make a Uni-Value Grid | You are given a 2D integer grid of size m x n and an integer x. In one operation, you can add x to or subtract x from... | [View Code](./2026/April/Day%20118%20-%20(2033).py) |
 
 </details>
 
