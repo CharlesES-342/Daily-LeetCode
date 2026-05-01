@@ -1,6 +1,6 @@
 # 📖 LeetCode Journey 2026
 
-**Total Problems Solved: 119**
+**Total Problems Solved: 120**
 
 This repository automatically tracks my LeetCode progress using a custom Python scraper.
 
@@ -163,6 +163,7 @@ This repository automatically tracks my LeetCode progress using a custom Python 
 | 1391 | 1391. Check if There is a Valid Path in a Grid | You are given an m x n grid. Each cell of grid represents a street. The street of grid[i][j] can be: 1 which means a ... | [View Code](./2026/April/Day%20117%20-%20(1391).py) |
 | 2033 | 2033. Minimum Operations to Make a Uni-Value Grid | You are given a 2D integer grid of size m x n and an integer x. In one operation, you can add x to or subtract x from... | [View Code](./2026/April/Day%20118%20-%20(2033).py) |
 | 3225 | 3225. Maximum Score From Grid Operations | You are given a 2D matrix grid of size n x n. Initially, all cells of the grid are colored white. In one operation, y... | [View Code](./2026/April/Day%20119%20-%20(3225).py) |
+| 3742 | 3742. Maximum Path Score in a Grid | You are given an m x n grid where each cell contains one of the values 0, 1, or 2. You are also given an integer k. Y... | [View Code](./2026/April/Day%20120%20-%20(3742).py) |
 
 </details>
 
