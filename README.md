@@ -1,11 +1,11 @@
 # 📖 LeetCode Journey 2026
 
-**Total Problems Solved: 120**
+**Total Problems Solved: 121**
 
 This repository automatically tracks my LeetCode progress using a custom Python scraper.
 
 ### 🔍 Quick Navigation
-[**January**](#-january) | [**February**](#-february) | [**March**](#-march) | [**April**](#-april) |
+[**January**](#-january) | [**February**](#-february) | [**March**](#-march) | [**April**](#-april) | [**May**](#-may) |
 ---
 
 ## 📅 January
@@ -129,7 +129,7 @@ This repository automatically tracks my LeetCode progress using a custom Python 
 
 ---
 ## 📅 April
-<details open>
+<details >
 <summary>Click to view April problems</summary>
 
 | ID | Problem Title | Description | Solution |
@@ -164,6 +164,17 @@ This repository automatically tracks my LeetCode progress using a custom Python 
 | 2033 | 2033. Minimum Operations to Make a Uni-Value Grid | You are given a 2D integer grid of size m x n and an integer x. In one operation, you can add x to or subtract x from... | [View Code](./2026/April/Day%20118%20-%20(2033).py) |
 | 3225 | 3225. Maximum Score From Grid Operations | You are given a 2D matrix grid of size n x n. Initially, all cells of the grid are colored white. In one operation, y... | [View Code](./2026/April/Day%20119%20-%20(3225).py) |
 | 3742 | 3742. Maximum Path Score in a Grid | You are given an m x n grid where each cell contains one of the values 0, 1, or 2. You are also given an integer k. Y... | [View Code](./2026/April/Day%20120%20-%20(3742).py) |
+
+</details>
+
+---
+## 📅 May
+<details open>
+<summary>Click to view May problems</summary>
+
+| ID | Problem Title | Description | Solution |
+| :--- | :--- | :--- | :--- |
+| 396 | 396. Rotate Function | You are given an integer array nums of length n. Assume arrk to be an array obtained by rotating nums by k positions ... | [View Code](./2026/May/Day%20121%20-%20(396).py) |
 
 </details>
 
