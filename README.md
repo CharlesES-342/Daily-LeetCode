@@ -1,6 +1,6 @@
 # 📖 LeetCode Journey 2026
 
-**Total Problems Solved: 121**
+**Total Problems Solved: 122**
 
 This repository automatically tracks my LeetCode progress using a custom Python scraper.
 
@@ -175,6 +175,7 @@ This repository automatically tracks my LeetCode progress using a custom Python 
 | ID | Problem Title | Description | Solution |
 | :--- | :--- | :--- | :--- |
 | 396 | 396. Rotate Function | You are given an integer array nums of length n. Assume arrk to be an array obtained by rotating nums by k positions ... | [View Code](./2026/May/Day%20121%20-%20(396).py) |
+| 788 | 788. Rotated Digits | An integer x is a good if after rotating each digit individually by 180 degrees, we get a valid number that is differ... | [View Code](./2026/May/Day%20122%20-%20(788).py) |
 
 </details>
 
