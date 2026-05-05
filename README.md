@@ -1,6 +1,6 @@
 # 📖 LeetCode Journey 2026
 
-**Total Problems Solved: 123**
+**Total Problems Solved: 124**
 
 This repository automatically tracks my LeetCode progress using a custom Python scraper.
 
@@ -174,6 +174,7 @@ This repository automatically tracks my LeetCode progress using a custom Python 
 
 | ID | Problem Title | Description | Solution |
 | :--- | :--- | :--- | :--- |
+| 48 | 48. Rotate Image | You are given an n x n 2D matrix representing an image, rotate the image by 90 degrees (clockwise). You have to rotat... | [View Code](./2026/May/Dat%20124%20-%20(48).py) |
 | 396 | 396. Rotate Function | You are given an integer array nums of length n. Assume arrk to be an array obtained by rotating nums by k positions ... | [View Code](./2026/May/Day%20121%20-%20(396).py) |
 | 788 | 788. Rotated Digits | An integer x is a good if after rotating each digit individually by 180 degrees, we get a valid number that is differ... | [View Code](./2026/May/Day%20122%20-%20(788).py) |
 | 796 | 796. Rotate String | Given two strings s and goal, return true if and only if s can become goal after some number of shifts on s. A shift ... | [View Code](./2026/May/Day%20123%20-%20(796).py) |
