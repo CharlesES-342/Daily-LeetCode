@@ -1,6 +1,6 @@
 # 📖 LeetCode Journey 2026
 
-**Total Problems Solved: 126**
+**Total Problems Solved: 127**
 
 This repository automatically tracks my LeetCode progress using a custom Python scraper.
 
@@ -180,6 +180,7 @@ This repository automatically tracks my LeetCode progress using a custom Python 
 | 48 | 48. Rotate Image | You are given an n x n 2D matrix representing an image, rotate the image by 90 degrees (clockwise). You have to rotat... | [View Code](./2026/May/Day%20124%20-%20(48).py) |
 | 61 | 61. Rotate List | Given the head of a linked list, rotate the list to the right by k places. Example 1: Input: head = [1,2,3,4,5], k = 2 | [View Code](./2026/May/Day%20125%20-%20(61).py) |
 | 1861 | 1861. Rotating the Box | You are given an m x n matrix of characters boxGrid representing a side-view of a box. Each cell of the box is one of... | [View Code](./2026/May/Day%20126%20-%20(1861).py) |
+| 3660 | 3660. Jump Game IX | You are given an integer array nums. From any index i, you can jump to another index j under the following rules: Jum... | [View Code](./2026/May/Day%20127%20-%20(3660).py) |
 
 </details>
 
