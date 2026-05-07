@@ -1,6 +1,6 @@
 # 📖 LeetCode Journey 2026
 
-**Total Problems Solved: 125**
+**Total Problems Solved: 126**
 
 This repository automatically tracks my LeetCode progress using a custom Python scraper.
 
@@ -179,6 +179,7 @@ This repository automatically tracks my LeetCode progress using a custom Python 
 | 796 | 796. Rotate String | Given two strings s and goal, return true if and only if s can become goal after some number of shifts on s. A shift ... | [View Code](./2026/May/Day%20123%20-%20(796).py) |
 | 48 | 48. Rotate Image | You are given an n x n 2D matrix representing an image, rotate the image by 90 degrees (clockwise). You have to rotat... | [View Code](./2026/May/Day%20124%20-%20(48).py) |
 | 61 | 61. Rotate List | Given the head of a linked list, rotate the list to the right by k places. Example 1: Input: head = [1,2,3,4,5], k = 2 | [View Code](./2026/May/Day%20125%20-%20(61).py) |
+| 1861 | 1861. Rotating the Box | You are given an m x n matrix of characters boxGrid representing a side-view of a box. Each cell of the box is one of... | [View Code](./2026/May/Day%20126%20-%20(1861).py) |
 
 </details>
 
