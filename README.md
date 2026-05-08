@@ -1,6 +1,6 @@
 # 📖 LeetCode Journey 2026
 
-**Total Problems Solved: 127**
+**Total Problems Solved: 128**
 
 This repository automatically tracks my LeetCode progress using a custom Python scraper.
 
@@ -181,6 +181,7 @@ This repository automatically tracks my LeetCode progress using a custom Python 
 | 61 | 61. Rotate List | Given the head of a linked list, rotate the list to the right by k places. Example 1: Input: head = [1,2,3,4,5], k = 2 | [View Code](./2026/May/Day%20125%20-%20(61).py) |
 | 1861 | 1861. Rotating the Box | You are given an m x n matrix of characters boxGrid representing a side-view of a box. Each cell of the box is one of... | [View Code](./2026/May/Day%20126%20-%20(1861).py) |
 | 3660 | 3660. Jump Game IX | You are given an integer array nums. From any index i, you can jump to another index j under the following rules: Jum... | [View Code](./2026/May/Day%20127%20-%20(3660).py) |
+| 3629 | 3629. Minimum Jumps to Reach End via Prime Teleportation | You are given an integer array nums of length n. You start at index 0, and your goal is to reach index n - 1. From an... | [View Code](./2026/May/Day%20128%20-%20(3629).py) |
 
 </details>
 
