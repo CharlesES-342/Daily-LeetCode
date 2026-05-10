@@ -1,6 +1,6 @@
 # 📖 LeetCode Journey 2026
 
-**Total Problems Solved: 128**
+**Total Problems Solved: 130**
 
 This repository automatically tracks my LeetCode progress using a custom Python scraper.
 
@@ -182,6 +182,8 @@ This repository automatically tracks my LeetCode progress using a custom Python 
 | 1861 | 1861. Rotating the Box | You are given an m x n matrix of characters boxGrid representing a side-view of a box. Each cell of the box is one of... | [View Code](./2026/May/Day%20126%20-%20(1861).py) |
 | 3660 | 3660. Jump Game IX | You are given an integer array nums. From any index i, you can jump to another index j under the following rules: Jum... | [View Code](./2026/May/Day%20127%20-%20(3660).py) |
 | 3629 | 3629. Minimum Jumps to Reach End via Prime Teleportation | You are given an integer array nums of length n. You start at index 0, and your goal is to reach index n - 1. From an... | [View Code](./2026/May/Day%20128%20-%20(3629).py) |
+| 1914 | 1914. Cyclically Rotating a Grid | You are given an m x n integer matrix grid​​​, where m and n are both even integers, and an integer k. The matrix is ... | [View Code](./2026/May/Day%20129%20-%20(1914).py) |
+| 2770 | 2770. Maximum Number of Jumps to Reach the Last Index | You are given a 0-indexed array nums of n integers and an integer target. You are initially positioned at index 0. In... | [View Code](./2026/May/Day%20130%20(2770).py) |
 
 </details>
 
