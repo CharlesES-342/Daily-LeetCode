@@ -1,6 +1,6 @@
 # 📖 LeetCode Journey 2026
 
-**Total Problems Solved: 130**
+**Total Problems Solved: 131**
 
 This repository automatically tracks my LeetCode progress using a custom Python scraper.
 
@@ -174,6 +174,7 @@ This repository automatically tracks my LeetCode progress using a custom Python 
 
 | ID | Problem Title | Description | Solution |
 | :--- | :--- | :--- | :--- |
+| 2553 | 2553. Separate the Digits in an Array | Given an array of positive integers nums, return an array answer that consists of the digits of each integer in nums ... | [View Code](./2026/May/Day131%20-%20(2553).py) |
 | 396 | 396. Rotate Function | You are given an integer array nums of length n. Assume arrk to be an array obtained by rotating nums by k positions ... | [View Code](./2026/May/Day%20121%20-%20(396).py) |
 | 788 | 788. Rotated Digits | An integer x is a good if after rotating each digit individually by 180 degrees, we get a valid number that is differ... | [View Code](./2026/May/Day%20122%20-%20(788).py) |
 | 796 | 796. Rotate String | Given two strings s and goal, return true if and only if s can become goal after some number of shifts on s. A shift ... | [View Code](./2026/May/Day%20123%20-%20(796).py) |
