@@ -1,6 +1,6 @@
 # 📖 LeetCode Journey 2026
 
-**Total Problems Solved: 131**
+**Total Problems Solved: 132**
 
 This repository automatically tracks my LeetCode progress using a custom Python scraper.
 
@@ -174,7 +174,6 @@ This repository automatically tracks my LeetCode progress using a custom Python 
 
 | ID | Problem Title | Description | Solution |
 | :--- | :--- | :--- | :--- |
-| 2553 | 2553. Separate the Digits in an Array | Given an array of positive integers nums, return an array answer that consists of the digits of each integer in nums ... | [View Code](./2026/May/Day131%20-%20(2553).py) |
 | 396 | 396. Rotate Function | You are given an integer array nums of length n. Assume arrk to be an array obtained by rotating nums by k positions ... | [View Code](./2026/May/Day%20121%20-%20(396).py) |
 | 788 | 788. Rotated Digits | An integer x is a good if after rotating each digit individually by 180 degrees, we get a valid number that is differ... | [View Code](./2026/May/Day%20122%20-%20(788).py) |
 | 796 | 796. Rotate String | Given two strings s and goal, return true if and only if s can become goal after some number of shifts on s. A shift ... | [View Code](./2026/May/Day%20123%20-%20(796).py) |
@@ -185,6 +184,8 @@ This repository automatically tracks my LeetCode progress using a custom Python 
 | 3629 | 3629. Minimum Jumps to Reach End via Prime Teleportation | You are given an integer array nums of length n. You start at index 0, and your goal is to reach index n - 1. From an... | [View Code](./2026/May/Day%20128%20-%20(3629).py) |
 | 1914 | 1914. Cyclically Rotating a Grid | You are given an m x n integer matrix grid​​​, where m and n are both even integers, and an integer k. The matrix is ... | [View Code](./2026/May/Day%20129%20-%20(1914).py) |
 | 2770 | 2770. Maximum Number of Jumps to Reach the Last Index | You are given a 0-indexed array nums of n integers and an integer target. You are initially positioned at index 0. In... | [View Code](./2026/May/Day%20130%20(2770).py) |
+| 2553 | 2553. Separate the Digits in an Array | Given an array of positive integers nums, return an array answer that consists of the digits of each integer in nums ... | [View Code](./2026/May/Day%20131%20-%20(2553).py) |
+| 1665 | 1665. Minimum Initial Energy to Finish Tasks | You are given an array tasks where tasks[i] = [actuali, minimumi]: actuali is the actual amount of energy you spend t... | [View Code](./2026/May/Day%20132%20-%20(1665).py) |
 
 </details>
 
