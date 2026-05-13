@@ -1,6 +1,6 @@
 # 📖 LeetCode Journey 2026
 
-**Total Problems Solved: 132**
+**Total Problems Solved: 133**
 
 This repository automatically tracks my LeetCode progress using a custom Python scraper.
 
@@ -186,6 +186,7 @@ This repository automatically tracks my LeetCode progress using a custom Python 
 | 2770 | 2770. Maximum Number of Jumps to Reach the Last Index | You are given a 0-indexed array nums of n integers and an integer target. You are initially positioned at index 0. In... | [View Code](./2026/May/Day%20130%20(2770).py) |
 | 2553 | 2553. Separate the Digits in an Array | Given an array of positive integers nums, return an array answer that consists of the digits of each integer in nums ... | [View Code](./2026/May/Day%20131%20-%20(2553).py) |
 | 1665 | 1665. Minimum Initial Energy to Finish Tasks | You are given an array tasks where tasks[i] = [actuali, minimumi]: actuali is the actual amount of energy you spend t... | [View Code](./2026/May/Day%20132%20-%20(1665).py) |
+| 1674 | 1674. Minimum Moves to Make Array Complementary | You are given an integer array nums of even length n and an integer limit. In one move, you can replace any integer f... | [View Code](./2026/May/Day%20133%20-%20(1674).py) |
 
 </details>
 
