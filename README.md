@@ -1,6 +1,6 @@
 # 📖 LeetCode Journey 2026
 
-**Total Problems Solved: 134**
+**Total Problems Solved: 135**
 
 This repository automatically tracks my LeetCode progress using a custom Python scraper.
 
@@ -188,6 +188,7 @@ This repository automatically tracks my LeetCode progress using a custom Python 
 | 1665 | 1665. Minimum Initial Energy to Finish Tasks | You are given an array tasks where tasks[i] = [actuali, minimumi]: actuali is the actual amount of energy you spend t... | [View Code](./2026/May/Day%20132%20-%20(1665).py) |
 | 1674 | 1674. Minimum Moves to Make Array Complementary | You are given an integer array nums of even length n and an integer limit. In one move, you can replace any integer f... | [View Code](./2026/May/Day%20133%20-%20(1674).py) |
 | 2784 | 2784. Check if Array is Good | You are given an integer array nums. We consider an array good if it is a permutation of an array base[n]. base[n] = ... | [View Code](./2026/May/Day%20134%20-%20(2784).py) |
+| 153 | 153. Find Minimum in Rotated Sorted Array | Suppose an array of length n sorted in ascending order is rotated between 1 and n times. For example, the array nums ... | [View Code](./2026/May/Day%20135%20-%20(153).py) |
 
 </details>
 
