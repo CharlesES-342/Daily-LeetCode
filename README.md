@@ -1,6 +1,6 @@
 # 📖 LeetCode Journey 2026
 
-**Total Problems Solved: 136**
+**Total Problems Solved: 137**
 
 This repository automatically tracks my LeetCode progress using a custom Python scraper.
 
@@ -190,6 +190,7 @@ This repository automatically tracks my LeetCode progress using a custom Python 
 | 2784 | 2784. Check if Array is Good | You are given an integer array nums. We consider an array good if it is a permutation of an array base[n]. base[n] = ... | [View Code](./2026/May/Day%20134%20-%20(2784).py) |
 | 153 | 153. Find Minimum in Rotated Sorted Array | Suppose an array of length n sorted in ascending order is rotated between 1 and n times. For example, the array nums ... | [View Code](./2026/May/Day%20135%20-%20(153).py) |
 | 154 | 154. Find Minimum in Rotated Sorted Array II | Suppose an array of length n sorted in ascending order is rotated between 1 and n times. For example, the array nums ... | [View Code](./2026/May/Day%20136%20-%20(154).py) |
+| 1306 | 1306. Jump Game III | Given an array of non-negative integers arr, you are initially positioned at start index of the array. When you are a... | [View Code](./2026/May/Day%20137%20-%20(1306).py) |
 
 </details>
 
