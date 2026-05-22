@@ -1,6 +1,6 @@
 # 📖 LeetCode Journey 2026
 
-**Total Problems Solved: 141**
+**Total Problems Solved: 142**
 
 This repository automatically tracks my LeetCode progress using a custom Python scraper.
 
@@ -195,6 +195,7 @@ This repository automatically tracks my LeetCode progress using a custom Python 
 | 2540 | 2540. Minimum Common Value | Given two integer arrays nums1 and nums2, sorted in non-decreasing order, return the minimum integer common to both a... | [View Code](./2026/May/Day%20139%20-%20(2540).py) |
 | 2657 | 2657. Find the Prefix Common Array of Two Arrays | You are given two 0-indexed integer permutations A and B of length n. A prefix common array of A and B is an array C ... | [View Code](./2026/May/Day%20140%20-%20(2657).py) |
 | 3043 | 3043. Find the Length of the Longest Common Prefix | You are given two arrays with positive integers arr1 and arr2. A prefix of a positive integer is an integer formed by... | [View Code](./2026/May/Day%20141%20-%20(3043).py) |
+| 33 | 33. Search in Rotated Sorted Array | There is an integer array nums sorted in ascending order (with distinct values). Prior to being passed to your functi... | [View Code](./2026/May/Day%20142%20-%20(33).py) |
 
 </details>
 
