@@ -1,6 +1,6 @@
 # 📖 LeetCode Journey 2026
 
-**Total Problems Solved: 142**
+**Total Problems Solved: 147**
 
 This repository automatically tracks my LeetCode progress using a custom Python scraper.
 
@@ -196,6 +196,11 @@ This repository automatically tracks my LeetCode progress using a custom Python 
 | 2657 | 2657. Find the Prefix Common Array of Two Arrays | You are given two 0-indexed integer permutations A and B of length n. A prefix common array of A and B is an array C ... | [View Code](./2026/May/Day%20140%20-%20(2657).py) |
 | 3043 | 3043. Find the Length of the Longest Common Prefix | You are given two arrays with positive integers arr1 and arr2. A prefix of a positive integer is an integer formed by... | [View Code](./2026/May/Day%20141%20-%20(3043).py) |
 | 33 | 33. Search in Rotated Sorted Array | There is an integer array nums sorted in ascending order (with distinct values). Prior to being passed to your functi... | [View Code](./2026/May/Day%20142%20-%20(33).py) |
+| 1752 | 1752. Check if Array Is Sorted and Rotated | Given an array nums, return true if the array was originally sorted in non-decreasing order, then rotated some number... | [View Code](./2026/May/Day%20143%20-%20(1752).py) |
+| 1340 | 1340. Jump Game V | Given an array of integers arr and an integer d. In one step you can jump from index i to index: i + x where: i + x <... | [View Code](./2026/May/Day%20144%20-%20(1340).py) |
+| 1871 | 1871. Jump Game VII | You are given a 0-indexed binary string s and two integers minJump and maxJump. In the beginning, you are standing at... | [View Code](./2026/May/Day%20145%20-%20(1871).py) |
+| 3120 | 3120. Count the Number of Special Characters I | You are given a string word. A letter is called special if it appears both in lowercase and uppercase in word. Return... | [View Code](./2026/May/Day%20146%20-%20(3120).py) |
+| 3121 | 3121. Count the Number of Special Characters II | You are given a string word. A letter c is called special if it appears both in lowercase and uppercase in word, and ... | [View Code](./2026/May/Day%20147%20-%20(3121).py) |
 
 </details>
 
