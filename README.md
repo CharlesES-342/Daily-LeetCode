@@ -1,6 +1,6 @@
 # 📖 LeetCode Journey 2026
 
-**Total Problems Solved: 147**
+**Total Problems Solved: 148**
 
 This repository automatically tracks my LeetCode progress using a custom Python scraper.
 
@@ -201,6 +201,7 @@ This repository automatically tracks my LeetCode progress using a custom Python 
 | 1871 | 1871. Jump Game VII | You are given a 0-indexed binary string s and two integers minJump and maxJump. In the beginning, you are standing at... | [View Code](./2026/May/Day%20145%20-%20(1871).py) |
 | 3120 | 3120. Count the Number of Special Characters I | You are given a string word. A letter is called special if it appears both in lowercase and uppercase in word. Return... | [View Code](./2026/May/Day%20146%20-%20(3120).py) |
 | 3121 | 3121. Count the Number of Special Characters II | You are given a string word. A letter c is called special if it appears both in lowercase and uppercase in word, and ... | [View Code](./2026/May/Day%20147%20-%20(3121).py) |
+| 3093 | 3093. Longest Common Suffix Queries | You are given two arrays of strings wordsContainer and wordsQuery. For each wordsQuery[i], you need to find a string ... | [View Code](./2026/May/Day%20148%20-%20(3093).py) |
 
 </details>
 
