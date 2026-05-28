@@ -8,19 +8,6 @@ This repository tracks my LeetCode progress across multiple years.
 [**2027**](#-year-2027) | [**2026**](#-year-2026)
 
 ---
-
-## 📅 Year 2027
-### January
-<details>
-<summary><b>📂 View January 2027 Progress (1 Problems)</b></summary>
-
-| ID | Problem Title | Description | Solution |
-| :--- | :--- | :--- | :--- |
-| `N/A` | **tester. 1234** | No description provided. | [View Code](./2027/January/test.py) |
-
-</details>
-
----
 ## 📅 Year 2026
 ### January
 <details>
