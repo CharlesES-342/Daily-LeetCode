@@ -5,7 +5,6 @@
 This repository tracks my LeetCode progress across multiple years.
 
 ### 🔍 Quick Navigation
-[**2027**](#-year-2027) | [**2026**](#-year-2026)
 
 ---
 ## 📅 Year 2026
