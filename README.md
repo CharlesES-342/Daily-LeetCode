@@ -5,8 +5,10 @@
 This repository tracks my LeetCode progress across multiple years.
 
 ### 🔍 Quick Navigation
+[**2026**](#-year-2026)
 
 ---
+
 ## 📅 Year 2026
 ### January
 <details>
@@ -166,7 +168,7 @@ This repository tracks my LeetCode progress across multiple years.
 
 ### May
 <details>
-<summary><b>📂 View May 2026 Progress (28 Problems)</b></summary>
+<summary><b>📂 View May 2026 Progress (29 Problems)</b></summary>
 
 | ID | Problem Title | Description | Solution |
 | :--- | :--- | :--- | :--- |
@@ -198,6 +200,7 @@ This repository tracks my LeetCode progress across multiple years.
 | `3120` | **3120. Count the Number of Special Characters I** | You are given a string word. A letter is called special if it appears both in lowercase and uppercase in word. Return... | [View Code](./2026/May/Day%20146%20-%20(3120).py) |
 | `3121` | **3121. Count the Number of Special Characters II** | You are given a string word. A letter c is called special if it appears both in lowercase and uppercase in word, and ... | [View Code](./2026/May/Day%20147%20-%20(3121).py) |
 | `3093` | **3093. Longest Common Suffix Queries** | You are given two arrays of strings wordsContainer and wordsQuery. For each wordsQuery[i], you need to find a string ... | [View Code](./2026/May/Day%20148%20-%20(3093).py) |
+| `3300` | **3300. Minimum Element After Replacement With Digit Sum** | You are given an integer array nums. You replace each element in nums with the sum of its digits. Return the minimum ... | [View Code](./2026/May/Day%20149%20-%20(3300).py) |
 
 </details>
 
