@@ -1,6 +1,6 @@
 # 📖 LeetCode Journey
 
-**🚀 Total Problems Solved: 151**
+**🚀 Total Problems Solved: 152**
 
 This repository tracks my LeetCode progress across multiple years.
 
@@ -203,6 +203,16 @@ This repository tracks my LeetCode progress across multiple years.
 | `3300` | **3300. Minimum Element After Replacement With Digit Sum** | You are given an integer array nums. You replace each element in nums with the sum of its digits. Return the minimum ... | [View Code](./2026/May/Day%20149%20-%20(3300).py) |
 | `3161` | **3161. Block Placement Queries** | There exists an infinite number line, with its origin at 0 and extending towards the positive x-axis. You are given a... | [View Code](./2026/May/Day%20150%20-%20(3161).py) |
 | `2126` | **2126. Destroying Asteroids** | You are given an integer mass, which represents the original mass of a planet. You are further given an integer array... | [View Code](./2026/May/Day%20151%20-%20(2126).py) |
+
+</details>
+
+### June
+<details>
+<summary><b>📂 View June 2026 Progress (1 Problems)</b></summary>
+
+| ID | Problem Title | Description | Solution |
+| :--- | :--- | :--- | :--- |
+| `2144` | **2144. Minimum Cost of Buying Candies With Discount** | A shop is selling candies at a discount. For every two candies sold, the shop gives a third candy for free. The custo... | [View Code](./2026/June/Day%20152%20-%20(2144).py) |
 
 </details>
 
