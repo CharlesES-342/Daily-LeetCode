@@ -1,6 +1,6 @@
 # 📖 LeetCode Journey
 
-**🚀 Total Problems Solved: 152**
+**🚀 Total Problems Solved: 153**
 
 This repository tracks my LeetCode progress across multiple years.
 
@@ -208,11 +208,12 @@ This repository tracks my LeetCode progress across multiple years.
 
 ### June
 <details>
-<summary><b>📂 View June 2026 Progress (1 Problems)</b></summary>
+<summary><b>📂 View June 2026 Progress (2 Problems)</b></summary>
 
 | ID | Problem Title | Description | Solution |
 | :--- | :--- | :--- | :--- |
 | `2144` | **2144. Minimum Cost of Buying Candies With Discount** | A shop is selling candies at a discount. For every two candies sold, the shop gives a third candy for free. The custo... | [View Code](./2026/June/Day%20152%20-%20(2144).py) |
+| `3633` | **3633. Earliest Finish Time for Land and Water Rides I** | You are given two categories of theme park attractions: land rides and water rides. Land rides landStartTime[i] – the... | [View Code](./2026/June/Day%20153%20-%20(3633).py) |
 
 </details>
 
