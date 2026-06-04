@@ -1,6 +1,6 @@
 # 📖 LeetCode Journey
 
-**🚀 Total Problems Solved: 154**
+**🚀 Total Problems Solved: 155**
 
 This repository tracks my LeetCode progress across multiple years.
 
@@ -208,13 +208,14 @@ This repository tracks my LeetCode progress across multiple years.
 
 ### June
 <details>
-<summary><b>📂 View June 2026 Progress (3 Problems)</b></summary>
+<summary><b>📂 View June 2026 Progress (4 Problems)</b></summary>
 
 | ID | Problem Title | Description | Solution |
 | :--- | :--- | :--- | :--- |
 | `2144` | **2144. Minimum Cost of Buying Candies With Discount** | A shop is selling candies at a discount. For every two candies sold, the shop gives a third candy for free. The custo... | [View Code](./2026/June/Day%20152%20-%20(2144).py) |
 | `3633` | **3633. Earliest Finish Time for Land and Water Rides I** | You are given two categories of theme park attractions: land rides and water rides. Land rides landStartTime[i] – the... | [View Code](./2026/June/Day%20153%20-%20(3633).py) |
 | `3635` | **3635. Earliest Finish Time for Land and Water Rides II** | You are given two categories of theme park attractions: land rides and water rides. Land rides landStartTime[i] – the... | [View Code](./2026/June/Day%20154%20-%20(3635).py) |
+| `3751` | **3751. Total Waviness of Numbers in Range I** | You are given two integers num1 and num2 representing an inclusive range [num1, num2]. The waviness of a number is de... | [View Code](./2026/June/Day%20155%20-%20(3751).py) |
 
 </details>
 
