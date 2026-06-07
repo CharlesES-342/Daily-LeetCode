@@ -1,6 +1,6 @@
 # 📖 LeetCode Journey
 
-**🚀 Total Problems Solved: 156**
+**🚀 Total Problems Solved: 157**
 
 This repository tracks my LeetCode progress across multiple years.
 
@@ -208,7 +208,7 @@ This repository tracks my LeetCode progress across multiple years.
 
 ### June
 <details>
-<summary><b>📂 View June 2026 Progress (5 Problems)</b></summary>
+<summary><b>📂 View June 2026 Progress (6 Problems)</b></summary>
 
 | ID | Problem Title | Description | Solution |
 | :--- | :--- | :--- | :--- |
@@ -217,6 +217,7 @@ This repository tracks my LeetCode progress across multiple years.
 | `3635` | **3635. Earliest Finish Time for Land and Water Rides II** | You are given two categories of theme park attractions: land rides and water rides. Land rides landStartTime[i] – the... | [View Code](./2026/June/Day%20154%20-%20(3635).py) |
 | `3751` | **3751. Total Waviness of Numbers in Range I** | You are given two integers num1 and num2 representing an inclusive range [num1, num2]. The waviness of a number is de... | [View Code](./2026/June/Day%20155%20-%20(3751).py) |
 | `3751` | **3753. Total Waviness of Numbers in Range II** | You are given two integers num1 and num2 representing an inclusive range [num1, num2]. The waviness of a number is de... | [View Code](./2026/June/Day%20156%20-%20(3751).py) |
+| `2574` | **2574. Left and Right Sum Differences** | You are given a 0-indexed integer array nums of size n. Define two arrays leftSum and rightSum where: leftSum[i] is t... | [View Code](./2026/June/Day%20157%20-%20(2574).py) |
 
 </details>
 
