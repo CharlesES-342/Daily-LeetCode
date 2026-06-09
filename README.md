@@ -1,6 +1,6 @@
 # 📖 LeetCode Journey
 
-**🚀 Total Problems Solved: 158**
+**🚀 Total Problems Solved: 159**
 
 This repository tracks my LeetCode progress across multiple years.
 
@@ -208,7 +208,7 @@ This repository tracks my LeetCode progress across multiple years.
 
 ### June
 <details>
-<summary><b>📂 View June 2026 Progress (7 Problems)</b></summary>
+<summary><b>📂 View June 2026 Progress (8 Problems)</b></summary>
 
 | ID | Problem Title | Description | Solution |
 | :--- | :--- | :--- | :--- |
@@ -219,6 +219,7 @@ This repository tracks my LeetCode progress across multiple years.
 | `3751` | **3753. Total Waviness of Numbers in Range II** | You are given two integers num1 and num2 representing an inclusive range [num1, num2]. The waviness of a number is de... | [View Code](./2026/June/Day%20156%20-%20(3751).py) |
 | `2574` | **2574. Left and Right Sum Differences** | You are given a 0-indexed integer array nums of size n. Define two arrays leftSum and rightSum where: leftSum[i] is t... | [View Code](./2026/June/Day%20157%20-%20(2574).py) |
 | `2196` | **2196. Create Binary Tree From Descriptions** | You are given a 2D integer array descriptions where descriptions[i] = [parenti, childi, isLefti] indicates that paren... | [View Code](./2026/June/Day%20158%20-%20(2196).py) |
+| `2161` | **2161. Partition Array According to Given Pivot** | You are given a 0-indexed integer array nums and an integer pivot. Rearrange nums such that the following conditions ... | [View Code](./2026/June/Day%20159%20-%20(2161).py) |
 
 </details>
 
