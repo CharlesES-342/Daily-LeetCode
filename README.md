@@ -1,6 +1,6 @@
 # 📖 LeetCode Journey
 
-**🚀 Total Problems Solved: 159**
+**🚀 Total Problems Solved: 160**
 
 This repository tracks my LeetCode progress across multiple years.
 
@@ -208,7 +208,7 @@ This repository tracks my LeetCode progress across multiple years.
 
 ### June
 <details>
-<summary><b>📂 View June 2026 Progress (8 Problems)</b></summary>
+<summary><b>📂 View June 2026 Progress (9 Problems)</b></summary>
 
 | ID | Problem Title | Description | Solution |
 | :--- | :--- | :--- | :--- |
@@ -220,6 +220,7 @@ This repository tracks my LeetCode progress across multiple years.
 | `2574` | **2574. Left and Right Sum Differences** | You are given a 0-indexed integer array nums of size n. Define two arrays leftSum and rightSum where: leftSum[i] is t... | [View Code](./2026/June/Day%20157%20-%20(2574).py) |
 | `2196` | **2196. Create Binary Tree From Descriptions** | You are given a 2D integer array descriptions where descriptions[i] = [parenti, childi, isLefti] indicates that paren... | [View Code](./2026/June/Day%20158%20-%20(2196).py) |
 | `2161` | **2161. Partition Array According to Given Pivot** | You are given a 0-indexed integer array nums and an integer pivot. Rearrange nums such that the following conditions ... | [View Code](./2026/June/Day%20159%20-%20(2161).py) |
+| `3689` | **3689. Maximum Total Subarray Value I** | You are given an integer array nums of length n and an integer k. You need to choose exactly k non-empty subarrays nu... | [View Code](./2026/June/Day%20160%20-%20(3689).py) |
 
 </details>
 
