@@ -1,6 +1,6 @@
 # 📖 LeetCode Journey
 
-**🚀 Total Problems Solved: 162**
+**🚀 Total Problems Solved: 163**
 
 This repository tracks my LeetCode progress across multiple years.
 
@@ -208,7 +208,7 @@ This repository tracks my LeetCode progress across multiple years.
 
 ### June
 <details>
-<summary><b>📂 View June 2026 Progress (11 Problems)</b></summary>
+<summary><b>📂 View June 2026 Progress (12 Problems)</b></summary>
 
 | ID | Problem Title | Description | Solution |
 | :--- | :--- | :--- | :--- |
@@ -223,6 +223,7 @@ This repository tracks my LeetCode progress across multiple years.
 | `3689` | **3689. Maximum Total Subarray Value I** | You are given an integer array nums of length n and an integer k. You need to choose exactly k non-empty subarrays nu... | [View Code](./2026/June/Day%20160%20-%20(3689).py) |
 | `3691` | **3691. Maximum Total Subarray Value II** | You are given an integer array nums of length n and an integer k. You must select exactly k distinct subarrays nums[l... | [View Code](./2026/June/Day%20161%20-%20(3691).py) |
 | `3558` | **3558. Number of Ways to Assign Edge Weights I** | There is an undirected tree with n nodes labeled from 1 to n, rooted at node 1. The tree is represented by a 2D integ... | [View Code](./2026/June/Day%20162%20-%20(3558).py) |
+| `3559` | **3559. Number of Ways to Assign Edge Weights II** | There is an undirected tree with n nodes labeled from 1 to n, rooted at node 1. The tree is represented by a 2D integ... | [View Code](./2026/June/Day%20163%20-%20(3559).py) |
 
 </details>
 
