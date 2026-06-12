@@ -132,4 +132,6 @@ class Solution(object):
     "binary lifting" and so didnt realise that the method was what it said.
     In heindsight, this is exactly how I would ave done it, with the increased efficiency from the Binary Lifting.
     With every other aspect being how I planned.
+    It was a nice addition to yesterday's problem, as despite the added complexity, many of the learnt stratacgies
+    could be carried over.
     '''
