@@ -1,6 +1,6 @@
 # 📖 LeetCode Journey
 
-**🚀 Total Problems Solved: 164**
+**🚀 Total Problems Solved: 165**
 
 This repository tracks my LeetCode progress across multiple years.
 
@@ -208,7 +208,7 @@ This repository tracks my LeetCode progress across multiple years.
 
 ### June
 <details>
-<summary><b>📂 View June 2026 Progress (13 Problems)</b></summary>
+<summary><b>📂 View June 2026 Progress (14 Problems)</b></summary>
 
 | ID | Problem Title | Description | Solution |
 | :--- | :--- | :--- | :--- |
@@ -225,6 +225,7 @@ This repository tracks my LeetCode progress across multiple years.
 | `3558` | **3558. Number of Ways to Assign Edge Weights I** | There is an undirected tree with n nodes labeled from 1 to n, rooted at node 1. The tree is represented by a 2D integ... | [View Code](./2026/June/Day%20162%20-%20(3558).py) |
 | `3559` | **3559. Number of Ways to Assign Edge Weights II** | There is an undirected tree with n nodes labeled from 1 to n, rooted at node 1. The tree is represented by a 2D integ... | [View Code](./2026/June/Day%20163%20-%20(3559).py) |
 | `3838` | **3838. Weighted Word Mapping** | You are given an array of strings words, where each string represents a word containing lowercase English letters. Yo... | [View Code](./2026/June/Day%20164%20-%20(3838).py) |
+| `2130` | **2130. Maximum Twin Sum of a Linked List** | In a linked list of size n, where n is even, the ith node (0-indexed) of the linked list is known as the twin of the ... | [View Code](./2026/June/Day%20165%20-%20(2130).py) |
 
 </details>
 
