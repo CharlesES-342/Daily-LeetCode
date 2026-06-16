@@ -1,6 +1,6 @@
 # 📖 LeetCode Journey
 
-**🚀 Total Problems Solved: 166**
+**🚀 Total Problems Solved: 167**
 
 This repository tracks my LeetCode progress across multiple years.
 
@@ -208,7 +208,7 @@ This repository tracks my LeetCode progress across multiple years.
 
 ### June
 <details>
-<summary><b>📂 View June 2026 Progress (15 Problems)</b></summary>
+<summary><b>📂 View June 2026 Progress (16 Problems)</b></summary>
 
 | ID | Problem Title | Description | Solution |
 | :--- | :--- | :--- | :--- |
@@ -227,6 +227,7 @@ This repository tracks my LeetCode progress across multiple years.
 | `3838` | **3838. Weighted Word Mapping** | You are given an array of strings words, where each string represents a word containing lowercase English letters. Yo... | [View Code](./2026/June/Day%20164%20-%20(3838).py) |
 | `2130` | **2130. Maximum Twin Sum of a Linked List** | In a linked list of size n, where n is even, the ith node (0-indexed) of the linked list is known as the twin of the ... | [View Code](./2026/June/Day%20165%20-%20(2130).py) |
 | `2095` | **2095. Delete the Middle Node of a Linked List** | You are given the head of a linked list. Delete the middle node, and return the head of the modified linked list. The... | [View Code](./2026/June/Day%20166%20-%20(2095).py) |
+| `3612` | **3612. Process String with Special Operations I** | You are given a string s consisting of lowercase English letters and the special characters: *, #, and %. Build a new... | [View Code](./2026/June/Day%20167%20-%20(3612).py) |
 
 </details>
 
