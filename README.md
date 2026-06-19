@@ -1,6 +1,6 @@
 # 📖 LeetCode Journey
 
-**🚀 Total Problems Solved: 168**
+**🚀 Total Problems Solved: 169**
 
 This repository tracks my LeetCode progress across multiple years.
 
@@ -208,7 +208,7 @@ This repository tracks my LeetCode progress across multiple years.
 
 ### June
 <details>
-<summary><b>📂 View June 2026 Progress (17 Problems)</b></summary>
+<summary><b>📂 View June 2026 Progress (18 Problems)</b></summary>
 
 | ID | Problem Title | Description | Solution |
 | :--- | :--- | :--- | :--- |
@@ -229,6 +229,7 @@ This repository tracks my LeetCode progress across multiple years.
 | `2095` | **2095. Delete the Middle Node of a Linked List** | You are given the head of a linked list. Delete the middle node, and return the head of the modified linked list. The... | [View Code](./2026/June/Day%20166%20-%20(2095).py) |
 | `3612` | **3612. Process String with Special Operations I** | You are given a string s consisting of lowercase English letters and the special characters: *, #, and %. Build a new... | [View Code](./2026/June/Day%20167%20-%20(3612).py) |
 | `3614` | **3614. Process String with Special Operations II** | You are given a string s consisting of lowercase English letters and the special characters: '*', '#', and '%'. You a... | [View Code](./2026/June/Day%20168%20-%20(3614).py) |
+| `1344` | **1344. Angle Between Hands of a Clock** | Given two numbers, hour and minutes, return the smaller angle (in degrees) formed between the hour and the minute han... | [View Code](./2026/June/Day%20169%20-%20(1344).py) |
 
 </details>
 
