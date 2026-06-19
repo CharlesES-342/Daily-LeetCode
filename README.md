@@ -1,6 +1,6 @@
 # 📖 LeetCode Journey
 
-**🚀 Total Problems Solved: 169**
+**🚀 Total Problems Solved: 170**
 
 This repository tracks my LeetCode progress across multiple years.
 
@@ -208,7 +208,7 @@ This repository tracks my LeetCode progress across multiple years.
 
 ### June
 <details>
-<summary><b>📂 View June 2026 Progress (18 Problems)</b></summary>
+<summary><b>📂 View June 2026 Progress (19 Problems)</b></summary>
 
 | ID | Problem Title | Description | Solution |
 | :--- | :--- | :--- | :--- |
@@ -230,6 +230,7 @@ This repository tracks my LeetCode progress across multiple years.
 | `3612` | **3612. Process String with Special Operations I** | You are given a string s consisting of lowercase English letters and the special characters: *, #, and %. Build a new... | [View Code](./2026/June/Day%20167%20-%20(3612).py) |
 | `3614` | **3614. Process String with Special Operations II** | You are given a string s consisting of lowercase English letters and the special characters: '*', '#', and '%'. You a... | [View Code](./2026/June/Day%20168%20-%20(3614).py) |
 | `1344` | **1344. Angle Between Hands of a Clock** | Given two numbers, hour and minutes, return the smaller angle (in degrees) formed between the hour and the minute han... | [View Code](./2026/June/Day%20169%20-%20(1344).py) |
+| `1732` | **1732. Find the Highest Altitude** | There is a biker going on a road trip. The road trip consists of n + 1 points at different altitudes. The biker start... | [View Code](./2026/June/Day%20170%20-%20(1732).py) |
 
 </details>
 
