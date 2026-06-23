@@ -1,6 +1,6 @@
 # 📖 LeetCode Journey
 
-**🚀 Total Problems Solved: 173**
+**🚀 Total Problems Solved: 174**
 
 This repository tracks my LeetCode progress across multiple years.
 
@@ -208,7 +208,7 @@ This repository tracks my LeetCode progress across multiple years.
 
 ### June
 <details>
-<summary><b>📂 View June 2026 Progress (22 Problems)</b></summary>
+<summary><b>📂 View June 2026 Progress (23 Problems)</b></summary>
 
 | ID | Problem Title | Description | Solution |
 | :--- | :--- | :--- | :--- |
@@ -234,6 +234,7 @@ This repository tracks my LeetCode progress across multiple years.
 | `1840` | **1840. Maximum Building Height** | You want to build n new buildings in a city. The new buildings will be built in a line and are labeled from 1 to n. H... | [View Code](./2026/June/Day%20171%20-%20(1840).py) |
 | `1833` | **1833. Maximum Ice Cream Bars** | It is a sweltering summer day, and a boy wants to buy some ice cream bars. At the store, there are n ice cream bars. ... | [View Code](./2026/June/Day%20172%20-%20(1833).py) |
 | `1189` | **1189. Maximum Number of Balloons** | Given a string text, you want to use the characters of text to form as many instances of the word "balloon" as possib... | [View Code](./2026/June/Day%20173%20-%20(1189).py) |
+| `3699` | **3699. Number of ZigZag Arrays I** | You are given three integers n, l, and r. A ZigZag array of length n is defined as follows: Each element lies in the ... | [View Code](./2026/June/Day%20174%20-%20(3699).py) |
 
 </details>
 
