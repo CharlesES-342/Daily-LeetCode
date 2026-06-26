@@ -1,6 +1,6 @@
 # 📖 LeetCode Journey
 
-**🚀 Total Problems Solved: 175**
+**🚀 Total Problems Solved: 176**
 
 This repository tracks my LeetCode progress across multiple years.
 
@@ -208,7 +208,7 @@ This repository tracks my LeetCode progress across multiple years.
 
 ### June
 <details>
-<summary><b>📂 View June 2026 Progress (24 Problems)</b></summary>
+<summary><b>📂 View June 2026 Progress (25 Problems)</b></summary>
 
 | ID | Problem Title | Description | Solution |
 | :--- | :--- | :--- | :--- |
@@ -236,6 +236,7 @@ This repository tracks my LeetCode progress across multiple years.
 | `1189` | **1189. Maximum Number of Balloons** | Given a string text, you want to use the characters of text to form as many instances of the word "balloon" as possib... | [View Code](./2026/June/Day%20173%20-%20(1189).py) |
 | `3699` | **3699. Number of ZigZag Arrays I** | You are given three integers n, l, and r. A ZigZag array of length n is defined as follows: Each element lies in the ... | [View Code](./2026/June/Day%20174%20-%20(3699).py) |
 | `3700` | **3700. Number of ZigZag Arrays II** | You are given three integers n, l, and r. A ZigZag array of length n is defined as follows: Each element lies in the ... | [View Code](./2026/June/Day%20175%20-%20(3700).py) |
+| `3737` | **3737. Count Subarrays With Majority Element I** | You are given an integer array nums and an integer target. Return the number of subarrays of nums in which target is ... | [View Code](./2026/June/Day%20176%20-%20(3737).py) |
 
 </details>
 
