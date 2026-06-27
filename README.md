@@ -1,6 +1,6 @@
 # 📖 LeetCode Journey
 
-**🚀 Total Problems Solved: 176**
+**🚀 Total Problems Solved: 177**
 
 This repository tracks my LeetCode progress across multiple years.
 
@@ -208,7 +208,7 @@ This repository tracks my LeetCode progress across multiple years.
 
 ### June
 <details>
-<summary><b>📂 View June 2026 Progress (25 Problems)</b></summary>
+<summary><b>📂 View June 2026 Progress (26 Problems)</b></summary>
 
 | ID | Problem Title | Description | Solution |
 | :--- | :--- | :--- | :--- |
@@ -237,6 +237,7 @@ This repository tracks my LeetCode progress across multiple years.
 | `3699` | **3699. Number of ZigZag Arrays I** | You are given three integers n, l, and r. A ZigZag array of length n is defined as follows: Each element lies in the ... | [View Code](./2026/June/Day%20174%20-%20(3699).py) |
 | `3700` | **3700. Number of ZigZag Arrays II** | You are given three integers n, l, and r. A ZigZag array of length n is defined as follows: Each element lies in the ... | [View Code](./2026/June/Day%20175%20-%20(3700).py) |
 | `3737` | **3737. Count Subarrays With Majority Element I** | You are given an integer array nums and an integer target. Return the number of subarrays of nums in which target is ... | [View Code](./2026/June/Day%20176%20-%20(3737).py) |
+| `3739` | **3739. Count Subarrays With Majority Element II** | You are given an integer array nums and an integer target. Return the number of subarrays of nums in which target is ... | [View Code](./2026/June/Day%20177%20-%20(3739).py) |
 
 </details>
 
