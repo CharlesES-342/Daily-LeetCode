@@ -1,6 +1,6 @@
 # 📖 LeetCode Journey
 
-**🚀 Total Problems Solved: 177**
+**🚀 Total Problems Solved: 178**
 
 This repository tracks my LeetCode progress across multiple years.
 
@@ -208,7 +208,7 @@ This repository tracks my LeetCode progress across multiple years.
 
 ### June
 <details>
-<summary><b>📂 View June 2026 Progress (26 Problems)</b></summary>
+<summary><b>📂 View June 2026 Progress (27 Problems)</b></summary>
 
 | ID | Problem Title | Description | Solution |
 | :--- | :--- | :--- | :--- |
@@ -238,6 +238,7 @@ This repository tracks my LeetCode progress across multiple years.
 | `3700` | **3700. Number of ZigZag Arrays II** | You are given three integers n, l, and r. A ZigZag array of length n is defined as follows: Each element lies in the ... | [View Code](./2026/June/Day%20175%20-%20(3700).py) |
 | `3737` | **3737. Count Subarrays With Majority Element I** | You are given an integer array nums and an integer target. Return the number of subarrays of nums in which target is ... | [View Code](./2026/June/Day%20176%20-%20(3737).py) |
 | `3739` | **3739. Count Subarrays With Majority Element II** | You are given an integer array nums and an integer target. Return the number of subarrays of nums in which target is ... | [View Code](./2026/June/Day%20177%20-%20(3739).py) |
+| `3020` | **3020. Find the Maximum Number of Elements in Subset** | You are given an array of positive integers nums. You need to select a subset of nums which satisfies the following c... | [View Code](./2026/June/Day%20178%20-%20(3020).py) |
 
 </details>
 
