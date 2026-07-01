@@ -1,6 +1,6 @@
 # 📖 LeetCode Journey
 
-**🚀 Total Problems Solved: 181**
+**🚀 Total Problems Solved: 182**
 
 This repository tracks my LeetCode progress across multiple years.
 
@@ -242,6 +242,16 @@ This repository tracks my LeetCode progress across multiple years.
 | `1846` | **1846. Maximum Element After Decreasing and Rearranging** | You are given an array of positive integers arr. Perform some operations (possibly none) on arr so that it satisfies ... | [View Code](./2026/June/Day%20179%20-%20(1846).py) |
 | `1967` | **1967. Number of Strings That Appear as Substrings in Word** | Given an array of strings patterns and a string word, return the number of strings in patterns that exist as a substr... | [View Code](./2026/June/Day%20180%20-%20(1967).py) |
 | `1358` | **1358. Number of Substrings Containing All Three Characters** | Given a string s consisting only of characters a, b and c. Return the number of substrings containing at least one oc... | [View Code](./2026/June/Day%20181%20-%20(1358).py) |
+
+</details>
+
+### July
+<details>
+<summary><b>📂 View July 2026 Progress (1 Problems)</b></summary>
+
+| ID | Problem Title | Description | Solution |
+| :--- | :--- | :--- | :--- |
+| `2812` | **2812. Find the Safest Path in a Grid** | You are given a 0-indexed 2D matrix grid of size n x n, where (r, c) represents: A cell containing a thief if grid[r]... | [View Code](./2026/July/Day%20182%20-%20(2812).py) |
 
 </details>
 
