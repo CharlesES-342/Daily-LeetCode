@@ -1,6 +1,6 @@
 # 📖 LeetCode Journey
 
-**🚀 Total Problems Solved: 180**
+**🚀 Total Problems Solved: 181**
 
 This repository tracks my LeetCode progress across multiple years.
 
@@ -208,7 +208,7 @@ This repository tracks my LeetCode progress across multiple years.
 
 ### June
 <details>
-<summary><b>📂 View June 2026 Progress (29 Problems)</b></summary>
+<summary><b>📂 View June 2026 Progress (30 Problems)</b></summary>
 
 | ID | Problem Title | Description | Solution |
 | :--- | :--- | :--- | :--- |
@@ -241,6 +241,7 @@ This repository tracks my LeetCode progress across multiple years.
 | `3020` | **3020. Find the Maximum Number of Elements in Subset** | You are given an array of positive integers nums. You need to select a subset of nums which satisfies the following c... | [View Code](./2026/June/Day%20178%20-%20(3020).py) |
 | `1846` | **1846. Maximum Element After Decreasing and Rearranging** | You are given an array of positive integers arr. Perform some operations (possibly none) on arr so that it satisfies ... | [View Code](./2026/June/Day%20179%20-%20(1846).py) |
 | `1967` | **1967. Number of Strings That Appear as Substrings in Word** | Given an array of strings patterns and a string word, return the number of strings in patterns that exist as a substr... | [View Code](./2026/June/Day%20180%20-%20(1967).py) |
+| `1358` | **1358. Number of Substrings Containing All Three Characters** | Given a string s consisting only of characters a, b and c. Return the number of substrings containing at least one oc... | [View Code](./2026/June/Day%20181%20-%20(1358).py) |
 
 </details>
 
