@@ -1,6 +1,6 @@
 # 📖 LeetCode Journey
 
-**🚀 Total Problems Solved: 182**
+**🚀 Total Problems Solved: 183**
 
 This repository tracks my LeetCode progress across multiple years.
 
@@ -247,11 +247,12 @@ This repository tracks my LeetCode progress across multiple years.
 
 ### July
 <details>
-<summary><b>📂 View July 2026 Progress (1 Problems)</b></summary>
+<summary><b>📂 View July 2026 Progress (2 Problems)</b></summary>
 
 | ID | Problem Title | Description | Solution |
 | :--- | :--- | :--- | :--- |
 | `2812` | **2812. Find the Safest Path in a Grid** | You are given a 0-indexed 2D matrix grid of size n x n, where (r, c) represents: A cell containing a thief if grid[r]... | [View Code](./2026/July/Day%20182%20-%20(2812).py) |
+| `3286` | **3286. Find a Safe Walk Through a Grid** | You are given an m x n binary matrix grid and an integer health. You start on the upper-left corner (0, 0) and would ... | [View Code](./2026/July/Day%20183%20-%20(3286).py) |
 
 </details>
 
