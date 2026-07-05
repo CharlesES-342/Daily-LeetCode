@@ -1,6 +1,6 @@
 # 📖 LeetCode Journey
 
-**🚀 Total Problems Solved: 185**
+**🚀 Total Problems Solved: 186**
 
 This repository tracks my LeetCode progress across multiple years.
 
@@ -247,7 +247,7 @@ This repository tracks my LeetCode progress across multiple years.
 
 ### July
 <details>
-<summary><b>📂 View July 2026 Progress (4 Problems)</b></summary>
+<summary><b>📂 View July 2026 Progress (5 Problems)</b></summary>
 
 | ID | Problem Title | Description | Solution |
 | :--- | :--- | :--- | :--- |
@@ -255,6 +255,7 @@ This repository tracks my LeetCode progress across multiple years.
 | `3286` | **3286. Find a Safe Walk Through a Grid** | You are given an m x n binary matrix grid and an integer health. You start on the upper-left corner (0, 0) and would ... | [View Code](./2026/July/Day%20183%20-%20(3286).py) |
 | `3620` | **'''** | No description provided. | [View Code](./2026/July/Day%20184%20-%20(3620).py) |
 | `2492` | **2492. Minimum Score of a Path Between Two Cities** | You are given a positive integer n representing n cities numbered from 1 to n. You are also given a 2D array roads wh... | [View Code](./2026/July/Day%20185%20-%20(2492).py) |
+| `1301` | **1301. Number of Paths with Max Score** | You are given a square board of characters. You can move on the board starting at the bottom right square marked with... | [View Code](./2026/July/Day%20186%20-%20(1301).py) |
 
 </details>
 
