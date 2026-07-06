@@ -1,8 +1,3 @@
-'''
-The Day that Bella was put down :(
-We miss you Bella
-'''
-
 # 3620. Network Recovery Pathways
 
 # You are given a directed acyclic graph of n nodes numbered from 0 to n − 1. This is represented by a 2D array edges of length m, where edges[i] = [ui, vi, costi] indicates a one‑way communication from node ui to node vi with a recovery cost of costi.
@@ -148,3 +143,10 @@ class Solution(object):
                 high = mid - 1 
                 
         return ans
+
+
+
+'''
+The Day that Bella was put down :(
+We miss you Bella
+'''
