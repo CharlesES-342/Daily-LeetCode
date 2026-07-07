@@ -1,6 +1,6 @@
 # 📖 LeetCode Journey
 
-**🚀 Total Problems Solved: 186**
+**🚀 Total Problems Solved: 187**
 
 This repository tracks my LeetCode progress across multiple years.
 
@@ -247,7 +247,7 @@ This repository tracks my LeetCode progress across multiple years.
 
 ### July
 <details>
-<summary><b>📂 View July 2026 Progress (5 Problems)</b></summary>
+<summary><b>📂 View July 2026 Progress (6 Problems)</b></summary>
 
 | ID | Problem Title | Description | Solution |
 | :--- | :--- | :--- | :--- |
@@ -256,6 +256,7 @@ This repository tracks my LeetCode progress across multiple years.
 | `3620` | **3620. Network Recovery Pathways** | You are given a directed acyclic graph of n nodes numbered from 0 to n − 1. This is represented by a 2D array edges o... | [View Code](./2026/July/Day%20184%20-%20(3620).py) |
 | `2492` | **2492. Minimum Score of a Path Between Two Cities** | You are given a positive integer n representing n cities numbered from 1 to n. You are also given a 2D array roads wh... | [View Code](./2026/July/Day%20185%20-%20(2492).py) |
 | `1301` | **1301. Number of Paths with Max Score** | You are given a square board of characters. You can move on the board starting at the bottom right square marked with... | [View Code](./2026/July/Day%20186%20-%20(1301).py) |
+| `1288` | **1288. Remove Covered Intervals** | Given an array intervals where intervals[i] = [li, ri] represent the interval [li, ri), remove all intervals that are... | [View Code](./2026/July/Day%20187%20-%20(1288).py) |
 
 </details>
 
