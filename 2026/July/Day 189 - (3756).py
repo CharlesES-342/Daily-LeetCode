@@ -54,6 +54,10 @@
 # queries[i] = [li, ri]
 # 0 <= li <= ri < m
 
+'''
+This approach seemed correct but resulted in a Time Limit Exceeded (TLE) error. The solution iterates through
+each query and processes the substring, which can be inefficient for large inputs.
+'''
 class Solution(object):
     def sumAndMultiply(self, s, queries):
         """
@@ -80,5 +84,58 @@ class Solution(object):
         ans = []
         for a, b in queries:
             ans.append(newVal(s[a:b+1]))
+            
+        return ans
+    
+
+
+
+'''With refined logic'''
+class Solution(object):
+    def sumAndMultiply(self, s, queries):
+        """
+        :type s: str
+        :type queries: List[List[int]]
+        :rtype: List[int]
+        """
+        MOD = 10**9 + 7
+        n = len(s)
+        
+        # Precompute powers of 10
+        pow10 = [1] * (n + 1)
+        for i in range(1, n + 1):
+            pow10[i] = (pow10[i-1] * 10) % MOD
+            
+        # Build Prefix arrays
+        pref_sum = [0] * (n + 1)
+        pref_num = [0] * (n + 1)
+        pref_nonzero = [0] * (n + 1) # Tracks the count of non-zero digits
+        
+        for i in range(n):
+            digit = int(s[i])
+            
+            # digit sum
+            pref_sum[i+1] = pref_sum[i] + digit
+            
+            if digit != 0:
+                pref_num[i+1] = (pref_num[i] * 10 + digit) % MOD
+                pref_nonzero[i+1] = pref_nonzero[i] + 1
+            else:
+                # If it's a 0, skip
+                pref_num[i+1] = pref_num[i]
+                pref_nonzero[i+1] = pref_nonzero[i]
+
+        # Process queries
+        ans = []
+        for a, b in queries:
+            range_sum = pref_sum[b+1] - pref_sum[a]
+            
+            # Find out exactly how many non-zero numbers are in this range
+            num_nonzero = pref_nonzero[b+1] - pref_nonzero[a]
+            
+            # Shift the left prefix value by only the amount of non-zero digits found
+            range_num = (pref_num[b+1] - (pref_num[a] * pow10[num_nonzero]) % MOD) % MOD
+            
+            ans.append((range_sum * range_num) % MOD)
             
         return ans
