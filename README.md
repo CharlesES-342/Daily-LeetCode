@@ -1,6 +1,6 @@
 # 📖 LeetCode Journey
 
-**🚀 Total Problems Solved: 187**
+**🚀 Total Problems Solved: 188**
 
 This repository tracks my LeetCode progress across multiple years.
 
@@ -247,7 +247,7 @@ This repository tracks my LeetCode progress across multiple years.
 
 ### July
 <details>
-<summary><b>📂 View July 2026 Progress (6 Problems)</b></summary>
+<summary><b>📂 View July 2026 Progress (7 Problems)</b></summary>
 
 | ID | Problem Title | Description | Solution |
 | :--- | :--- | :--- | :--- |
@@ -257,6 +257,7 @@ This repository tracks my LeetCode progress across multiple years.
 | `2492` | **2492. Minimum Score of a Path Between Two Cities** | You are given a positive integer n representing n cities numbered from 1 to n. You are also given a 2D array roads wh... | [View Code](./2026/July/Day%20185%20-%20(2492).py) |
 | `1301` | **1301. Number of Paths with Max Score** | You are given a square board of characters. You can move on the board starting at the bottom right square marked with... | [View Code](./2026/July/Day%20186%20-%20(1301).py) |
 | `1288` | **1288. Remove Covered Intervals** | Given an array intervals where intervals[i] = [li, ri] represent the interval [li, ri), remove all intervals that are... | [View Code](./2026/July/Day%20187%20-%20(1288).py) |
+| `3754` | **3754. Concatenate Non-Zero Digits and Multiply by Sum I** | You are given an integer n. Form a new integer x by concatenating all the non-zero digits of n in their original orde... | [View Code](./2026/July/Day%20188%20-%20(3754).py) |
 
 </details>
 
