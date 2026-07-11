@@ -1,6 +1,6 @@
 # 📖 LeetCode Journey
 
-**🚀 Total Problems Solved: 190**
+**🚀 Total Problems Solved: 191**
 
 This repository tracks my LeetCode progress across multiple years.
 
@@ -247,7 +247,7 @@ This repository tracks my LeetCode progress across multiple years.
 
 ### July
 <details>
-<summary><b>📂 View July 2026 Progress (9 Problems)</b></summary>
+<summary><b>📂 View July 2026 Progress (10 Problems)</b></summary>
 
 | ID | Problem Title | Description | Solution |
 | :--- | :--- | :--- | :--- |
@@ -260,6 +260,7 @@ This repository tracks my LeetCode progress across multiple years.
 | `3754` | **3754. Concatenate Non-Zero Digits and Multiply by Sum I** | You are given an integer n. Form a new integer x by concatenating all the non-zero digits of n in their original orde... | [View Code](./2026/July/Day%20188%20-%20(3754).py) |
 | `3756` | **3756. Concatenate Non-Zero Digits and Multiply by Sum II** | You are given a string s of length m consisting of digits. You are also given a 2D integer array queries, where queri... | [View Code](./2026/July/Day%20189%20-%20(3756).py) |
 | `3532` | **3532. Path Existence Queries in a Graph I** | You are given an integer n representing the number of nodes in a graph, labeled from 0 to n - 1. You are also given a... | [View Code](./2026/July/Day%20190%20-%20(3532).py) |
+| `3534` | **3534. Path Existence Queries in a Graph II** | You are given an integer n representing the number of nodes in a graph, labeled from 0 to n - 1. You are also given a... | [View Code](./2026/July/Day%20191%20-%20(3534).py) |
 
 </details>
 
