@@ -1,6 +1,6 @@
 # 📖 LeetCode Journey
 
-**🚀 Total Problems Solved: 192**
+**🚀 Total Problems Solved: 193**
 
 This repository tracks my LeetCode progress across multiple years.
 
@@ -247,7 +247,7 @@ This repository tracks my LeetCode progress across multiple years.
 
 ### July
 <details>
-<summary><b>📂 View July 2026 Progress (11 Problems)</b></summary>
+<summary><b>📂 View July 2026 Progress (12 Problems)</b></summary>
 
 | ID | Problem Title | Description | Solution |
 | :--- | :--- | :--- | :--- |
@@ -262,6 +262,7 @@ This repository tracks my LeetCode progress across multiple years.
 | `3532` | **3532. Path Existence Queries in a Graph I** | You are given an integer n representing the number of nodes in a graph, labeled from 0 to n - 1. You are also given a... | [View Code](./2026/July/Day%20190%20-%20(3532).py) |
 | `3534` | **3534. Path Existence Queries in a Graph II** | You are given an integer n representing the number of nodes in a graph, labeled from 0 to n - 1. You are also given a... | [View Code](./2026/July/Day%20191%20-%20(3534).py) |
 | `2685` | **2685. Count the Number of Complete Components** | You are given an integer n. There is an undirected graph with n vertices, numbered from 0 to n - 1. You are given a 2... | [View Code](./2026/July/Day%20192%20-%20(2685).py) |
+| `1331` | **1331. Rank Transform of an Array** | Given an array of integers arr, replace each element with its rank. The rank represents how large the element is. The... | [View Code](./2026/July/Day%20193%20-%20(1331).py) |
 
 </details>
 
