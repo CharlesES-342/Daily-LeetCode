@@ -1,6 +1,6 @@
 # 📖 LeetCode Journey
 
-**🚀 Total Problems Solved: 164**
+**🚀 Total Problems Solved: 165**
 
 This repository tracks my LeetCode progress across multiple years.
 
@@ -208,7 +208,7 @@ This repository tracks my LeetCode progress across multiple years.
 
 ### July
 <details>
-<summary><b>📂 View July 2026 Progress (13 Problems)</b></summary>
+<summary><b>📂 View July 2026 Progress (14 Problems)</b></summary>
 
 | ID | Problem Title | Description | Solution |
 | :--- | :--- | :--- | :--- |
@@ -225,6 +225,7 @@ This repository tracks my LeetCode progress across multiple years.
 | `2685` | **2685. Count the Number of Complete Components** | You are given an integer n. There is an undirected graph with n vertices, numbered from 0 to n - 1. You are given a 2... | [View Code](./2026/July/Day%20192%20-%20(2685).py) |
 | `1331` | **1331. Rank Transform of an Array** | Given an array of integers arr, replace each element with its rank. The rank represents how large the element is. The... | [View Code](./2026/July/Day%20193%20-%20(1331).py) |
 | `1291` | **1291. Sequential Digits** | An integer has sequential digits if and only if each digit in the number is one more than the previous digit. Return ... | [View Code](./2026/July/Day%20194%20-%20(1291).py) |
+| `3336` | **3336. Find the Number of Subsequences With Equal GCD** | You are given an integer array nums. Your task is to find the number of pairs of non-empty subsequences (seq1, seq2) ... | [View Code](./2026/July/Day%20195%20-%20(3336).py) |
 
 </details>
 
