@@ -1,6 +1,6 @@
 # 📖 LeetCode Journey
 
-**🚀 Total Problems Solved: 166**
+**🚀 Total Problems Solved: 197**
 
 This repository tracks my LeetCode progress across multiple years.
 
@@ -206,9 +206,48 @@ This repository tracks my LeetCode progress across multiple years.
 
 </details>
 
+### June
+<details>
+<summary><b>📂 View June 2026 Progress (30 Problems)</b></summary>
+
+| ID | Problem Title | Description | Solution |
+| :--- | :--- | :--- | :--- |
+| `2144` | **2144. Minimum Cost of Buying Candies With Discount** | A shop is selling candies at a discount. For every two candies sold, the shop gives a third candy for free. The custo... | [View Code](./2026/June/Day%20152%20-%20(2144).py) |
+| `3633` | **3633. Earliest Finish Time for Land and Water Rides I** | You are given two categories of theme park attractions: land rides and water rides. Land rides landStartTime[i] – the... | [View Code](./2026/June/Day%20153%20-%20(3633).py) |
+| `3635` | **3635. Earliest Finish Time for Land and Water Rides II** | You are given two categories of theme park attractions: land rides and water rides. Land rides landStartTime[i] – the... | [View Code](./2026/June/Day%20154%20-%20(3635).py) |
+| `3751` | **3751. Total Waviness of Numbers in Range I** | You are given two integers num1 and num2 representing an inclusive range [num1, num2]. The waviness of a number is de... | [View Code](./2026/June/Day%20155%20-%20(3751).py) |
+| `3751` | **3753. Total Waviness of Numbers in Range II** | You are given two integers num1 and num2 representing an inclusive range [num1, num2]. The waviness of a number is de... | [View Code](./2026/June/Day%20156%20-%20(3751).py) |
+| `2574` | **2574. Left and Right Sum Differences** | You are given a 0-indexed integer array nums of size n. Define two arrays leftSum and rightSum where: leftSum[i] is t... | [View Code](./2026/June/Day%20157%20-%20(2574).py) |
+| `2196` | **2196. Create Binary Tree From Descriptions** | You are given a 2D integer array descriptions where descriptions[i] = [parenti, childi, isLefti] indicates that paren... | [View Code](./2026/June/Day%20158%20-%20(2196).py) |
+| `2161` | **2161. Partition Array According to Given Pivot** | You are given a 0-indexed integer array nums and an integer pivot. Rearrange nums such that the following conditions ... | [View Code](./2026/June/Day%20159%20-%20(2161).py) |
+| `3689` | **3689. Maximum Total Subarray Value I** | You are given an integer array nums of length n and an integer k. You need to choose exactly k non-empty subarrays nu... | [View Code](./2026/June/Day%20160%20-%20(3689).py) |
+| `3691` | **3691. Maximum Total Subarray Value II** | You are given an integer array nums of length n and an integer k. You must select exactly k distinct subarrays nums[l... | [View Code](./2026/June/Day%20161%20-%20(3691).py) |
+| `3558` | **3558. Number of Ways to Assign Edge Weights I** | There is an undirected tree with n nodes labeled from 1 to n, rooted at node 1. The tree is represented by a 2D integ... | [View Code](./2026/June/Day%20162%20-%20(3558).py) |
+| `3559` | **3559. Number of Ways to Assign Edge Weights II** | There is an undirected tree with n nodes labeled from 1 to n, rooted at node 1. The tree is represented by a 2D integ... | [View Code](./2026/June/Day%20163%20-%20(3559).py) |
+| `3838` | **3838. Weighted Word Mapping** | You are given an array of strings words, where each string represents a word containing lowercase English letters. Yo... | [View Code](./2026/June/Day%20164%20-%20(3838).py) |
+| `2130` | **2130. Maximum Twin Sum of a Linked List** | In a linked list of size n, where n is even, the ith node (0-indexed) of the linked list is known as the twin of the ... | [View Code](./2026/June/Day%20165%20-%20(2130).py) |
+| `2095` | **2095. Delete the Middle Node of a Linked List** | You are given the head of a linked list. Delete the middle node, and return the head of the modified linked list. The... | [View Code](./2026/June/Day%20166%20-%20(2095).py) |
+| `3612` | **3612. Process String with Special Operations I** | You are given a string s consisting of lowercase English letters and the special characters: *, #, and %. Build a new... | [View Code](./2026/June/Day%20167%20-%20(3612).py) |
+| `3614` | **3614. Process String with Special Operations II** | You are given a string s consisting of lowercase English letters and the special characters: '*', '#', and '%'. You a... | [View Code](./2026/June/Day%20168%20-%20(3614).py) |
+| `1344` | **1344. Angle Between Hands of a Clock** | Given two numbers, hour and minutes, return the smaller angle (in degrees) formed between the hour and the minute han... | [View Code](./2026/June/Day%20169%20-%20(1344).py) |
+| `1732` | **1732. Find the Highest Altitude** | There is a biker going on a road trip. The road trip consists of n + 1 points at different altitudes. The biker start... | [View Code](./2026/June/Day%20170%20-%20(1732).py) |
+| `1840` | **1840. Maximum Building Height** | You want to build n new buildings in a city. The new buildings will be built in a line and are labeled from 1 to n. H... | [View Code](./2026/June/Day%20171%20-%20(1840).py) |
+| `1833` | **1833. Maximum Ice Cream Bars** | It is a sweltering summer day, and a boy wants to buy some ice cream bars. At the store, there are n ice cream bars. ... | [View Code](./2026/June/Day%20172%20-%20(1833).py) |
+| `1189` | **1189. Maximum Number of Balloons** | Given a string text, you want to use the characters of text to form as many instances of the word "balloon" as possib... | [View Code](./2026/June/Day%20173%20-%20(1189).py) |
+| `3699` | **3699. Number of ZigZag Arrays I** | You are given three integers n, l, and r. A ZigZag array of length n is defined as follows: Each element lies in the ... | [View Code](./2026/June/Day%20174%20-%20(3699).py) |
+| `3700` | **3700. Number of ZigZag Arrays II** | You are given three integers n, l, and r. A ZigZag array of length n is defined as follows: Each element lies in the ... | [View Code](./2026/June/Day%20175%20-%20(3700).py) |
+| `3737` | **3737. Count Subarrays With Majority Element I** | You are given an integer array nums and an integer target. Return the number of subarrays of nums in which target is ... | [View Code](./2026/June/Day%20176%20-%20(3737).py) |
+| `3739` | **3739. Count Subarrays With Majority Element II** | You are given an integer array nums and an integer target. Return the number of subarrays of nums in which target is ... | [View Code](./2026/June/Day%20177%20-%20(3739).py) |
+| `3020` | **3020. Find the Maximum Number of Elements in Subset** | You are given an array of positive integers nums. You need to select a subset of nums which satisfies the following c... | [View Code](./2026/June/Day%20178%20-%20(3020).py) |
+| `1846` | **1846. Maximum Element After Decreasing and Rearranging** | You are given an array of positive integers arr. Perform some operations (possibly none) on arr so that it satisfies ... | [View Code](./2026/June/Day%20179%20-%20(1846).py) |
+| `1967` | **1967. Number of Strings That Appear as Substrings in Word** | Given an array of strings patterns and a string word, return the number of strings in patterns that exist as a substr... | [View Code](./2026/June/Day%20180%20-%20(1967).py) |
+| `1358` | **1358. Number of Substrings Containing All Three Characters** | Given a string s consisting only of characters a, b and c. Return the number of substrings containing at least one oc... | [View Code](./2026/June/Day%20181%20-%20(1358).py) |
+
+</details>
+
 ### July
 <details>
-<summary><b>📂 View July 2026 Progress (15 Problems)</b></summary>
+<summary><b>📂 View July 2026 Progress (16 Problems)</b></summary>
 
 | ID | Problem Title | Description | Solution |
 | :--- | :--- | :--- | :--- |
@@ -227,6 +266,7 @@ This repository tracks my LeetCode progress across multiple years.
 | `1291` | **1291. Sequential Digits** | An integer has sequential digits if and only if each digit in the number is one more than the previous digit. Return ... | [View Code](./2026/July/Day%20194%20-%20(1291).py) |
 | `3336` | **3336. Find the Number of Subsequences With Equal GCD** | You are given an integer array nums. Your task is to find the number of pairs of non-empty subsequences (seq1, seq2) ... | [View Code](./2026/July/Day%20195%20-%20(3336).py) |
 | `3658` | **3658. GCD of Odd and Even Sums** | You are given an integer n. Your task is to compute the GCD (greatest common divisor) of two values: sumOdd: the sum ... | [View Code](./2026/July/Day%20196%20-%20(3658).py) |
+| `3867` | **3867. Sum of GCD of Formed Pairs** | You are given an integer array nums of length n. Construct an array prefixGcd where for each index i: Let mxi = max(n... | [View Code](./2026/July/Day%20197%20-%20(3867).py) |
 
 </details>
 
