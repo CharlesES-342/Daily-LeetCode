@@ -1,6 +1,6 @@
 # 📖 LeetCode Journey
 
-**🚀 Total Problems Solved: 197**
+**🚀 Total Problems Solved: 198**
 
 This repository tracks my LeetCode progress across multiple years.
 
@@ -247,7 +247,7 @@ This repository tracks my LeetCode progress across multiple years.
 
 ### July
 <details>
-<summary><b>📂 View July 2026 Progress (16 Problems)</b></summary>
+<summary><b>📂 View July 2026 Progress (17 Problems)</b></summary>
 
 | ID | Problem Title | Description | Solution |
 | :--- | :--- | :--- | :--- |
@@ -267,6 +267,7 @@ This repository tracks my LeetCode progress across multiple years.
 | `3336` | **3336. Find the Number of Subsequences With Equal GCD** | You are given an integer array nums. Your task is to find the number of pairs of non-empty subsequences (seq1, seq2) ... | [View Code](./2026/July/Day%20195%20-%20(3336).py) |
 | `3658` | **3658. GCD of Odd and Even Sums** | You are given an integer n. Your task is to compute the GCD (greatest common divisor) of two values: sumOdd: the sum ... | [View Code](./2026/July/Day%20196%20-%20(3658).py) |
 | `3867` | **3867. Sum of GCD of Formed Pairs** | You are given an integer array nums of length n. Construct an array prefixGcd where for each index i: Let mxi = max(n... | [View Code](./2026/July/Day%20197%20-%20(3867).py) |
+| `3312` | **3312. Sorted GCD Pair Queries** | You are given an integer array nums of length n and an integer array queries. Let gcdPairs denote an array obtained b... | [View Code](./2026/July/Day%20198%20-%20(3312).py) |
 
 </details>
 
