@@ -1,6 +1,6 @@
 # 📖 LeetCode Journey
 
-**🚀 Total Problems Solved: 199**
+**🚀 Total Problems Solved: 200**
 
 This repository tracks my LeetCode progress across multiple years.
 
@@ -247,7 +247,7 @@ This repository tracks my LeetCode progress across multiple years.
 
 ### July
 <details>
-<summary><b>📂 View July 2026 Progress (18 Problems)</b></summary>
+<summary><b>📂 View July 2026 Progress (19 Problems)</b></summary>
 
 | ID | Problem Title | Description | Solution |
 | :--- | :--- | :--- | :--- |
@@ -269,6 +269,7 @@ This repository tracks my LeetCode progress across multiple years.
 | `3867` | **3867. Sum of GCD of Formed Pairs** | You are given an integer array nums of length n. Construct an array prefixGcd where for each index i: Let mxi = max(n... | [View Code](./2026/July/Day%20197%20-%20(3867).py) |
 | `3312` | **3312. Sorted GCD Pair Queries** | You are given an integer array nums of length n and an integer array queries. Let gcdPairs denote an array obtained b... | [View Code](./2026/July/Day%20198%20-%20(3312).py) |
 | `1979` | **1979. Find Greatest Common Divisor of Array** | Given an integer array nums, return the greatest common divisor of the smallest number and largest number in nums. Th... | [View Code](./2026/July/Day%20199%20-%20(1979).py) |
+| `1081` | **1081. Smallest Subsequence of Distinct Characters** | Given a string s, return the lexicographically smallest subsequence of s that contains all the distinct characters of... | [View Code](./2026/July/Day%20200%20-%20(1081).py) |
 
 </details>
 
