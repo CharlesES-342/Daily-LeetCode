@@ -1,6 +1,6 @@
 # 📖 LeetCode Journey
 
-**🚀 Total Problems Solved: 200**
+**🚀 Total Problems Solved: 201**
 
 This repository tracks my LeetCode progress across multiple years.
 
@@ -247,7 +247,7 @@ This repository tracks my LeetCode progress across multiple years.
 
 ### July
 <details>
-<summary><b>📂 View July 2026 Progress (19 Problems)</b></summary>
+<summary><b>📂 View July 2026 Progress (20 Problems)</b></summary>
 
 | ID | Problem Title | Description | Solution |
 | :--- | :--- | :--- | :--- |
@@ -270,6 +270,7 @@ This repository tracks my LeetCode progress across multiple years.
 | `3312` | **3312. Sorted GCD Pair Queries** | You are given an integer array nums of length n and an integer array queries. Let gcdPairs denote an array obtained b... | [View Code](./2026/July/Day%20198%20-%20(3312).py) |
 | `1979` | **1979. Find Greatest Common Divisor of Array** | Given an integer array nums, return the greatest common divisor of the smallest number and largest number in nums. Th... | [View Code](./2026/July/Day%20199%20-%20(1979).py) |
 | `1081` | **1081. Smallest Subsequence of Distinct Characters** | Given a string s, return the lexicographically smallest subsequence of s that contains all the distinct characters of... | [View Code](./2026/July/Day%20200%20-%20(1081).py) |
+| `1260` | **1260. Shift 2D Grid** | Given a 2D grid of size m x n and an integer k. You need to shift the grid k times. In one shift operation: Element a... | [View Code](./2026/July/Day%20201%20-%20(1260).py) |
 
 </details>
 
