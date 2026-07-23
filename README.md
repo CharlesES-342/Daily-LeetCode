@@ -1,6 +1,6 @@
 # 📖 LeetCode Journey
 
-**🚀 Total Problems Solved: 203**
+**🚀 Total Problems Solved: 204**
 
 This repository tracks my LeetCode progress across multiple years.
 
@@ -247,7 +247,7 @@ This repository tracks my LeetCode progress across multiple years.
 
 ### July
 <details>
-<summary><b>📂 View July 2026 Progress (22 Problems)</b></summary>
+<summary><b>📂 View July 2026 Progress (23 Problems)</b></summary>
 
 | ID | Problem Title | Description | Solution |
 | :--- | :--- | :--- | :--- |
@@ -273,6 +273,7 @@ This repository tracks my LeetCode progress across multiple years.
 | `1260` | **1260. Shift 2D Grid** | Given a 2D grid of size m x n and an integer k. You need to shift the grid k times. In one shift operation: Element a... | [View Code](./2026/July/Day%20201%20-%20(1260).py) |
 | `3499` | **3499. Maximize Active Section with Trade I** | You are given a binary string s of length n, where: '1' represents an active section. '0' represents an inactive sect... | [View Code](./2026/July/Day%20202%20-%20(3499).py) |
 | `3501` | **3501. Maximize Active Section with Trade II** | You are given a binary string s of length n, where: '1' represents an active section. '0' represents an inactive sect... | [View Code](./2026/July/Day%20203%20-%20(3501).py) |
+| `3513` | **3513. Number of Unique XOR Triplets I** | You are given an integer array nums of length n, where nums is a permutation of the numbers in the range [1, n]. A XO... | [View Code](./2026/July/Day%20204%20-%20(3513).py) |
 
 </details>
 
