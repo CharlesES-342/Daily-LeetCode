@@ -1,6 +1,6 @@
 # 📖 LeetCode Journey
 
-**🚀 Total Problems Solved: 207**
+**🚀 Total Problems Solved: 208**
 
 This repository tracks my LeetCode progress across multiple years.
 
@@ -247,7 +247,7 @@ This repository tracks my LeetCode progress across multiple years.
 
 ### July
 <details>
-<summary><b>📂 View July 2026 Progress (26 Problems)</b></summary>
+<summary><b>📂 View July 2026 Progress (27 Problems)</b></summary>
 
 | ID | Problem Title | Description | Solution |
 | :--- | :--- | :--- | :--- |
@@ -277,6 +277,7 @@ This repository tracks my LeetCode progress across multiple years.
 | `3514` | **3514. Number of Unique XOR Triplets II** | You are given an integer array nums. A XOR triplet is defined as the XOR of three elements nums[i] XOR nums[j] XOR nu... | [View Code](./2026/July/Day%20205%20-%20(3514).py) |
 | `3536` | **3536. Maximum Product of Two Digits** | You are given a positive integer n. Return the maximum product of any two digits in n. Note: You may use the same dig... | [View Code](./2026/July/Day%20206%20-%20(3536).py) |
 | `628` | **628. Maximum Product of Three Numbers** | Given an integer array nums, find three numbers whose product is maximum and return the maximum product. Example 1: I... | [View Code](./2026/July/Day%20207%20-%20(628).py) |
+| `1464` | **1464. Maximum Product of Two Elements in an Array** | Given the array of integers nums, you will choose two different indices i and j of that array. Return the maximum val... | [View Code](./2026/July/Day%20208%20-%20(1464).py) |
 
 </details>
 
