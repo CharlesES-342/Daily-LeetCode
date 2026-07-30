@@ -1,6 +1,6 @@
 # 📖 LeetCode Journey
 
-**🚀 Total Problems Solved: 210**
+**🚀 Total Problems Solved: 211**
 
 This repository tracks my LeetCode progress across multiple years.
 
@@ -247,7 +247,7 @@ This repository tracks my LeetCode progress across multiple years.
 
 ### July
 <details>
-<summary><b>📂 View July 2026 Progress (29 Problems)</b></summary>
+<summary><b>📂 View July 2026 Progress (30 Problems)</b></summary>
 
 | ID | Problem Title | Description | Solution |
 | :--- | :--- | :--- | :--- |
@@ -280,6 +280,7 @@ This repository tracks my LeetCode progress across multiple years.
 | `1464` | **1464. Maximum Product of Two Elements in an Array** | Given the array of integers nums, you will choose two different indices i and j of that array. Return the maximum val... | [View Code](./2026/July/Day%20208%20-%20(1464).py) |
 | `3517` | **3517. Smallest Palindromic Rearrangement I** | You are given a palindromic string s. Return the lexicographically smallest palindromic permutation of s. Example 1: | [View Code](./2026/July/Day%20209%20-%20(3517).py) |
 | `3518` | **3518. Smallest Palindromic Rearrangement II** | You are given a palindromic string s and an integer k. Return the k-th lexicographically smallest palindromic permuta... | [View Code](./2026/July/Day%20210%20-%20(3518).py) |
+| `3014` | **3014. Minimum Number of Pushes to Type Word I** | You are given a string word containing distinct lowercase English letters. Telephone keypads have keys mapped with di... | [View Code](./2026/July/Day%20211%20-%20(3014).py) |
 
 </details>
 
