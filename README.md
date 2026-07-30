@@ -1,6 +1,6 @@
 # 📖 LeetCode Journey
 
-**🚀 Total Problems Solved: 209**
+**🚀 Total Problems Solved: 210**
 
 This repository tracks my LeetCode progress across multiple years.
 
@@ -247,7 +247,7 @@ This repository tracks my LeetCode progress across multiple years.
 
 ### July
 <details>
-<summary><b>📂 View July 2026 Progress (28 Problems)</b></summary>
+<summary><b>📂 View July 2026 Progress (29 Problems)</b></summary>
 
 | ID | Problem Title | Description | Solution |
 | :--- | :--- | :--- | :--- |
@@ -279,6 +279,7 @@ This repository tracks my LeetCode progress across multiple years.
 | `628` | **628. Maximum Product of Three Numbers** | Given an integer array nums, find three numbers whose product is maximum and return the maximum product. Example 1: I... | [View Code](./2026/July/Day%20207%20-%20(628).py) |
 | `1464` | **1464. Maximum Product of Two Elements in an Array** | Given the array of integers nums, you will choose two different indices i and j of that array. Return the maximum val... | [View Code](./2026/July/Day%20208%20-%20(1464).py) |
 | `3517` | **3517. Smallest Palindromic Rearrangement I** | You are given a palindromic string s. Return the lexicographically smallest palindromic permutation of s. Example 1: | [View Code](./2026/July/Day%20209%20-%20(3517).py) |
+| `3518` | **3518. Smallest Palindromic Rearrangement II** | You are given a palindromic string s and an integer k. Return the k-th lexicographically smallest palindromic permuta... | [View Code](./2026/July/Day%20210%20-%20(3518).py) |
 
 </details>
 
