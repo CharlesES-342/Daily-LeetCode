@@ -1,6 +1,6 @@
 # 📖 LeetCode Journey
 
-**🚀 Total Problems Solved: 212**
+**🚀 Total Problems Solved: 213**
 
 This repository tracks my LeetCode progress across multiple years.
 
@@ -282,6 +282,16 @@ This repository tracks my LeetCode progress across multiple years.
 | `3518` | **3518. Smallest Palindromic Rearrangement II** | You are given a palindromic string s and an integer k. Return the k-th lexicographically smallest palindromic permuta... | [View Code](./2026/July/Day%20210%20-%20(3518).py) |
 | `3014` | **3014. Minimum Number of Pushes to Type Word I** | You are given a string word containing distinct lowercase English letters. Telephone keypads have keys mapped with di... | [View Code](./2026/July/Day%20211%20-%20(3014).py) |
 | `3516` | **3016. Minimum Number of Pushes to Type Word II** | You are given a string word containing lowercase English letters. Telephone keypads have keys mapped with distinct co... | [View Code](./2026/July/Day%20212%20-%20(3516).py) |
+
+</details>
+
+### August
+<details>
+<summary><b>📂 View August 2026 Progress (1 Problems)</b></summary>
+
+| ID | Problem Title | Description | Solution |
+| :--- | :--- | :--- | :--- |
+| `N/A` | **Unknown Title** | No description provided. | [View Code](./2026/August/Day%20213%20-%20().py) |
 
 </details>
 
