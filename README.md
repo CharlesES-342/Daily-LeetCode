@@ -291,7 +291,7 @@ This repository tracks my LeetCode progress across multiple years.
 
 | ID | Problem Title | Description | Solution |
 | :--- | :--- | :--- | :--- |
-| `N/A` | **Unknown Title** | No description provided. | [View Code](./2026/August/Day%20213%20-%20().py) |
+| `486` | **486. Predict the Winner** | You are given an integer array nums. Two players are playing a game with this array: player 1 and player 2. Player 1 ... | [View Code](./2026/August/Day%20213%20-%20(486).py) |
 
 </details>
 
