@@ -1,6 +1,6 @@
 # 📖 LeetCode Journey
 
-**🚀 Total Problems Solved: 216**
+**🚀 Total Problems Solved: 217**
 
 This repository tracks my LeetCode progress across multiple years.
 
@@ -287,7 +287,7 @@ This repository tracks my LeetCode progress across multiple years.
 
 ### August
 <details>
-<summary><b>📂 View August 2026 Progress (4 Problems)</b></summary>
+<summary><b>📂 View August 2026 Progress (5 Problems)</b></summary>
 
 | ID | Problem Title | Description | Solution |
 | :--- | :--- | :--- | :--- |
@@ -295,6 +295,7 @@ This repository tracks my LeetCode progress across multiple years.
 | `877` | **877. Stone Game** | Alice and Bob play a game with piles of stones. There are an even number of piles arranged in a row, and each pile ha... | [View Code](./2026/August/Day%20214%20-%20(877).py) |
 | `1406` | **1406. Stone Game III** | Alice and Bob continue their games with piles of stones. There are several stones arranged in a row, and each stone h... | [View Code](./2026/August/Day%20215%20-%20(1406).py) |
 | `3731` | **3731. Find Missing Elements** | You are given an integer array nums consisting of unique integers. Originally, nums contained every integer within a ... | [View Code](./2026/August/Day%20216%20-%20(3731).py) |
+| `3310` | **3310. Remove Methods From Project** | You are maintaining a project that has n methods numbered from 0 to n - 1. You are given two integers n and k, and a ... | [View Code](./2026/August/Day%20217%20-%20(3310).py) |
 
 </details>
 
