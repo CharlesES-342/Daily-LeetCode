@@ -1,6 +1,6 @@
 # 📖 LeetCode Journey
 
-**🚀 Total Problems Solved: 219**
+**🚀 Total Problems Solved: 220**
 
 This repository tracks my LeetCode progress across multiple years.
 
@@ -287,7 +287,7 @@ This repository tracks my LeetCode progress across multiple years.
 
 ### August
 <details>
-<summary><b>📂 View August 2026 Progress (7 Problems)</b></summary>
+<summary><b>📂 View August 2026 Progress (8 Problems)</b></summary>
 
 | ID | Problem Title | Description | Solution |
 | :--- | :--- | :--- | :--- |
@@ -298,6 +298,7 @@ This repository tracks my LeetCode progress across multiple years.
 | `3310` | **3310. Remove Methods From Project** | You are maintaining a project that has n methods numbered from 0 to n - 1. You are given two integers n and k, and a ... | [View Code](./2026/August/Day%20217%20-%20(3310).py) |
 | `3345` | **3345. Smallest Divisible Digit Product I** | You are given two integers n and t. Return the smallest number greater than or equal to n such that the product of it... | [View Code](./2026/August/Day%20218%20-%20(3345).py) |
 | `3348` | **3348. Smallest Divisible Digit Product II** | You are given a string num which represents a positive integer, and an integer t. A number is called zero-free if non... | [View Code](./2026/August/Day%20219%20-%20(3348).py) |
+| `3302` | **3302. Find the Lexicographically Smallest Valid Sequence** | You are given two strings word1 and word2. A string x is called almost equal to y if you can change at most one chara... | [View Code](./2026/August/Day%20220%20-%20(3302).py) |
 
 </details>
 
