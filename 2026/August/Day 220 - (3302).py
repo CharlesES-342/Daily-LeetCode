@@ -40,6 +40,7 @@
 # 1 <= word2.length < word1.length <= 3 * 105
 # word1 and word2 consist only of lowercase English letters.
 
+
 class Solution(object):
     def validSequence(self, word1, word2):
         """
