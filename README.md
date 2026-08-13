@@ -1,6 +1,6 @@
 # 📖 LeetCode Journey
 
-**🚀 Total Problems Solved: 223**
+**🚀 Total Problems Solved: 224**
 
 This repository tracks my LeetCode progress across multiple years.
 
@@ -287,7 +287,7 @@ This repository tracks my LeetCode progress across multiple years.
 
 ### August
 <details>
-<summary><b>📂 View August 2026 Progress (11 Problems)</b></summary>
+<summary><b>📂 View August 2026 Progress (12 Problems)</b></summary>
 
 | ID | Problem Title | Description | Solution |
 | :--- | :--- | :--- | :--- |
@@ -302,6 +302,7 @@ This repository tracks my LeetCode progress across multiple years.
 | `1140` | **1140. Stone Game II** | Alice and Bob continue their games with piles of stones. There are a number of piles arranged in a row, and each pile... | [View Code](./2026/August/Day%20221%20-%20(1140).py) |
 | `1510` | **1510. Stone Game IV** | Alice and Bob take turns playing a game, with Alice starting first. Initially, there are n stones in a pile. On each ... | [View Code](./2026/August/Day%20222%20-%20(1510).py) |
 | `2996` | **2996. Smallest Missing Integer Greater Than Sequential Prefix Sum** | You are given a 0-indexed array of integers nums. A prefix nums[0..i] is sequential if, for all 1 <= j <= i, nums[j] ... | [View Code](./2026/August/Day%20223%20-%20(2996).py) |
+| `2958` | **2958. Length of Longest Subarray With at Most K Frequency** | You are given an integer array nums and an integer k. The frequency of an element x is the number of times it occurs ... | [View Code](./2026/August/Day%20224%20-%20(2958).py) |
 
 </details>
 
