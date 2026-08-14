@@ -1,6 +1,6 @@
 # 📖 LeetCode Journey
 
-**🚀 Total Problems Solved: 225**
+**🚀 Total Problems Solved: 226**
 
 This repository tracks my LeetCode progress across multiple years.
 
@@ -287,7 +287,7 @@ This repository tracks my LeetCode progress across multiple years.
 
 ### August
 <details>
-<summary><b>📂 View August 2026 Progress (13 Problems)</b></summary>
+<summary><b>📂 View August 2026 Progress (14 Problems)</b></summary>
 
 | ID | Problem Title | Description | Solution |
 | :--- | :--- | :--- | :--- |
@@ -304,6 +304,7 @@ This repository tracks my LeetCode progress across multiple years.
 | `2996` | **2996. Smallest Missing Integer Greater Than Sequential Prefix Sum** | You are given a 0-indexed array of integers nums. A prefix nums[0..i] is sequential if, for all 1 <= j <= i, nums[j] ... | [View Code](./2026/August/Day%20223%20-%20(2996).py) |
 | `2958` | **2958. Length of Longest Subarray With at Most K Frequency** | You are given an integer array nums and an integer k. The frequency of an element x is the number of times it occurs ... | [View Code](./2026/August/Day%20224%20-%20(2958).py) |
 | `2213` | **2213. Longest Substring of One Repeating Character** | You are given a 0-indexed string s. You are also given a 0-indexed string queryCharacters of length k and a 0-indexed... | [View Code](./2026/August/Day%20225%20-%20(2213).py) |
+| `3090` | **3090. Maximum Length Substring With Two Occurrences** | Given a string s, return the maximum length of a substring such that it contains at most two occurrences of each char... | [View Code](./2026/August/Day%20226%20-%20(3090).py) |
 
 </details>
 
