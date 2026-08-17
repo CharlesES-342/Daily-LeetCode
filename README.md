@@ -1,6 +1,6 @@
 # 📖 LeetCode Journey
 
-**🚀 Total Problems Solved: 226**
+**🚀 Total Problems Solved: 227**
 
 This repository tracks my LeetCode progress across multiple years.
 
@@ -287,7 +287,7 @@ This repository tracks my LeetCode progress across multiple years.
 
 ### August
 <details>
-<summary><b>📂 View August 2026 Progress (14 Problems)</b></summary>
+<summary><b>📂 View August 2026 Progress (15 Problems)</b></summary>
 
 | ID | Problem Title | Description | Solution |
 | :--- | :--- | :--- | :--- |
@@ -305,6 +305,7 @@ This repository tracks my LeetCode progress across multiple years.
 | `2958` | **2958. Length of Longest Subarray With at Most K Frequency** | You are given an integer array nums and an integer k. The frequency of an element x is the number of times it occurs ... | [View Code](./2026/August/Day%20224%20-%20(2958).py) |
 | `2213` | **2213. Longest Substring of One Repeating Character** | You are given a 0-indexed string s. You are also given a 0-indexed string queryCharacters of length k and a 0-indexed... | [View Code](./2026/August/Day%20225%20-%20(2213).py) |
 | `3090` | **3090. Maximum Length Substring With Two Occurrences** | Given a string s, return the maximum length of a substring such that it contains at most two occurrences of each char... | [View Code](./2026/August/Day%20226%20-%20(3090).py) |
+| `3702` | **3702. Longest Subsequence With Non-Zero Bitwise XOR** | You are given an integer array nums. Return the length of the longest subsequence in nums whose bitwise XOR is non-ze... | [View Code](./2026/August/Day%20227%20-%20(3702).py) |
 
 </details>
 
