@@ -1,6 +1,6 @@
 # 📖 LeetCode Journey
 
-**🚀 Total Problems Solved: 227**
+**🚀 Total Problems Solved: 229**
 
 This repository tracks my LeetCode progress across multiple years.
 
@@ -287,7 +287,7 @@ This repository tracks my LeetCode progress across multiple years.
 
 ### August
 <details>
-<summary><b>📂 View August 2026 Progress (15 Problems)</b></summary>
+<summary><b>📂 View August 2026 Progress (17 Problems)</b></summary>
 
 | ID | Problem Title | Description | Solution |
 | :--- | :--- | :--- | :--- |
@@ -306,6 +306,8 @@ This repository tracks my LeetCode progress across multiple years.
 | `2213` | **2213. Longest Substring of One Repeating Character** | You are given a 0-indexed string s. You are also given a 0-indexed string queryCharacters of length k and a 0-indexed... | [View Code](./2026/August/Day%20225%20-%20(2213).py) |
 | `3090` | **3090. Maximum Length Substring With Two Occurrences** | Given a string s, return the maximum length of a substring such that it contains at most two occurrences of each char... | [View Code](./2026/August/Day%20226%20-%20(3090).py) |
 | `3702` | **3702. Longest Subsequence With Non-Zero Bitwise XOR** | You are given an integer array nums. Return the length of the longest subsequence in nums whose bitwise XOR is non-ze... | [View Code](./2026/August/Day%20227%20-%20(3702).py) |
+| `2029` | **2029. Stone Game IX** | Alice and Bob continue their games with stones. There is a row of n stones, and each stone has an associated value. Y... | [View Code](./2026/August/Day%20228%20-%20(2029).py) |
+| `1563` | **1563. Stone Game V** | There are several stones arranged in a row, and each stone has an associated value which is an integer given in the a... | [View Code](./2026/August/Day%20229%20-%20(1563).py) |
 
 </details>
 
