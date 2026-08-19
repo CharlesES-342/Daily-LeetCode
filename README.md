@@ -1,6 +1,6 @@
 # 📖 LeetCode Journey
 
-**🚀 Total Problems Solved: 229**
+**🚀 Total Problems Solved: 230**
 
 This repository tracks my LeetCode progress across multiple years.
 
@@ -287,7 +287,7 @@ This repository tracks my LeetCode progress across multiple years.
 
 ### August
 <details>
-<summary><b>📂 View August 2026 Progress (17 Problems)</b></summary>
+<summary><b>📂 View August 2026 Progress (18 Problems)</b></summary>
 
 | ID | Problem Title | Description | Solution |
 | :--- | :--- | :--- | :--- |
@@ -308,6 +308,7 @@ This repository tracks my LeetCode progress across multiple years.
 | `3702` | **3702. Longest Subsequence With Non-Zero Bitwise XOR** | You are given an integer array nums. Return the length of the longest subsequence in nums whose bitwise XOR is non-ze... | [View Code](./2026/August/Day%20227%20-%20(3702).py) |
 | `2029` | **2029. Stone Game IX** | Alice and Bob continue their games with stones. There is a row of n stones, and each stone has an associated value. Y... | [View Code](./2026/August/Day%20228%20-%20(2029).py) |
 | `1563` | **1563. Stone Game V** | There are several stones arranged in a row, and each stone has an associated value which is an integer given in the a... | [View Code](./2026/August/Day%20229%20-%20(1563).py) |
+| `3471` | **3471. Find the Largest Almost Missing Integer** | You are given an integer array nums and an integer k. An integer x is almost missing from nums if x appears in exactl... | [View Code](./2026/August/Day%20230%20-%20(3471).py) |
 
 </details>
 
