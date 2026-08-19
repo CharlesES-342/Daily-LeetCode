@@ -1,6 +1,6 @@
 # 📖 LeetCode Journey
 
-**🚀 Total Problems Solved: 230**
+**🚀 Total Problems Solved: 231**
 
 This repository tracks my LeetCode progress across multiple years.
 
@@ -287,7 +287,7 @@ This repository tracks my LeetCode progress across multiple years.
 
 ### August
 <details>
-<summary><b>📂 View August 2026 Progress (18 Problems)</b></summary>
+<summary><b>📂 View August 2026 Progress (19 Problems)</b></summary>
 
 | ID | Problem Title | Description | Solution |
 | :--- | :--- | :--- | :--- |
@@ -309,6 +309,7 @@ This repository tracks my LeetCode progress across multiple years.
 | `2029` | **2029. Stone Game IX** | Alice and Bob continue their games with stones. There is a row of n stones, and each stone has an associated value. Y... | [View Code](./2026/August/Day%20228%20-%20(2029).py) |
 | `1563` | **1563. Stone Game V** | There are several stones arranged in a row, and each stone has an associated value which is an integer given in the a... | [View Code](./2026/August/Day%20229%20-%20(1563).py) |
 | `3471` | **3471. Find the Largest Almost Missing Integer** | You are given an integer array nums and an integer k. An integer x is almost missing from nums if x appears in exactl... | [View Code](./2026/August/Day%20230%20-%20(3471).py) |
+| `1386` | **1386. Cinema Seat Allocation** | A cinema has n rows of seats, numbered from 1 to n. Each row has 10 seats, numbered from 1 to 10. You are given a 2D ... | [View Code](./2026/August/Day%20231%20-%20(1386).py) |
 
 </details>
 
