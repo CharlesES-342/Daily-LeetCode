@@ -1,6 +1,6 @@
 # 📖 LeetCode Journey
 
-**🚀 Total Problems Solved: 231**
+**🚀 Total Problems Solved: 232**
 
 This repository tracks my LeetCode progress across multiple years.
 
@@ -287,7 +287,7 @@ This repository tracks my LeetCode progress across multiple years.
 
 ### August
 <details>
-<summary><b>📂 View August 2026 Progress (19 Problems)</b></summary>
+<summary><b>📂 View August 2026 Progress (20 Problems)</b></summary>
 
 | ID | Problem Title | Description | Solution |
 | :--- | :--- | :--- | :--- |
@@ -310,6 +310,7 @@ This repository tracks my LeetCode progress across multiple years.
 | `1563` | **1563. Stone Game V** | There are several stones arranged in a row, and each stone has an associated value which is an integer given in the a... | [View Code](./2026/August/Day%20229%20-%20(1563).py) |
 | `3471` | **3471. Find the Largest Almost Missing Integer** | You are given an integer array nums and an integer k. An integer x is almost missing from nums if x appears in exactl... | [View Code](./2026/August/Day%20230%20-%20(3471).py) |
 | `1386` | **1386. Cinema Seat Allocation** | A cinema has n rows of seats, numbered from 1 to n. Each row has 10 seats, numbered from 1 to 10. You are given a 2D ... | [View Code](./2026/August/Day%20231%20-%20(1386).py) |
+| `3069` | **3069. Distribute Elements Into Two Arrays I** | You are given a 1-indexed array of distinct integers nums of length n. You need to distribute all the elements of num... | [View Code](./2026/August/Day%20232%20-%20(3069).py) |
 
 </details>
 
