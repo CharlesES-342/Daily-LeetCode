@@ -1,6 +1,6 @@
 # 📖 LeetCode Journey
 
-**🚀 Total Problems Solved: 232**
+**🚀 Total Problems Solved: 233**
 
 This repository tracks my LeetCode progress across multiple years.
 
@@ -287,10 +287,11 @@ This repository tracks my LeetCode progress across multiple years.
 
 ### August
 <details>
-<summary><b>📂 View August 2026 Progress (20 Problems)</b></summary>
+<summary><b>📂 View August 2026 Progress (21 Problems)</b></summary>
 
 | ID | Problem Title | Description | Solution |
 | :--- | :--- | :--- | :--- |
+| `3116` | **3116. Kth Smallest Amount With Single Denomination Combination** | You are given an integer array coins representing coins of different denominations and an integer k. You have an infi... | [View Code](./2026/August/Day%20-%20233%20-%20(3116).py) |
 | `486` | **486. Predict the Winner** | You are given an integer array nums. Two players are playing a game with this array: player 1 and player 2. Player 1 ... | [View Code](./2026/August/Day%20213%20-%20(486).py) |
 | `877` | **877. Stone Game** | Alice and Bob play a game with piles of stones. There are an even number of piles arranged in a row, and each pile ha... | [View Code](./2026/August/Day%20214%20-%20(877).py) |
 | `1406` | **1406. Stone Game III** | Alice and Bob continue their games with piles of stones. There are several stones arranged in a row, and each stone h... | [View Code](./2026/August/Day%20215%20-%20(1406).py) |
