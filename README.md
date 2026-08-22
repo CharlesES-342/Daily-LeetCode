@@ -1,6 +1,6 @@
 # 📖 LeetCode Journey
 
-**🚀 Total Problems Solved: 233**
+**🚀 Total Problems Solved: 234**
 
 This repository tracks my LeetCode progress across multiple years.
 
@@ -287,11 +287,10 @@ This repository tracks my LeetCode progress across multiple years.
 
 ### August
 <details>
-<summary><b>📂 View August 2026 Progress (21 Problems)</b></summary>
+<summary><b>📂 View August 2026 Progress (22 Problems)</b></summary>
 
 | ID | Problem Title | Description | Solution |
 | :--- | :--- | :--- | :--- |
-| `3116` | **3116. Kth Smallest Amount With Single Denomination Combination** | You are given an integer array coins representing coins of different denominations and an integer k. You have an infi... | [View Code](./2026/August/Day%20-%20233%20-%20(3116).py) |
 | `486` | **486. Predict the Winner** | You are given an integer array nums. Two players are playing a game with this array: player 1 and player 2. Player 1 ... | [View Code](./2026/August/Day%20213%20-%20(486).py) |
 | `877` | **877. Stone Game** | Alice and Bob play a game with piles of stones. There are an even number of piles arranged in a row, and each pile ha... | [View Code](./2026/August/Day%20214%20-%20(877).py) |
 | `1406` | **1406. Stone Game III** | Alice and Bob continue their games with piles of stones. There are several stones arranged in a row, and each stone h... | [View Code](./2026/August/Day%20215%20-%20(1406).py) |
@@ -312,6 +311,8 @@ This repository tracks my LeetCode progress across multiple years.
 | `3471` | **3471. Find the Largest Almost Missing Integer** | You are given an integer array nums and an integer k. An integer x is almost missing from nums if x appears in exactl... | [View Code](./2026/August/Day%20230%20-%20(3471).py) |
 | `1386` | **1386. Cinema Seat Allocation** | A cinema has n rows of seats, numbered from 1 to n. Each row has 10 seats, numbered from 1 to 10. You are given a 2D ... | [View Code](./2026/August/Day%20231%20-%20(1386).py) |
 | `3069` | **3069. Distribute Elements Into Two Arrays I** | You are given a 1-indexed array of distinct integers nums of length n. You need to distribute all the elements of num... | [View Code](./2026/August/Day%20232%20-%20(3069).py) |
+| `3116` | **3116. Kth Smallest Amount With Single Denomination Combination** | You are given an integer array coins representing coins of different denominations and an integer k. You have an infi... | [View Code](./2026/August/Day%20233%20-%20(3116).py) |
+| `3622` | **3622. Check Divisibility by Digit Sum and Product** | You are given a positive integer n. Determine whether n is divisible by the sum of the following two values: The digi... | [View Code](./2026/August/Day%20234%20-%20(3622).py) |
 
 </details>
 
