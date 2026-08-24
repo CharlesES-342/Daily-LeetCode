@@ -1,6 +1,6 @@
 # 📖 LeetCode Journey
 
-**🚀 Total Problems Solved: 234**
+**🚀 Total Problems Solved: 235**
 
 This repository tracks my LeetCode progress across multiple years.
 
@@ -287,7 +287,7 @@ This repository tracks my LeetCode progress across multiple years.
 
 ### August
 <details>
-<summary><b>📂 View August 2026 Progress (22 Problems)</b></summary>
+<summary><b>📂 View August 2026 Progress (23 Problems)</b></summary>
 
 | ID | Problem Title | Description | Solution |
 | :--- | :--- | :--- | :--- |
@@ -313,6 +313,7 @@ This repository tracks my LeetCode progress across multiple years.
 | `3069` | **3069. Distribute Elements Into Two Arrays I** | You are given a 1-indexed array of distinct integers nums of length n. You need to distribute all the elements of num... | [View Code](./2026/August/Day%20232%20-%20(3069).py) |
 | `3116` | **3116. Kth Smallest Amount With Single Denomination Combination** | You are given an integer array coins representing coins of different denominations and an integer k. You have an infi... | [View Code](./2026/August/Day%20233%20-%20(3116).py) |
 | `3622` | **3622. Check Divisibility by Digit Sum and Product** | You are given a positive integer n. Determine whether n is divisible by the sum of the following two values: The digi... | [View Code](./2026/August/Day%20234%20-%20(3622).py) |
+| `1927` | **1927. Sum Game** | Alice and Bob take turns playing a game, with Alice starting first. You are given a string num of even length consist... | [View Code](./2026/August/Day%20235%20-%20(1927).py) |
 
 </details>
 
