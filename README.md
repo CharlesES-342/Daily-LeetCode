@@ -1,6 +1,6 @@
 # 📖 LeetCode Journey
 
-**🚀 Total Problems Solved: 236**
+**🚀 Total Problems Solved: 238**
 
 This repository tracks my LeetCode progress across multiple years.
 
@@ -287,7 +287,7 @@ This repository tracks my LeetCode progress across multiple years.
 
 ### August
 <details>
-<summary><b>📂 View August 2026 Progress (24 Problems)</b></summary>
+<summary><b>📂 View August 2026 Progress (26 Problems)</b></summary>
 
 | ID | Problem Title | Description | Solution |
 | :--- | :--- | :--- | :--- |
@@ -315,6 +315,8 @@ This repository tracks my LeetCode progress across multiple years.
 | `3622` | **3622. Check Divisibility by Digit Sum and Product** | You are given a positive integer n. Determine whether n is divisible by the sum of the following two values: The digi... | [View Code](./2026/August/Day%20234%20-%20(3622).py) |
 | `1927` | **1927. Sum Game** | Alice and Bob take turns playing a game, with Alice starting first. You are given a string num of even length consist... | [View Code](./2026/August/Day%20235%20-%20(1927).py) |
 | `1872` | **1872. Stone Game VIII** | Alice and Bob take turns playing a game, with Alice starting first. There are n stones arranged in a row. On each pla... | [View Code](./2026/August/Day%20236%20-%20(1872).py) |
+| `3718` | **3718. Smallest Missing Multiple of K** | Given an integer array nums and an integer k, return the smallest positive multiple of k that is missing from nums. A... | [View Code](./2026/August/Day%20237%20-%20(3718).py) |
+| `2904` | **2904. Shortest and Lexicographically Smallest Beautiful String** | You are given a binary string s and a positive integer k. A substring of s is beautiful if the number of 1's in it is... | [View Code](./2026/August/Day%20238%20-%20(2904).py) |
 
 </details>
 
