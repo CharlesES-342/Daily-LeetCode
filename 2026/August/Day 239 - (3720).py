@@ -75,6 +75,11 @@ class Solution(object):
         return ""
 
 '''
-so close to the deadline, so I used Gemini.ai for assistance to keep the streak. But a full review will come tomorrow
-with an understanding of the problem and a more optimised solution.
+count character frequencies
+determine the longest prefix of target that can be matched with s
+for each prefix length L from n down to 0
+then determine the next greatr character than target[L] that can be used
+return what is left in the smallest to largest order and add it to the end
+
+If nothiong is strictly greater, return the empty string
 '''
