@@ -1,6 +1,6 @@
 # 📖 LeetCode Journey
 
-**🚀 Total Problems Solved: 239**
+**🚀 Total Problems Solved: 240**
 
 This repository tracks my LeetCode progress across multiple years.
 
@@ -287,7 +287,7 @@ This repository tracks my LeetCode progress across multiple years.
 
 ### August
 <details>
-<summary><b>📂 View August 2026 Progress (27 Problems)</b></summary>
+<summary><b>📂 View August 2026 Progress (28 Problems)</b></summary>
 
 | ID | Problem Title | Description | Solution |
 | :--- | :--- | :--- | :--- |
@@ -318,6 +318,7 @@ This repository tracks my LeetCode progress across multiple years.
 | `3718` | **3718. Smallest Missing Multiple of K** | Given an integer array nums and an integer k, return the smallest positive multiple of k that is missing from nums. A... | [View Code](./2026/August/Day%20237%20-%20(3718).py) |
 | `2904` | **2904. Shortest and Lexicographically Smallest Beautiful String** | You are given a binary string s and a positive integer k. A substring of s is beautiful if the number of 1's in it is... | [View Code](./2026/August/Day%20238%20-%20(2904).py) |
 | `3720` | **3720. Lexicographically Smallest Permutation Greater Than Target** | You are given two strings s and target, both having length n, consisting of lowercase English letters. Return the lex... | [View Code](./2026/August/Day%20239%20-%20(3720).py) |
+| `3734` | **3734. Lexicographically Smallest Palindromic Permutation Greater Than Target** | You are given two strings s and target, each of length n, consisting of lowercase English letters. Return the lexicog... | [View Code](./2026/August/Day%20240%20-%20(3734).py) |
 
 </details>
 
