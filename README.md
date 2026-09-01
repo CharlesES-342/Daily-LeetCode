@@ -1,6 +1,6 @@
 # 📖 LeetCode Journey
 
-**🚀 Total Problems Solved: 242**
+**🚀 Total Problems Solved: 243**
 
 This repository tracks my LeetCode progress across multiple years.
 
@@ -287,7 +287,7 @@ This repository tracks my LeetCode progress across multiple years.
 
 ### August
 <details>
-<summary><b>📂 View August 2026 Progress (30 Problems)</b></summary>
+<summary><b>📂 View August 2026 Progress (31 Problems)</b></summary>
 
 | ID | Problem Title | Description | Solution |
 | :--- | :--- | :--- | :--- |
@@ -321,6 +321,7 @@ This repository tracks my LeetCode progress across multiple years.
 | `3734` | **3734. Lexicographically Smallest Palindromic Permutation Greater Than Target** | You are given two strings s and target, each of length n, consisting of lowercase English letters. Return the lexicog... | [View Code](./2026/August/Day%20240%20-%20(3734).py) |
 | `2948` | **2948. Make Lexicographically Smallest Array by Swapping Elements** | You are given a 0-indexed array of positive integers nums and a positive integer limit. In one operation, you can cho... | [View Code](./2026/August/Day%20241%20-%20(2948).py) |
 | `2091` | **2091. Removing Minimum and Maximum From Array** | You are given a 0-indexed array of distinct integers nums. There is an element in nums that has the lowest value and ... | [View Code](./2026/August/Day%20242%20-%20(2091).py) |
+| `2058` | **2058. Find the Minimum and Maximum Number of Nodes Between Critical Points** | A critical point in a linked list is defined as either a local maxima or a local minima. A node is a local maxima if ... | [View Code](./2026/August/Day%20243%20-%20(2058).py) |
 
 </details>
 
