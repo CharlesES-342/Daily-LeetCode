@@ -1,6 +1,6 @@
 # 📖 LeetCode Journey
 
-**🚀 Total Problems Solved: 244**
+**🚀 Total Problems Solved: 245**
 
 This repository tracks my LeetCode progress across multiple years.
 
@@ -327,11 +327,12 @@ This repository tracks my LeetCode progress across multiple years.
 
 ### September
 <details>
-<summary><b>📂 View September 2026 Progress (1 Problems)</b></summary>
+<summary><b>📂 View September 2026 Progress (2 Problems)</b></summary>
 
 | ID | Problem Title | Description | Solution |
 | :--- | :--- | :--- | :--- |
 | `3568` | **3568. Minimum Moves to Clean the Classroom** | No description provided. | [View Code](./2026/September/Day%20244%20-%20(3568).py) |
+| `3875` | **3875. Construct Uniform Parity Array I** | You are given an array nums1 of n distinct integers. You want to construct another array nums2 of length n such that ... | [View Code](./2026/September/Day%20245%20-%20(3875).py) |
 
 </details>
 
