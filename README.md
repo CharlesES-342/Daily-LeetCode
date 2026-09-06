@@ -1,6 +1,6 @@
 # 📖 LeetCode Journey
 
-**🚀 Total Problems Solved: 247**
+**🚀 Total Problems Solved: 248**
 
 This repository tracks my LeetCode progress across multiple years.
 
@@ -327,7 +327,7 @@ This repository tracks my LeetCode progress across multiple years.
 
 ### September
 <details>
-<summary><b>📂 View September 2026 Progress (4 Problems)</b></summary>
+<summary><b>📂 View September 2026 Progress (5 Problems)</b></summary>
 
 | ID | Problem Title | Description | Solution |
 | :--- | :--- | :--- | :--- |
@@ -335,6 +335,7 @@ This repository tracks my LeetCode progress across multiple years.
 | `3875` | **3875. Construct Uniform Parity Array I** | You are given an array nums1 of n distinct integers. You want to construct another array nums2 of length n such that ... | [View Code](./2026/September/Day%20245%20-%20(3875).py) |
 | `3876` | **3876. Construct Uniform Parity Array II** | You are given an array nums1 of n distinct integers. You want to construct another array nums2 of length n such that ... | [View Code](./2026/September/Day%20246%20-%20(3876).py) |
 | `3903` | **3903. Smallest Stable Index I** | You are given an integer array nums of length n and an integer k. For each index i, define its instability score as m... | [View Code](./2026/September/Day%20247%20-%20(3903).py) |
+| `3904` | **3904. Smallest Stable Index II** | You are given an integer array nums of length n and an integer k. For each index i, define its instability score as m... | [View Code](./2026/September/Day%20248%20-%20(3904).py) |
 
 </details>
 
