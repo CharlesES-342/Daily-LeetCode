@@ -1,6 +1,6 @@
 # 📖 LeetCode Journey
 
-**🚀 Total Problems Solved: 251**
+**🚀 Total Problems Solved: 252**
 
 This repository tracks my LeetCode progress across multiple years.
 
@@ -327,7 +327,7 @@ This repository tracks my LeetCode progress across multiple years.
 
 ### September
 <details>
-<summary><b>📂 View September 2026 Progress (8 Problems)</b></summary>
+<summary><b>📂 View September 2026 Progress (9 Problems)</b></summary>
 
 | ID | Problem Title | Description | Solution |
 | :--- | :--- | :--- | :--- |
@@ -339,6 +339,7 @@ This repository tracks my LeetCode progress across multiple years.
 | `115` | **115. Distinct Subsequences** | Given two strings s and t, return the number of distinct subsequences of s which equals t. The test cases are generat... | [View Code](./2026/September/Day%20249%20-%20(115).py) |
 | `940` | **940. Distinct Subsequences II** | Given a string s, return the number of distinct non-empty subsequences of s. Since the answer may be very large, retu... | [View Code](./2026/September/Day%20250%20-%20(940).py) |
 | `3870` | **3870. Count Commas in Range** | You are given an integer n. Return the total number of commas used when writing all integers from [1, n] (inclusive) ... | [View Code](./2026/September/Day%20251%20-%20(3870).py) |
+| `3871` | **3871. Count Commas in Range II** | You are given an integer n. Return the total number of commas used when writing all integers from [1, n] (inclusive) ... | [View Code](./2026/September/Day%20252%20-%20(3871).py) |
 
 </details>
 
