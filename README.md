@@ -1,6 +1,6 @@
 # 📖 LeetCode Journey
 
-**🚀 Total Problems Solved: 252**
+**🚀 Total Problems Solved: 253**
 
 This repository tracks my LeetCode progress across multiple years.
 
@@ -327,7 +327,7 @@ This repository tracks my LeetCode progress across multiple years.
 
 ### September
 <details>
-<summary><b>📂 View September 2026 Progress (9 Problems)</b></summary>
+<summary><b>📂 View September 2026 Progress (10 Problems)</b></summary>
 
 | ID | Problem Title | Description | Solution |
 | :--- | :--- | :--- | :--- |
@@ -340,6 +340,7 @@ This repository tracks my LeetCode progress across multiple years.
 | `940` | **940. Distinct Subsequences II** | Given a string s, return the number of distinct non-empty subsequences of s. Since the answer may be very large, retu... | [View Code](./2026/September/Day%20250%20-%20(940).py) |
 | `3870` | **3870. Count Commas in Range** | You are given an integer n. Return the total number of commas used when writing all integers from [1, n] (inclusive) ... | [View Code](./2026/September/Day%20251%20-%20(3870).py) |
 | `3871` | **3871. Count Commas in Range II** | You are given an integer n. Return the total number of commas used when writing all integers from [1, n] (inclusive) ... | [View Code](./2026/September/Day%20252%20-%20(3871).py) |
+| `2265` | **2265. Count Nodes Equal to Average of Subtree** | Given the root of a binary tree, return the number of nodes where the value of the node is equal to the average of th... | [View Code](./2026/September/Day%20253%20%20(2265).py) |
 
 </details>
 
