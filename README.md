@@ -1,6 +1,6 @@
 # 📖 LeetCode Journey
 
-**🚀 Total Problems Solved: 253**
+**🚀 Total Problems Solved: 254**
 
 This repository tracks my LeetCode progress across multiple years.
 
@@ -327,7 +327,7 @@ This repository tracks my LeetCode progress across multiple years.
 
 ### September
 <details>
-<summary><b>📂 View September 2026 Progress (10 Problems)</b></summary>
+<summary><b>📂 View September 2026 Progress (11 Problems)</b></summary>
 
 | ID | Problem Title | Description | Solution |
 | :--- | :--- | :--- | :--- |
@@ -341,6 +341,7 @@ This repository tracks my LeetCode progress across multiple years.
 | `3870` | **3870. Count Commas in Range** | You are given an integer n. Return the total number of commas used when writing all integers from [1, n] (inclusive) ... | [View Code](./2026/September/Day%20251%20-%20(3870).py) |
 | `3871` | **3871. Count Commas in Range II** | You are given an integer n. Return the total number of commas used when writing all integers from [1, n] (inclusive) ... | [View Code](./2026/September/Day%20252%20-%20(3871).py) |
 | `2265` | **2265. Count Nodes Equal to Average of Subtree** | Given the root of a binary tree, return the number of nodes where the value of the node is equal to the average of th... | [View Code](./2026/September/Day%20253%20%20(2265).py) |
+| `3483` | **3483. Unique 3-Digit Even Numbers** | You are given an array of digits called digits. Your task is to determine the number of distinct three-digit even num... | [View Code](./2026/September/Day%20254%20-%20(3483).py) |
 
 </details>
 
