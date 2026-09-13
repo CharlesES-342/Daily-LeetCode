@@ -1,6 +1,6 @@
 # 📖 LeetCode Journey
 
-**🚀 Total Problems Solved: 255**
+**🚀 Total Problems Solved: 256**
 
 This repository tracks my LeetCode progress across multiple years.
 
@@ -327,7 +327,7 @@ This repository tracks my LeetCode progress across multiple years.
 
 ### September
 <details>
-<summary><b>📂 View September 2026 Progress (12 Problems)</b></summary>
+<summary><b>📂 View September 2026 Progress (13 Problems)</b></summary>
 
 | ID | Problem Title | Description | Solution |
 | :--- | :--- | :--- | :--- |
@@ -343,6 +343,7 @@ This repository tracks my LeetCode progress across multiple years.
 | `2265` | **2265. Count Nodes Equal to Average of Subtree** | Given the root of a binary tree, return the number of nodes where the value of the node is equal to the average of th... | [View Code](./2026/September/Day%20253%20%20(2265).py) |
 | `3483` | **3483. Unique 3-Digit Even Numbers** | You are given an array of digits called digits. Your task is to determine the number of distinct three-digit even num... | [View Code](./2026/September/Day%20254%20-%20(3483).py) |
 | `33414` | **3414. Maximum Score of Non-overlapping Intervals** | You are given a 2D integer array intervals, where intervals[i] = [li, ri, weighti]. Interval i starts at position li ... | [View Code](./2026/September/Day%20255%20-%20(33414).py) |
+| `835` | **835. Image Overlap** | You are given two images, img1 and img2, represented as binary, square matrices of size n x n. A binary matrix has on... | [View Code](./2026/September/Day%20256%20-%20(835).py) |
 
 </details>
 
