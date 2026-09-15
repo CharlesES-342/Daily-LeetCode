@@ -1,6 +1,6 @@
 # 📖 LeetCode Journey
 
-**🚀 Total Problems Solved: 257**
+**🚀 Total Problems Solved: 258**
 
 This repository tracks my LeetCode progress across multiple years.
 
@@ -327,7 +327,7 @@ This repository tracks my LeetCode progress across multiple years.
 
 ### September
 <details>
-<summary><b>📂 View September 2026 Progress (14 Problems)</b></summary>
+<summary><b>📂 View September 2026 Progress (15 Problems)</b></summary>
 
 | ID | Problem Title | Description | Solution |
 | :--- | :--- | :--- | :--- |
@@ -345,6 +345,7 @@ This repository tracks my LeetCode progress across multiple years.
 | `33414` | **3414. Maximum Score of Non-overlapping Intervals** | You are given a 2D integer array intervals, where intervals[i] = [li, ri, weighti]. Interval i starts at position li ... | [View Code](./2026/September/Day%20255%20-%20(33414).py) |
 | `835` | **835. Image Overlap** | You are given two images, img1 and img2, represented as binary, square matrices of size n x n. A binary matrix has on... | [View Code](./2026/September/Day%20256%20-%20(835).py) |
 | `8336` | **836. Rectangle Overlap** | An axis-aligned rectangle is represented as a list [x1, y1, x2, y2], where (x1, y1) is the coordinate of its bottom-l... | [View Code](./2026/September/Day%20257%20-%20(8336).py) |
+| `2472` | **2472. Maximum Number of Non-overlapping Palindrome Substrings** | You are given a string s and a positive integer k. Select a set of non-overlapping substrings from the string s that ... | [View Code](./2026/September/Day%20258%20-%20(2472).py) |
 
 </details>
 
