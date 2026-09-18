@@ -1,6 +1,6 @@
 # 📖 LeetCode Journey
 
-**🚀 Total Problems Solved: 259**
+**🚀 Total Problems Solved: 260**
 
 This repository tracks my LeetCode progress across multiple years.
 
@@ -327,7 +327,7 @@ This repository tracks my LeetCode progress across multiple years.
 
 ### September
 <details>
-<summary><b>📂 View September 2026 Progress (16 Problems)</b></summary>
+<summary><b>📂 View September 2026 Progress (17 Problems)</b></summary>
 
 | ID | Problem Title | Description | Solution |
 | :--- | :--- | :--- | :--- |
@@ -347,6 +347,7 @@ This repository tracks my LeetCode progress across multiple years.
 | `835` | **835. Image Overlap** | You are given two images, img1 and img2, represented as binary, square matrices of size n x n. A binary matrix has on... | [View Code](./2026/September/Day%20256%20-%20(835).py) |
 | `8336` | **836. Rectangle Overlap** | An axis-aligned rectangle is represented as a list [x1, y1, x2, y2], where (x1, y1) is the coordinate of its bottom-l... | [View Code](./2026/September/Day%20257%20-%20(8336).py) |
 | `2472` | **2472. Maximum Number of Non-overlapping Palindrome Substrings** | You are given a string s and a positive integer k. Select a set of non-overlapping substrings from the string s that ... | [View Code](./2026/September/Day%20258%20-%20(2472).py) |
+| `1477` | **1477. Find Two Non-overlapping Sub-arrays Each With Target Sum** | You are given an array of integers arr and an integer target. You have to find two non-overlapping sub-arrays of arr ... | [View Code](./2026/September/Day%20260%20-%20(1477).py) |
 
 </details>
 
