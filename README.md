@@ -1,6 +1,6 @@
 # 📖 LeetCode Journey
 
-**🚀 Total Problems Solved: 261**
+**🚀 Total Problems Solved: 262**
 
 This repository tracks my LeetCode progress across multiple years.
 
@@ -327,7 +327,7 @@ This repository tracks my LeetCode progress across multiple years.
 
 ### September
 <details>
-<summary><b>📂 View September 2026 Progress (18 Problems)</b></summary>
+<summary><b>📂 View September 2026 Progress (19 Problems)</b></summary>
 
 | ID | Problem Title | Description | Solution |
 | :--- | :--- | :--- | :--- |
@@ -349,6 +349,7 @@ This repository tracks my LeetCode progress across multiple years.
 | `1621` | **1621. Number of Sets of K Non-Overlapping Line Segments** | Given n points on a 1-D plane, where the ith point (from 0 to n-1) is at x = i, find the number of ways we can draw e... | [View Code](./2026/September/Day%20259%20-%20(1621).py) |
 | `1477` | **1477. Find Two Non-overlapping Sub-arrays Each With Target Sum** | You are given an array of integers arr and an integer target. You have to find two non-overlapping sub-arrays of arr ... | [View Code](./2026/September/Day%20260%20-%20(1477).py) |
 | `1520` | **1520. Maximum Number of Non-Overlapping Substrings** | Given a string s of lowercase letters, you need to find the maximum number of non-empty substrings of s that meet the... | [View Code](./2026/September/Day%20261%20-%20(1520).py) |
+| `1401` | **1401. Circle and Rectangle Overlapping** | You are given a circle represented as (radius, xCenter, yCenter) and an axis-aligned rectangle represented as (x1, y1... | [View Code](./2026/September/Day%20262%20-%20(1401).py) |
 
 </details>
 
