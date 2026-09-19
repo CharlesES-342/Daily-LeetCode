@@ -1,6 +1,6 @@
 # 📖 LeetCode Journey
 
-**🚀 Total Problems Solved: 260**
+**🚀 Total Problems Solved: 261**
 
 This repository tracks my LeetCode progress across multiple years.
 
@@ -327,11 +327,10 @@ This repository tracks my LeetCode progress across multiple years.
 
 ### September
 <details>
-<summary><b>📂 View September 2026 Progress (17 Problems)</b></summary>
+<summary><b>📂 View September 2026 Progress (18 Problems)</b></summary>
 
 | ID | Problem Title | Description | Solution |
 | :--- | :--- | :--- | :--- |
-| `1621` | **1621. Number of Sets of K Non-Overlapping Line Segments** | Given n points on a 1-D plane, where the ith point (from 0 to n-1) is at x = i, find the number of ways we can draw e... | [View Code](./2026/September/Dayy%20259%20-%20(1621).py) |
 | `3568` | **3568. Minimum Moves to Clean the Classroom** | No description provided. | [View Code](./2026/September/Day%20244%20-%20(3568).py) |
 | `3875` | **3875. Construct Uniform Parity Array I** | You are given an array nums1 of n distinct integers. You want to construct another array nums2 of length n such that ... | [View Code](./2026/September/Day%20245%20-%20(3875).py) |
 | `3876` | **3876. Construct Uniform Parity Array II** | You are given an array nums1 of n distinct integers. You want to construct another array nums2 of length n such that ... | [View Code](./2026/September/Day%20246%20-%20(3876).py) |
@@ -347,7 +346,9 @@ This repository tracks my LeetCode progress across multiple years.
 | `835` | **835. Image Overlap** | You are given two images, img1 and img2, represented as binary, square matrices of size n x n. A binary matrix has on... | [View Code](./2026/September/Day%20256%20-%20(835).py) |
 | `8336` | **836. Rectangle Overlap** | An axis-aligned rectangle is represented as a list [x1, y1, x2, y2], where (x1, y1) is the coordinate of its bottom-l... | [View Code](./2026/September/Day%20257%20-%20(8336).py) |
 | `2472` | **2472. Maximum Number of Non-overlapping Palindrome Substrings** | You are given a string s and a positive integer k. Select a set of non-overlapping substrings from the string s that ... | [View Code](./2026/September/Day%20258%20-%20(2472).py) |
+| `1621` | **1621. Number of Sets of K Non-Overlapping Line Segments** | Given n points on a 1-D plane, where the ith point (from 0 to n-1) is at x = i, find the number of ways we can draw e... | [View Code](./2026/September/Day%20259%20-%20(1621).py) |
 | `1477` | **1477. Find Two Non-overlapping Sub-arrays Each With Target Sum** | You are given an array of integers arr and an integer target. You have to find two non-overlapping sub-arrays of arr ... | [View Code](./2026/September/Day%20260%20-%20(1477).py) |
+| `1520` | **1520. Maximum Number of Non-Overlapping Substrings** | Given a string s of lowercase letters, you need to find the maximum number of non-empty substrings of s that meet the... | [View Code](./2026/September/Day%20261%20-%20(1520).py) |
 
 </details>
 
