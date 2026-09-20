@@ -1,6 +1,6 @@
 # 📖 LeetCode Journey
 
-**🚀 Total Problems Solved: 262**
+**🚀 Total Problems Solved: 263**
 
 This repository tracks my LeetCode progress across multiple years.
 
@@ -327,7 +327,7 @@ This repository tracks my LeetCode progress across multiple years.
 
 ### September
 <details>
-<summary><b>📂 View September 2026 Progress (19 Problems)</b></summary>
+<summary><b>📂 View September 2026 Progress (20 Problems)</b></summary>
 
 | ID | Problem Title | Description | Solution |
 | :--- | :--- | :--- | :--- |
@@ -350,6 +350,7 @@ This repository tracks my LeetCode progress across multiple years.
 | `1477` | **1477. Find Two Non-overlapping Sub-arrays Each With Target Sum** | You are given an array of integers arr and an integer target. You have to find two non-overlapping sub-arrays of arr ... | [View Code](./2026/September/Day%20260%20-%20(1477).py) |
 | `1520` | **1520. Maximum Number of Non-Overlapping Substrings** | Given a string s of lowercase letters, you need to find the maximum number of non-empty substrings of s that meet the... | [View Code](./2026/September/Day%20261%20-%20(1520).py) |
 | `1401` | **1401. Circle and Rectangle Overlapping** | You are given a circle represented as (radius, xCenter, yCenter) and an axis-aligned rectangle represented as (x1, y1... | [View Code](./2026/September/Day%20262%20-%20(1401).py) |
+| `3498` | **3498. Reverse Degree of a String** | Given a string s, calculate its reverse degree. The reverse degree is calculated as follows: For each character, mult... | [View Code](./2026/September/Day%20263%20-%20(3498).py) |
 
 </details>
 
