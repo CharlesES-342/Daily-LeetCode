@@ -1,6 +1,6 @@
 # 📖 LeetCode Journey
 
-**🚀 Total Problems Solved: 263**
+**🚀 Total Problems Solved: 264**
 
 This repository tracks my LeetCode progress across multiple years.
 
@@ -327,7 +327,7 @@ This repository tracks my LeetCode progress across multiple years.
 
 ### September
 <details>
-<summary><b>📂 View September 2026 Progress (20 Problems)</b></summary>
+<summary><b>📂 View September 2026 Progress (21 Problems)</b></summary>
 
 | ID | Problem Title | Description | Solution |
 | :--- | :--- | :--- | :--- |
@@ -351,6 +351,7 @@ This repository tracks my LeetCode progress across multiple years.
 | `1520` | **1520. Maximum Number of Non-Overlapping Substrings** | Given a string s of lowercase letters, you need to find the maximum number of non-empty substrings of s that meet the... | [View Code](./2026/September/Day%20261%20-%20(1520).py) |
 | `1401` | **1401. Circle and Rectangle Overlapping** | You are given a circle represented as (radius, xCenter, yCenter) and an axis-aligned rectangle represented as (x1, y1... | [View Code](./2026/September/Day%20262%20-%20(1401).py) |
 | `3498` | **3498. Reverse Degree of a String** | Given a string s, calculate its reverse degree. The reverse degree is calculated as follows: For each character, mult... | [View Code](./2026/September/Day%20263%20-%20(3498).py) |
+| `3524` | **3524. Find X Value of Array I** | You are given an array of positive integers nums, and a positive integer k. You are allowed to perform an operation o... | [View Code](./2026/September/Day%20264%20-%20(3524).py) |
 
 </details>
 
