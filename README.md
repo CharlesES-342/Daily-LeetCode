@@ -1,6 +1,6 @@
 # 📖 LeetCode Journey
 
-**🚀 Total Problems Solved: 265**
+**🚀 Total Problems Solved: 267**
 
 This repository tracks my LeetCode progress across multiple years.
 
@@ -327,7 +327,7 @@ This repository tracks my LeetCode progress across multiple years.
 
 ### September
 <details>
-<summary><b>📂 View September 2026 Progress (22 Problems)</b></summary>
+<summary><b>📂 View September 2026 Progress (24 Problems)</b></summary>
 
 | ID | Problem Title | Description | Solution |
 | :--- | :--- | :--- | :--- |
@@ -353,6 +353,8 @@ This repository tracks my LeetCode progress across multiple years.
 | `3498` | **3498. Reverse Degree of a String** | Given a string s, calculate its reverse degree. The reverse degree is calculated as follows: For each character, mult... | [View Code](./2026/September/Day%20263%20-%20(3498).py) |
 | `3524` | **3524. Find X Value of Array I** | You are given an array of positive integers nums, and a positive integer k. You are allowed to perform an operation o... | [View Code](./2026/September/Day%20264%20-%20(3524).py) |
 | `3525` | **3525. Find X Value of Array II** | You are given an array of positive integers nums and a positive integer k. You are also given a 2D array queries, whe... | [View Code](./2026/September/Day%20265%20-%20(3525).py) |
+| `1658` | **1658. Minimum Operations to Reduce X to Zero** | You are given an integer array nums and an integer x. In one operation, you can either remove the leftmost or the rig... | [View Code](./2026/September/Day%20266%20-%20(1658).py) |
+| `3550` | **3550. Smallest Index With Digit Sum Equal to Index** | You are given an integer array nums. Return the smallest index i such that the sum of the digits of nums[i] is equal ... | [View Code](./2026/September/Day%20267%20-%20(3550).py) |
 
 </details>
 
