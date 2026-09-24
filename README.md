@@ -1,6 +1,6 @@
 # 📖 LeetCode Journey
 
-**🚀 Total Problems Solved: 264**
+**🚀 Total Problems Solved: 265**
 
 This repository tracks my LeetCode progress across multiple years.
 
@@ -327,7 +327,7 @@ This repository tracks my LeetCode progress across multiple years.
 
 ### September
 <details>
-<summary><b>📂 View September 2026 Progress (21 Problems)</b></summary>
+<summary><b>📂 View September 2026 Progress (22 Problems)</b></summary>
 
 | ID | Problem Title | Description | Solution |
 | :--- | :--- | :--- | :--- |
@@ -352,6 +352,7 @@ This repository tracks my LeetCode progress across multiple years.
 | `1401` | **1401. Circle and Rectangle Overlapping** | You are given a circle represented as (radius, xCenter, yCenter) and an axis-aligned rectangle represented as (x1, y1... | [View Code](./2026/September/Day%20262%20-%20(1401).py) |
 | `3498` | **3498. Reverse Degree of a String** | Given a string s, calculate its reverse degree. The reverse degree is calculated as follows: For each character, mult... | [View Code](./2026/September/Day%20263%20-%20(3498).py) |
 | `3524` | **3524. Find X Value of Array I** | You are given an array of positive integers nums, and a positive integer k. You are allowed to perform an operation o... | [View Code](./2026/September/Day%20264%20-%20(3524).py) |
+| `3525` | **3525. Find X Value of Array II** | You are given an array of positive integers nums and a positive integer k. You are also given a 2D array queries, whe... | [View Code](./2026/September/Day%20265%20-%20(3525).py) |
 
 </details>
 
