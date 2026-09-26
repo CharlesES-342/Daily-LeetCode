@@ -1,6 +1,6 @@
 # 📖 LeetCode Journey
 
-**🚀 Total Problems Solved: 268**
+**🚀 Total Problems Solved: 269**
 
 This repository tracks my LeetCode progress across multiple years.
 
@@ -327,7 +327,7 @@ This repository tracks my LeetCode progress across multiple years.
 
 ### September
 <details>
-<summary><b>📂 View September 2026 Progress (25 Problems)</b></summary>
+<summary><b>📂 View September 2026 Progress (26 Problems)</b></summary>
 
 | ID | Problem Title | Description | Solution |
 | :--- | :--- | :--- | :--- |
@@ -355,6 +355,7 @@ This repository tracks my LeetCode progress across multiple years.
 | `3525` | **3525. Find X Value of Array II** | You are given an array of positive integers nums and a positive integer k. You are also given a 2D array queries, whe... | [View Code](./2026/September/Day%20265%20-%20(3525).py) |
 | `1658` | **1658. Minimum Operations to Reduce X to Zero** | You are given an integer array nums and an integer x. In one operation, you can either remove the leftmost or the rig... | [View Code](./2026/September/Day%20266%20-%20(1658).py) |
 | `3550` | **3550. Smallest Index With Digit Sum Equal to Index** | You are given an integer array nums. Return the smallest index i such that the sum of the digits of nums[i] is equal ... | [View Code](./2026/September/Day%20267%20-%20(3550).py) |
+| `1096` | **1096. Brace Expansion II** | Under the grammar given below, strings can represent a set of lowercase words. Let R(expr) denote the set of words th... | [View Code](./2026/September/Day%20268%20-%20(1096).py) |
 | `1807` | **1807. Evaluate the Bracket Pairs of a String** | You are given a string s that contains some bracket pairs, with each pair containing a non-empty key. For example, in... | [View Code](./2026/September/Day%20269%20-%20(1807).py) |
 
 </details>
