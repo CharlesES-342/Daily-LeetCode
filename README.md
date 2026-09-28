@@ -1,6 +1,6 @@
 # 📖 LeetCode Journey
 
-**🚀 Total Problems Solved: 269**
+**🚀 Total Problems Solved: 270**
 
 This repository tracks my LeetCode progress across multiple years.
 
@@ -327,7 +327,7 @@ This repository tracks my LeetCode progress across multiple years.
 
 ### September
 <details>
-<summary><b>📂 View September 2026 Progress (26 Problems)</b></summary>
+<summary><b>📂 View September 2026 Progress (27 Problems)</b></summary>
 
 | ID | Problem Title | Description | Solution |
 | :--- | :--- | :--- | :--- |
@@ -357,6 +357,7 @@ This repository tracks my LeetCode progress across multiple years.
 | `3550` | **3550. Smallest Index With Digit Sum Equal to Index** | You are given an integer array nums. Return the smallest index i such that the sum of the digits of nums[i] is equal ... | [View Code](./2026/September/Day%20267%20-%20(3550).py) |
 | `1096` | **1096. Brace Expansion II** | Under the grammar given below, strings can represent a set of lowercase words. Let R(expr) denote the set of words th... | [View Code](./2026/September/Day%20268%20-%20(1096).py) |
 | `1807` | **1807. Evaluate the Bracket Pairs of a String** | You are given a string s that contains some bracket pairs, with each pair containing a non-empty key. For example, in... | [View Code](./2026/September/Day%20269%20-%20(1807).py) |
+| `1190` | **1190. Reverse Substrings Between Each Pair of Parentheses** | You are given a string s that consists of lower case English letters and brackets. Reverse the strings in each pair o... | [View Code](./2026/September/Day%20270%20-%20(1190).py) |
 
 </details>
 
