@@ -1,6 +1,6 @@
 # 📖 LeetCode Journey
 
-**🚀 Total Problems Solved: 271**
+**🚀 Total Problems Solved: 272**
 
 This repository tracks my LeetCode progress across multiple years.
 
@@ -327,7 +327,7 @@ This repository tracks my LeetCode progress across multiple years.
 
 ### September
 <details>
-<summary><b>📂 View September 2026 Progress (28 Problems)</b></summary>
+<summary><b>📂 View September 2026 Progress (29 Problems)</b></summary>
 
 | ID | Problem Title | Description | Solution |
 | :--- | :--- | :--- | :--- |
@@ -359,6 +359,7 @@ This repository tracks my LeetCode progress across multiple years.
 | `1807` | **1807. Evaluate the Bracket Pairs of a String** | You are given a string s that contains some bracket pairs, with each pair containing a non-empty key. For example, in... | [View Code](./2026/September/Day%20269%20-%20(1807).py) |
 | `1190` | **1190. Reverse Substrings Between Each Pair of Parentheses** | You are given a string s that consists of lower case English letters and brackets. Reverse the strings in each pair o... | [View Code](./2026/September/Day%20270%20-%20(1190).py) |
 | `1614` | **1614. Maximum Nesting Depth of the Parentheses** | Given a valid parentheses string s, return the nesting depth of s. The nesting depth is the maximum number of nested ... | [View Code](./2026/September/Day%20271-%20(1614).py) |
+| `2267` | **2267. Check if There Is a Valid Parentheses String Path** | A parentheses string is a non-empty string consisting only of '(' and ')'. It is valid if any of the following condit... | [View Code](./2026/September/Day%20272%20-%20(2267).py) |
 
 </details>
 
