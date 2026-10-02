@@ -1,6 +1,6 @@
 # 📖 LeetCode Journey
 
-**🚀 Total Problems Solved: 273**
+**🚀 Total Problems Solved: 274**
 
 This repository tracks my LeetCode progress across multiple years.
 
@@ -361,6 +361,16 @@ This repository tracks my LeetCode progress across multiple years.
 | `1614` | **1614. Maximum Nesting Depth of the Parentheses** | Given a valid parentheses string s, return the nesting depth of s. The nesting depth is the maximum number of nested ... | [View Code](./2026/September/Day%20271-%20(1614).py) |
 | `2267` | **2267. Check if There Is a Valid Parentheses String Path** | A parentheses string is a non-empty string consisting only of '(' and ')'. It is valid if any of the following condit... | [View Code](./2026/September/Day%20272%20-%20(2267).py) |
 | `1111` | **1111. Maximum Nesting Depth of Two Valid Parentheses Strings** | A string is a valid parentheses string (denoted VPS) if and only if it consists of "(" and ")" characters only, and: ... | [View Code](./2026/September/Day%20273%20-%20(1111).py) |
+
+</details>
+
+### October
+<details>
+<summary><b>📂 View October 2026 Progress (1 Problems)</b></summary>
+
+| ID | Problem Title | Description | Solution |
+| :--- | :--- | :--- | :--- |
+| `20` | **20. Valid Parentheses** | Given a string s containing just the characters '(', ')', '{', '}', '[' and ']', determine if the input string is val... | [View Code](./2026/October/Day%20274%20-%20(20).py) |
 
 </details>
 
