@@ -42,4 +42,6 @@ class Solution(object):
 '''
 Initially, I used 'close_count < n' on line 6, forgetting that valid strings are required, not all possible
 combinations.
+All other solutions that appear to have a fastter run time appear to be a resul of smallerr variable names
+and lack of comments.
 '''
