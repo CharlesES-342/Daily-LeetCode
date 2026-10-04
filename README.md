@@ -1,6 +1,6 @@
 # 📖 LeetCode Journey
 
-**🚀 Total Problems Solved: 276**
+**🚀 Total Problems Solved: 277**
 
 This repository tracks my LeetCode progress across multiple years.
 
@@ -366,13 +366,14 @@ This repository tracks my LeetCode progress across multiple years.
 
 ### October
 <details>
-<summary><b>📂 View October 2026 Progress (3 Problems)</b></summary>
+<summary><b>📂 View October 2026 Progress (4 Problems)</b></summary>
 
 | ID | Problem Title | Description | Solution |
 | :--- | :--- | :--- | :--- |
 | `20` | **20. Valid Parentheses** | Given a string s containing just the characters '(', ')', '{', '}', '[' and ']', determine if the input string is val... | [View Code](./2026/October/Day%20274%20-%20(20).py) |
 | `22` | **22. Generate Parentheses** | Given n pairs of parentheses, write a function to generate all combinations of well-formed parentheses. Example 1: In... | [View Code](./2026/October/Day%20275%20%20(22).py) |
 | `32` | **32. Longest Valid Parentheses** | Given a string containing just the characters '(' and ')', return the length of the longest valid (well-formed) paren... | [View Code](./2026/October/Day%20276%20-%20(32).py) |
+| `678` | **678. Valid Parenthesis String** | Given a string s containing only three types of characters: '(', ')' and '*', return true if s is valid. The followin... | [View Code](./2026/October/Day%20277%20-%20(678).py) |
 
 </details>
 
