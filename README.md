@@ -1,6 +1,6 @@
 # 📖 LeetCode Journey
 
-**🚀 Total Problems Solved: 280**
+**🚀 Total Problems Solved: 281**
 
 This repository tracks my LeetCode progress across multiple years.
 
@@ -366,7 +366,7 @@ This repository tracks my LeetCode progress across multiple years.
 
 ### October
 <details>
-<summary><b>📂 View October 2026 Progress (7 Problems)</b></summary>
+<summary><b>📂 View October 2026 Progress (8 Problems)</b></summary>
 
 | ID | Problem Title | Description | Solution |
 | :--- | :--- | :--- | :--- |
@@ -377,6 +377,7 @@ This repository tracks my LeetCode progress across multiple years.
 | `856` | **856. Score of Parentheses** | Given a balanced parentheses string s, return the score of the string. The score of a balanced parentheses string is ... | [View Code](./2026/October/Day%20278%20-%20(856).py) |
 | `921` | **921. Minimum Add to Make Parentheses Valid** | A parentheses string is valid if and only if: It is the empty string, It can be written as AB (A concatenated with B)... | [View Code](./2026/October/Day%20279%20-%20(921).py) |
 | `301` | **301. Remove Invalid Parentheses** | Given a string s that contains parentheses and letters, remove the minimum number of invalid parentheses to make the ... | [View Code](./2026/October/Day%20280%20-%20(301).py) |
+| `1021` | **1021. Remove Outermost Parentheses** | A valid parentheses string is either empty "", "(" + A + ")", or A + B, where A and B are valid parentheses strings, ... | [View Code](./2026/October/Day%20281%20-%20(1021).py) |
 
 </details>
 
