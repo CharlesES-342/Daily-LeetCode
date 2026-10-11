@@ -1,6 +1,6 @@
 # 📖 LeetCode Journey
 
-**🚀 Total Problems Solved: 282**
+**🚀 Total Problems Solved: 284**
 
 This repository tracks my LeetCode progress across multiple years.
 
@@ -366,7 +366,7 @@ This repository tracks my LeetCode progress across multiple years.
 
 ### October
 <details>
-<summary><b>📂 View October 2026 Progress (9 Problems)</b></summary>
+<summary><b>📂 View October 2026 Progress (11 Problems)</b></summary>
 
 | ID | Problem Title | Description | Solution |
 | :--- | :--- | :--- | :--- |
@@ -379,6 +379,8 @@ This repository tracks my LeetCode progress across multiple years.
 | `301` | **301. Remove Invalid Parentheses** | Given a string s that contains parentheses and letters, remove the minimum number of invalid parentheses to make the ... | [View Code](./2026/October/Day%20280%20-%20(301).py) |
 | `1021` | **1021. Remove Outermost Parentheses** | A valid parentheses string is either empty "", "(" + A + ")", or A + B, where A and B are valid parentheses strings, ... | [View Code](./2026/October/Day%20281%20-%20(1021).py) |
 | `1541` | **1541. Minimum Insertions to Balance a Parentheses String** | Given a parentheses string s containing only the characters '(' and ')'. A parentheses string is balanced if: Any lef... | [View Code](./2026/October/Day%20282%20-%20(1541).py) |
+| `2333` | **2333. Minimum Sum of Squared Difference** | You are given two positive 0-indexed integer arrays nums1 and nums2, both of length n. The sum of squared difference ... | [View Code](./2026/October/Day%20283%20-%20(2333).py) |
+| `2778` | **2778. Sum of Squares of Special Elements** | You are given a 1-indexed integer array nums of length n. An element nums[i] of nums is called special if i divides n... | [View Code](./2026/October/Day%20284%20-%20(2778).py) |
 
 </details>
 
