@@ -1,6 +1,6 @@
 # 📖 LeetCode Journey
 
-**🚀 Total Problems Solved: 281**
+**🚀 Total Problems Solved: 282**
 
 This repository tracks my LeetCode progress across multiple years.
 
@@ -366,7 +366,7 @@ This repository tracks my LeetCode progress across multiple years.
 
 ### October
 <details>
-<summary><b>📂 View October 2026 Progress (8 Problems)</b></summary>
+<summary><b>📂 View October 2026 Progress (9 Problems)</b></summary>
 
 | ID | Problem Title | Description | Solution |
 | :--- | :--- | :--- | :--- |
@@ -378,6 +378,7 @@ This repository tracks my LeetCode progress across multiple years.
 | `921` | **921. Minimum Add to Make Parentheses Valid** | A parentheses string is valid if and only if: It is the empty string, It can be written as AB (A concatenated with B)... | [View Code](./2026/October/Day%20279%20-%20(921).py) |
 | `301` | **301. Remove Invalid Parentheses** | Given a string s that contains parentheses and letters, remove the minimum number of invalid parentheses to make the ... | [View Code](./2026/October/Day%20280%20-%20(301).py) |
 | `1021` | **1021. Remove Outermost Parentheses** | A valid parentheses string is either empty "", "(" + A + ")", or A + B, where A and B are valid parentheses strings, ... | [View Code](./2026/October/Day%20281%20-%20(1021).py) |
+| `1541` | **1541. Minimum Insertions to Balance a Parentheses String** | Given a parentheses string s containing only the characters '(' and ')'. A parentheses string is balanced if: Any lef... | [View Code](./2026/October/Day%20282%20-%20(1541).py) |
 
 </details>
 
