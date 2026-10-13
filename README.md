@@ -1,6 +1,6 @@
 # 📖 LeetCode Journey
 
-**🚀 Total Problems Solved: 285**
+**🚀 Total Problems Solved: 286**
 
 This repository tracks my LeetCode progress across multiple years.
 
@@ -366,7 +366,7 @@ This repository tracks my LeetCode progress across multiple years.
 
 ### October
 <details>
-<summary><b>📂 View October 2026 Progress (12 Problems)</b></summary>
+<summary><b>📂 View October 2026 Progress (13 Problems)</b></summary>
 
 | ID | Problem Title | Description | Solution |
 | :--- | :--- | :--- | :--- |
@@ -382,6 +382,7 @@ This repository tracks my LeetCode progress across multiple years.
 | `2333` | **2333. Minimum Sum of Squared Difference** | You are given two positive 0-indexed integer arrays nums1 and nums2, both of length n. The sum of squared difference ... | [View Code](./2026/October/Day%20283%20-%20(2333).py) |
 | `2778` | **2778. Sum of Squares of Special Elements** | You are given a 1-indexed integer array nums of length n. An element nums[i] of nums is called special if i divides n... | [View Code](./2026/October/Day%20284%20-%20(2778).py) |
 | `2897` | **2897. Apply Operations on Array to Maximize Sum of Squares** | You are given a 0-indexed integer array nums and a positive integer k. You can do the following operation on the arra... | [View Code](./2026/October/Day%20285%20-%20(2897).py) |
+| `3727` | **3727. Maximum Alternating Sum of Squares** | You are given an integer array nums. You may rearrange the elements in any order. The alternating score of an array a... | [View Code](./2026/October/Day%20286%20-%20(3727).py) |
 
 </details>
 
