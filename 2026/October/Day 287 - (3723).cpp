@@ -66,6 +66,11 @@
 /*
 This was Chosen to be written as a C++ solution to help me prepare for my job interview.
 */
+#include <iostream>
+#include <string>
+#include <algorithm>
+
+using namespace std;
 
 class Solution {
 public:
