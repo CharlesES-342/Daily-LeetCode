@@ -1,6 +1,6 @@
 # 📖 LeetCode Journey
 
-**🚀 Total Problems Solved: 286**
+**🚀 Total Problems Solved: 287**
 
 This repository tracks my LeetCode progress across multiple years.
 
@@ -366,7 +366,7 @@ This repository tracks my LeetCode progress across multiple years.
 
 ### October
 <details>
-<summary><b>📂 View October 2026 Progress (13 Problems)</b></summary>
+<summary><b>📂 View October 2026 Progress (14 Problems)</b></summary>
 
 | ID | Problem Title | Description | Solution |
 | :--- | :--- | :--- | :--- |
@@ -383,6 +383,7 @@ This repository tracks my LeetCode progress across multiple years.
 | `2778` | **2778. Sum of Squares of Special Elements** | You are given a 1-indexed integer array nums of length n. An element nums[i] of nums is called special if i divides n... | [View Code](./2026/October/Day%20284%20-%20(2778).py) |
 | `2897` | **2897. Apply Operations on Array to Maximize Sum of Squares** | You are given a 0-indexed integer array nums and a positive integer k. You can do the following operation on the arra... | [View Code](./2026/October/Day%20285%20-%20(2897).py) |
 | `3727` | **3727. Maximum Alternating Sum of Squares** | You are given an integer array nums. You may rearrange the elements in any order. The alternating score of an array a... | [View Code](./2026/October/Day%20286%20-%20(3727).py) |
+| `2916` | **2916. Subarrays Distinct Element Sum of Squares II** | You are given a 0-indexed integer array nums. The distinct count of a subarray of nums is defined as: Let nums[i..j] ... | [View Code](./2026/October/Day%20289%20-%20(2916).py) |
 
 </details>
 
