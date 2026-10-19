@@ -1,6 +1,6 @@
 # 📖 LeetCode Journey
 
-**🚀 Total Problems Solved: 288**
+**🚀 Total Problems Solved: 290**
 
 This repository tracks my LeetCode progress across multiple years.
 
@@ -366,7 +366,7 @@ This repository tracks my LeetCode progress across multiple years.
 
 ### October
 <details>
-<summary><b>📂 View October 2026 Progress (15 Problems)</b></summary>
+<summary><b>📂 View October 2026 Progress (17 Problems)</b></summary>
 
 | ID | Problem Title | Description | Solution |
 | :--- | :--- | :--- | :--- |
@@ -385,6 +385,8 @@ This repository tracks my LeetCode progress across multiple years.
 | `3727` | **3727. Maximum Alternating Sum of Squares** | You are given an integer array nums. You may rearrange the elements in any order. The alternating score of an array a... | [View Code](./2026/October/Day%20286%20-%20(3727).py) |
 | `2916` | **2916. Subarrays Distinct Element Sum of Squares II** | You are given a 0-indexed integer array nums. The distinct count of a subarray of nums is defined as: Let nums[i..j] ... | [View Code](./2026/October/Day%20289%20-%20(2916).py) |
 | `3551` | **3551. Minimum Swaps to Sort by Digit Sum** | You are given an array nums of distinct positive integers. You need to sort the array in increasing order based on th... | [View Code](./2026/October/Day%20290%20-%20(3551).py) |
+| `1569` | **1569. Number of Ways to Reorder Array to Get Same BST** | Given an array nums that represents a permutation of integers from 1 to n. We are going to construct a binary search ... | [View Code](./2026/October/Day%20291%20-%20(1569).py) |
+| `2089` | **2089. Find Target Indices After Sorting Array** | You are given a 0-indexed integer array nums and a target element target. A target index is an index i such that nums... | [View Code](./2026/October/Day%20292%20-%20(2089).py) |
 
 </details>
 
