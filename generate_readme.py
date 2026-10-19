@@ -59,7 +59,7 @@ def generate_readme():
 
         for month in sorted_months:
             month_path = os.path.join(year, month)
-            py_files = [f for f in os.listdir(month_path) if f.endswith(".py")]
+            py_files = [f for f in os.listdir(month_path) if f.endswith(".py") or f.endswith(".ipynb") or f.endswith(".cpp")]
             
             if not py_files:
                 continue
