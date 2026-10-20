@@ -389,7 +389,7 @@ This repository tracks my LeetCode progress across multiple years.
 | `3551` | **3551. Minimum Swaps to Sort by Digit Sum** | You are given an array nums of distinct positive integers. You need to sort the array in increasing order based on th... | [View Code](./2026/October/Day%20290%20-%20(3551).py) |
 | `1569` | **1569. Number of Ways to Reorder Array to Get Same BST** | Given an array nums that represents a permutation of integers from 1 to n. We are going to construct a binary search ... | [View Code](./2026/October/Day%20291%20-%20(1569).py) |
 | `2089` | **2089. Find Target Indices After Sorting Array** | You are given a 0-indexed integer array nums and a target element target. A target index is an index i such that nums... | [View Code](./2026/October/Day%20292%20-%20(2089).py) |
-| `N/A` | **Unknown Title** | No description provided. | [View Code](./2026/October/Day%20293%20-%20().py) |
+| `3886` | **3886. Sum of Sortable Integers** | You are given an integer array nums of length n. An integer k is called sortable if k divides n and you can sort nums... | [View Code](./2026/October/Day%20293%20-%20(3886).py) |
 
 </details>
 
