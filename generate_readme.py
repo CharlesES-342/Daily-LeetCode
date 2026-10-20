@@ -59,6 +59,7 @@ def generate_readme():
 
         for month in sorted_months:
             month_path = os.path.join(year, month)
+            # TODO: add the different file types that will count to the daily count here
             py_files = [f for f in os.listdir(month_path) if f.endswith(".py") or f.endswith(".ipynb") or f.endswith(".cpp")]
             
             if not py_files:
