@@ -1,6 +1,6 @@
 # 📖 LeetCode Journey
 
-**🚀 Total Problems Solved: 294**
+**🚀 Total Problems Solved: 295**
 
 This repository tracks my LeetCode progress across multiple years.
 
@@ -366,7 +366,7 @@ This repository tracks my LeetCode progress across multiple years.
 
 ### October
 <details>
-<summary><b>📂 View October 2026 Progress (21 Problems)</b></summary>
+<summary><b>📂 View October 2026 Progress (22 Problems)</b></summary>
 
 | ID | Problem Title | Description | Solution |
 | :--- | :--- | :--- | :--- |
@@ -391,6 +391,7 @@ This repository tracks my LeetCode progress across multiple years.
 | `2089` | **2089. Find Target Indices After Sorting Array** | You are given a 0-indexed integer array nums and a target element target. A target index is an index i such that nums... | [View Code](./2026/October/Day%20292%20-%20(2089).py) |
 | `3886` | **3886. Sum of Sortable Integers** | You are given an integer array nums of length n. An integer k is called sortable if k divides n and you can sort nums... | [View Code](./2026/October/Day%20293%20-%20(3886).py) |
 | `3863` | **3863. Minimum Operations to Sort a String** | You are given a string s consisting of lowercase English letters. In one operation, you can select any substring of s... | [View Code](./2026/October/Day%20294%20-%20(3863).py) |
+| `3942` | **3942. Minimum Operations to Sort a Permutation** | You are given an integer array nums of length n, where nums is a permutation of the integers from 0 to n - 1. You may... | [View Code](./2026/October/Day%20295%20-%20(3942).py) |
 
 </details>
 
