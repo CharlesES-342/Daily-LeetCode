@@ -1,6 +1,6 @@
 # 📖 LeetCode Journey
 
-**🚀 Total Problems Solved: 299**
+**🚀 Total Problems Solved: 300**
 
 This repository tracks my LeetCode progress across multiple years.
 
@@ -366,7 +366,7 @@ This repository tracks my LeetCode progress across multiple years.
 
 ### October
 <details>
-<summary><b>📂 View October 2026 Progress (26 Problems)</b></summary>
+<summary><b>📂 View October 2026 Progress (27 Problems)</b></summary>
 
 | ID | Problem Title | Description | Solution |
 | :--- | :--- | :--- | :--- |
@@ -396,6 +396,7 @@ This repository tracks my LeetCode progress across multiple years.
 | `2409` | **2409. Count Days Spent Together** | Alice and Bob are traveling to Rome for separate business meetings. You are given 4 strings arriveAlice, leaveAlice, ... | [View Code](./2026/October/Day%20297%20-%20(2409).py) |
 | `1254` | **1254. Number of Closed Islands** | Given a 2D grid consists of 0s (land) and 1s (water).  An island is a maximal 4-directionally connected group of 0s a... | [View Code](./2026/October/Day%20298%20-%20(1254).py) |
 | `3619` | **3619. Count Islands With Total Value Divisible by K** | You are given an m x n matrix grid and a positive integer k. An island is a group of positive integers (representing ... | [View Code](./2026/October/Day%20299%20-%20(3619).py) |
+| `3963` | **3963. Create Grid With Exactly One Path** | You are given two integers m and n, representing the number of rows and columns of a grid. Construct any m x n grid c... | [View Code](./2026/October/Day%20300%20-%20(3963).py) |
 
 </details>
 
