@@ -1,6 +1,6 @@
 # 📖 LeetCode Journey
 
-**🚀 Total Problems Solved: 301**
+**🚀 Total Problems Solved: 302**
 
 This repository tracks my LeetCode progress across multiple years.
 
@@ -366,7 +366,7 @@ This repository tracks my LeetCode progress across multiple years.
 
 ### October
 <details>
-<summary><b>📂 View October 2026 Progress (28 Problems)</b></summary>
+<summary><b>📂 View October 2026 Progress (29 Problems)</b></summary>
 
 | ID | Problem Title | Description | Solution |
 | :--- | :--- | :--- | :--- |
@@ -398,6 +398,7 @@ This repository tracks my LeetCode progress across multiple years.
 | `3619` | **3619. Count Islands With Total Value Divisible by K** | You are given an m x n matrix grid and a positive integer k. An island is a group of positive integers (representing ... | [View Code](./2026/October/Day%20299%20-%20(3619).py) |
 | `3963` | **3963. Create Grid With Exactly One Path** | You are given two integers m and n, representing the number of rows and columns of a grid. Construct any m x n grid c... | [View Code](./2026/October/Day%20300%20-%20(3963).py) |
 | `3882` | **3882. Minimum XOR Path in a Grid** | You are given a 2D integer array grid of size m * n. You start at the top-left cell (0, 0) and want to reach the bott... | [View Code](./2026/October/Day%20301%20-%20(3882).py) |
+| `3841` | **3841. Palindromic Path Queries in a Tree** | You are given an undirected tree with n nodes labeled 0 to n - 1. This is represented by a 2D array edges of length n... | [View Code](./2026/October/Day%20302%20-%20(3841).py) |
 
 </details>
 
