@@ -1,6 +1,6 @@
 # 📖 LeetCode Journey
 
-**🚀 Total Problems Solved: 302**
+**🚀 Total Problems Solved: 303**
 
 This repository tracks my LeetCode progress across multiple years.
 
@@ -366,7 +366,7 @@ This repository tracks my LeetCode progress across multiple years.
 
 ### October
 <details>
-<summary><b>📂 View October 2026 Progress (29 Problems)</b></summary>
+<summary><b>📂 View October 2026 Progress (30 Problems)</b></summary>
 
 | ID | Problem Title | Description | Solution |
 | :--- | :--- | :--- | :--- |
@@ -399,6 +399,7 @@ This repository tracks my LeetCode progress across multiple years.
 | `3963` | **3963. Create Grid With Exactly One Path** | You are given two integers m and n, representing the number of rows and columns of a grid. Construct any m x n grid c... | [View Code](./2026/October/Day%20300%20-%20(3963).py) |
 | `3882` | **3882. Minimum XOR Path in a Grid** | You are given a 2D integer array grid of size m * n. You start at the top-left cell (0, 0) and want to reach the bott... | [View Code](./2026/October/Day%20301%20-%20(3882).py) |
 | `3841` | **3841. Palindromic Path Queries in a Tree** | You are given an undirected tree with n nodes labeled 0 to n - 1. This is represented by a 2D array edges of length n... | [View Code](./2026/October/Day%20302%20-%20(3841).py) |
+| `3970` | **3970. Shortest Path With At Most K Consecutive Identical Characters** | You are given an integer n representing the number of nodes in a directed weighted graph, numbered from 0 to n - 1. T... | [View Code](./2026/October/Day%20303%20-%20(3970).py) |
 
 </details>
 
