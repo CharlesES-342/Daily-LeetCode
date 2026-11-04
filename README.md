@@ -1,6 +1,6 @@
 # 📖 LeetCode Journey
 
-**🚀 Total Problems Solved: 306**
+**🚀 Total Problems Solved: 307**
 
 This repository tracks my LeetCode progress across multiple years.
 
@@ -406,12 +406,13 @@ This repository tracks my LeetCode progress across multiple years.
 
 ### November
 <details>
-<summary><b>📂 View November 2026 Progress (2 Problems)</b></summary>
+<summary><b>📂 View November 2026 Progress (3 Problems)</b></summary>
 
 | ID | Problem Title | Description | Solution |
 | :--- | :--- | :--- | :--- |
 | `453` | **453. Minimum Moves to Equal Array Elements** | Given an integer array nums of size n, return the minimum number of moves required to make all array elements equal. ... | [View Code](./2026/November/Day%20305%20-%20(453).py) |
 | `462` | **462. Minimum Moves to Equal Array Elements II** | Given an integer array nums of size n, return the minimum number of moves required to make all array elements equal. ... | [View Code](./2026/November/Day%20306%20-%20(462).py) |
+| `3736` | **3736. Minimum Moves to Equal Array Elements III** | You are given an integer array nums. In one move, you may increase the value of any single element nums[i] by 1. Retu... | [View Code](./2026/November/Day%20307%20-%20(3736).py) |
 
 </details>
 
