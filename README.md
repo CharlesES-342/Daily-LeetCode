@@ -1,6 +1,6 @@
 # 📖 LeetCode Journey
 
-**🚀 Total Problems Solved: 308**
+**🚀 Total Problems Solved: 309**
 
 This repository tracks my LeetCode progress across multiple years.
 
@@ -406,7 +406,7 @@ This repository tracks my LeetCode progress across multiple years.
 
 ### November
 <details>
-<summary><b>📂 View November 2026 Progress (4 Problems)</b></summary>
+<summary><b>📂 View November 2026 Progress (5 Problems)</b></summary>
 
 | ID | Problem Title | Description | Solution |
 | :--- | :--- | :--- | :--- |
@@ -414,6 +414,7 @@ This repository tracks my LeetCode progress across multiple years.
 | `462` | **462. Minimum Moves to Equal Array Elements II** | Given an integer array nums of size n, return the minimum number of moves required to make all array elements equal. ... | [View Code](./2026/November/Day%20306%20-%20(462).py) |
 | `3736` | **3736. Minimum Moves to Equal Array Elements III** | You are given an integer array nums. In one move, you may increase the value of any single element nums[i] by 1. Retu... | [View Code](./2026/November/Day%20307%20-%20(3736).py) |
 | `3505` | **3505. Minimum Operations to Make Elements Within K Subarrays Equal** | You are given an integer array nums and two integers, x and k. You can perform the following operation any number of ... | [View Code](./2026/November/Day%20308%20-%20(3505).py) |
+| `1385` | **1385. Find the Distance Value Between Two Arrays** | Given two integer arrays arr1 and arr2, and the integer d, return the distance value between the two arrays. The dist... | [View Code](./2026/November/Day%20309%20-%20(1385).py) |
 
 </details>
 
