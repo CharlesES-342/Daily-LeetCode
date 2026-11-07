@@ -1,6 +1,6 @@
 # 📖 LeetCode Journey
 
-**🚀 Total Problems Solved: 309**
+**🚀 Total Problems Solved: 310**
 
 This repository tracks my LeetCode progress across multiple years.
 
@@ -406,7 +406,7 @@ This repository tracks my LeetCode progress across multiple years.
 
 ### November
 <details>
-<summary><b>📂 View November 2026 Progress (5 Problems)</b></summary>
+<summary><b>📂 View November 2026 Progress (6 Problems)</b></summary>
 
 | ID | Problem Title | Description | Solution |
 | :--- | :--- | :--- | :--- |
@@ -415,6 +415,7 @@ This repository tracks my LeetCode progress across multiple years.
 | `3736` | **3736. Minimum Moves to Equal Array Elements III** | You are given an integer array nums. In one move, you may increase the value of any single element nums[i] by 1. Retu... | [View Code](./2026/November/Day%20307%20-%20(3736).py) |
 | `3505` | **3505. Minimum Operations to Make Elements Within K Subarrays Equal** | You are given an integer array nums and two integers, x and k. You can perform the following operation any number of ... | [View Code](./2026/November/Day%20308%20-%20(3505).py) |
 | `1385` | **1385. Find the Distance Value Between Two Arrays** | Given two integer arrays arr1 and arr2, and the integer d, return the distance value between the two arrays. The dist... | [View Code](./2026/November/Day%20309%20-%20(1385).py) |
+| `2747` | **2747. Count Zero Request Servers** | You are given an integer n denoting the total number of servers and a 2D 0-indexed integer array logs, where logs[i] ... | [View Code](./2026/November/Day%20310%20-%20(2747).py) |
 
 </details>
 
