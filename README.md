@@ -1,6 +1,6 @@
 # 📖 LeetCode Journey
 
-**🚀 Total Problems Solved: 312**
+**🚀 Total Problems Solved: 313**
 
 This repository tracks my LeetCode progress across multiple years.
 
@@ -406,7 +406,7 @@ This repository tracks my LeetCode progress across multiple years.
 
 ### November
 <details>
-<summary><b>📂 View November 2026 Progress (8 Problems)</b></summary>
+<summary><b>📂 View November 2026 Progress (9 Problems)</b></summary>
 
 | ID | Problem Title | Description | Solution |
 | :--- | :--- | :--- | :--- |
@@ -418,6 +418,7 @@ This repository tracks my LeetCode progress across multiple years.
 | `2747` | **2747. Count Zero Request Servers** | You are given an integer n denoting the total number of servers and a 2D 0-indexed integer array logs, where logs[i] ... | [View Code](./2026/November/Day%20310%20-%20(2747).py) |
 | `1882` | **1882. Process Tasks Using Servers** | You are given two 0-indexed integer arrays servers and tasks of lengths n​​​​​​ and m​​​​​​ respectively. servers[i] ... | [View Code](./2026/November/Day%20311%20-%20(1882).py) |
 | `1267` | **1267. Count Servers that Communicate** | You are given a map of a server center, represented as a m * n integer matrix grid, where 1 means that on that cell t... | [View Code](./2026/November/Day%20312%20-%20(1267).py) |
+| `1606` | **1606. Find Servers That Handled Most Number of Requests** | You have k servers numbered from 0 to k-1 that are being used to handle multiple requests simultaneously. Each server... | [View Code](./2026/November/Day%20313%20-%20(1606).py) |
 
 </details>
 
