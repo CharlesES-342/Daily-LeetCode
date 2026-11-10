@@ -1,6 +1,6 @@
 # 📖 LeetCode Journey
 
-**🚀 Total Problems Solved: 311**
+**🚀 Total Problems Solved: 312**
 
 This repository tracks my LeetCode progress across multiple years.
 
@@ -406,7 +406,7 @@ This repository tracks my LeetCode progress across multiple years.
 
 ### November
 <details>
-<summary><b>📂 View November 2026 Progress (7 Problems)</b></summary>
+<summary><b>📂 View November 2026 Progress (8 Problems)</b></summary>
 
 | ID | Problem Title | Description | Solution |
 | :--- | :--- | :--- | :--- |
@@ -417,6 +417,7 @@ This repository tracks my LeetCode progress across multiple years.
 | `1385` | **1385. Find the Distance Value Between Two Arrays** | Given two integer arrays arr1 and arr2, and the integer d, return the distance value between the two arrays. The dist... | [View Code](./2026/November/Day%20309%20-%20(1385).py) |
 | `2747` | **2747. Count Zero Request Servers** | You are given an integer n denoting the total number of servers and a 2D 0-indexed integer array logs, where logs[i] ... | [View Code](./2026/November/Day%20310%20-%20(2747).py) |
 | `1882` | **1882. Process Tasks Using Servers** | You are given two 0-indexed integer arrays servers and tasks of lengths n​​​​​​ and m​​​​​​ respectively. servers[i] ... | [View Code](./2026/November/Day%20311%20-%20(1882).py) |
+| `1267` | **1267. Count Servers that Communicate** | You are given a map of a server center, represented as a m * n integer matrix grid, where 1 means that on that cell t... | [View Code](./2026/November/Day%20312%20-%20(1267).py) |
 
 </details>
 
