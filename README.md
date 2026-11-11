@@ -1,6 +1,6 @@
 # 📖 LeetCode Journey
 
-**🚀 Total Problems Solved: 313**
+**🚀 Total Problems Solved: 314**
 
 This repository tracks my LeetCode progress across multiple years.
 
@@ -406,7 +406,7 @@ This repository tracks my LeetCode progress across multiple years.
 
 ### November
 <details>
-<summary><b>📂 View November 2026 Progress (9 Problems)</b></summary>
+<summary><b>📂 View November 2026 Progress (10 Problems)</b></summary>
 
 | ID | Problem Title | Description | Solution |
 | :--- | :--- | :--- | :--- |
@@ -419,6 +419,7 @@ This repository tracks my LeetCode progress across multiple years.
 | `1882` | **1882. Process Tasks Using Servers** | You are given two 0-indexed integer arrays servers and tasks of lengths n​​​​​​ and m​​​​​​ respectively. servers[i] ... | [View Code](./2026/November/Day%20311%20-%20(1882).py) |
 | `1267` | **1267. Count Servers that Communicate** | You are given a map of a server center, represented as a m * n integer matrix grid, where 1 means that on that cell t... | [View Code](./2026/November/Day%20312%20-%20(1267).py) |
 | `1606` | **1606. Find Servers That Handled Most Number of Requests** | You have k servers numbered from 0 to k-1 that are being used to handle multiple requests simultaneously. Each server... | [View Code](./2026/November/Day%20313%20-%20(1606).py) |
+| `3693` | **3693. Climbing Stairs II** | You are climbing a staircase with n + 1 steps, numbered from 0 to n. You are also given a 1-indexed integer array cos... | [View Code](./2026/November/Day%20314%20-%20(3693).py) |
 
 </details>
 
