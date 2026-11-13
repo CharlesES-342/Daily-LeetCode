@@ -1,6 +1,6 @@
 # 📖 LeetCode Journey
 
-**🚀 Total Problems Solved: 315**
+**🚀 Total Problems Solved: 316**
 
 This repository tracks my LeetCode progress across multiple years.
 
@@ -406,7 +406,7 @@ This repository tracks my LeetCode progress across multiple years.
 
 ### November
 <details>
-<summary><b>📂 View November 2026 Progress (11 Problems)</b></summary>
+<summary><b>📂 View November 2026 Progress (12 Problems)</b></summary>
 
 | ID | Problem Title | Description | Solution |
 | :--- | :--- | :--- | :--- |
@@ -421,6 +421,7 @@ This repository tracks my LeetCode progress across multiple years.
 | `1606` | **1606. Find Servers That Handled Most Number of Requests** | You have k servers numbered from 0 to k-1 that are being used to handle multiple requests simultaneously. Each server... | [View Code](./2026/November/Day%20313%20-%20(1606).py) |
 | `3693` | **3693. Climbing Stairs II** | You are climbing a staircase with n + 1 steps, numbered from 0 to n. You are also given a 1-indexed integer array cos... | [View Code](./2026/November/Day%20314%20-%20(3693).py) |
 | `3789` | **3789. Minimum Cost to Acquire Required Items** | You are given five integers cost1, cost2, costBoth, need1, and need2. There are three types of items available: An it... | [View Code](./2026/November/Day%20315%20-%20(3789).py) |
+| `3105` | **3105. Longest Strictly Increasing or Strictly Decreasing Subarray** | You are given an array of integers nums. Return the length of the longest subarray of nums which is either strictly i... | [View Code](./2026/November/Day%20316%20-%20(3105).py) |
 
 </details>
 
