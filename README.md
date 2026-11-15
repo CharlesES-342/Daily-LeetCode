@@ -1,6 +1,6 @@
 # 📖 LeetCode Journey
 
-**🚀 Total Problems Solved: 318**
+**🚀 Total Problems Solved: 319**
 
 This repository tracks my LeetCode progress across multiple years.
 
@@ -406,7 +406,7 @@ This repository tracks my LeetCode progress across multiple years.
 
 ### November
 <details>
-<summary><b>📂 View November 2026 Progress (14 Problems)</b></summary>
+<summary><b>📂 View November 2026 Progress (15 Problems)</b></summary>
 
 | ID | Problem Title | Description | Solution |
 | :--- | :--- | :--- | :--- |
@@ -424,6 +424,7 @@ This repository tracks my LeetCode progress across multiple years.
 | `3105` | **3105. Longest Strictly Increasing or Strictly Decreasing Subarray** | You are given an array of integers nums. Return the length of the longest subarray of nums which is either strictly i... | [View Code](./2026/November/Day%20316%20-%20(3105).py) |
 | `3420` | **3420. Count Non-Decreasing Subarrays After K Operations** | You are given an array nums of n integers and an integer k. For each subarray of nums, you can apply up to k operatio... | [View Code](./2026/November/Day%20317%20-%20(3420).py) |
 | `3364` | **3364. Minimum Positive Sum Subarray** | You are given an integer array nums and two integers l and r. Your task is to find the minimum sum of a subarray whos... | [View Code](./2026/November/Day%20318%20-%20(3364).py) |
+| `1524` | **1524. Number of Sub-arrays With Odd Sum** | Given an array of integers arr, return the number of subarrays with an odd sum. Since the answer can be very large, r... | [View Code](./2026/November/Day%20319%20-%20(1524).py) |
 
 </details>
 
