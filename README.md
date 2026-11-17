@@ -1,6 +1,6 @@
 # 📖 LeetCode Journey
 
-**🚀 Total Problems Solved: 320**
+**🚀 Total Problems Solved: 321**
 
 This repository tracks my LeetCode progress across multiple years.
 
@@ -406,7 +406,7 @@ This repository tracks my LeetCode progress across multiple years.
 
 ### November
 <details>
-<summary><b>📂 View November 2026 Progress (16 Problems)</b></summary>
+<summary><b>📂 View November 2026 Progress (17 Problems)</b></summary>
 
 | ID | Problem Title | Description | Solution |
 | :--- | :--- | :--- | :--- |
@@ -426,6 +426,7 @@ This repository tracks my LeetCode progress across multiple years.
 | `3364` | **3364. Minimum Positive Sum Subarray** | You are given an integer array nums and two integers l and r. Your task is to find the minimum sum of a subarray whos... | [View Code](./2026/November/Day%20318%20-%20(3364).py) |
 | `1524` | **1524. Number of Sub-arrays With Odd Sum** | Given an array of integers arr, return the number of subarrays with an odd sum. Since the answer can be very large, r... | [View Code](./2026/November/Day%20319%20-%20(1524).py) |
 | `2243` | **2243. Calculate Digit Sum of a String** | You are given a string s consisting of digits and an integer k. A round can be completed if the length of s is greate... | [View Code](./2026/November/Day%20320%20-%20(2243).py) |
+| `2911` | **2911. Minimum Changes to Make K Semi-palindromes** | Given a string s and an integer k, partition s into k substrings such that the letter changes needed to make each sub... | [View Code](./2026/November/Day%20321%20-%20(2911).py) |
 
 </details>
 
