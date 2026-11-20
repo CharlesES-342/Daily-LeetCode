@@ -1,0 +1,36 @@
+name: Generate redo files
+
+on:
+  workflow_dispatch:   # manual run only
+    inputs:
+      year:
+        description: "Year folder to process (blank = current year)"
+        required: false
+        default: ""
+
+permissions:
+  contents: write
+
+jobs:
+  redo:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Generate redo files
+        env:
+          YEAR: ${{ inputs.year }}
+        run: python scripts/generate_redo.py ${YEAR:+--year "$YEAR"}
+
+      # always() so partial progress is still committed if the script fails midway
+      - name: Commit results
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add redo README.md
+          git diff --staged --quiet || (git commit -m "Add redo files" && git push)
