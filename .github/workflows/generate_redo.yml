@@ -24,7 +24,7 @@ jobs:
       - name: Generate redo files
         env:
           YEAR: ${{ inputs.year }}
-        run: python scripts/check_ai_content.py ${YEAR:+--year "$YEAR"}
+        run: python check_ai_content.py ${YEAR:+--year "$YEAR"}
 
       # always() so partial progress is still committed if the script fails midway
       - name: Commit results
