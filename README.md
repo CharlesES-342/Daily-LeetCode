@@ -1,6 +1,6 @@
 # 📖 LeetCode Journey
 
-**🚀 Total Problems Solved: 322**
+**🚀 Total Problems Solved: 323**
 
 This repository tracks my LeetCode progress across multiple years.
 
@@ -406,7 +406,7 @@ This repository tracks my LeetCode progress across multiple years.
 
 ### November
 <details>
-<summary><b>📂 View November 2026 Progress (18 Problems)</b></summary>
+<summary><b>📂 View November 2026 Progress (19 Problems)</b></summary>
 
 | ID | Problem Title | Description | Solution |
 | :--- | :--- | :--- | :--- |
@@ -428,6 +428,7 @@ This repository tracks my LeetCode progress across multiple years.
 | `2243` | **2243. Calculate Digit Sum of a String** | You are given a string s consisting of digits and an integer k. A round can be completed if the length of s is greate... | [View Code](./2026/November/Day%20320%20-%20(2243).py) |
 | `2911` | **2911. Minimum Changes to Make K Semi-palindromes** | Given a string s and an integer k, partition s into k substrings such that the letter changes needed to make each sub... | [View Code](./2026/November/Day%20321%20-%20(2911).py) |
 | `2914` | **2914. Minimum Number of Changes to Make Binary String Beautiful** | You are given a 0-indexed binary string s having an even length. A string is beautiful if it's possible to partition ... | [View Code](./2026/November/Day%20322%20-%20(2914).py) |
+| `2567` | **2567. Minimum Score by Changing Two Elements** | You are given an integer array nums. The low score of nums is the minimum absolute difference between any two integer... | [View Code](./2026/November/Day%20323%20-%20(2567).py) |
 
 </details>
 
