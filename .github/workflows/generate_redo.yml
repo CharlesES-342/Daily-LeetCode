@@ -32,5 +32,11 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add redo README.md
-          git diff --staged --quiet || (git commit -m "Add redo files" && git push)
+          if [ -e redo ]; then git add redo; fi
+          if [ -e README.md ]; then git add README.md; fi
+          if git diff --staged --quiet; then
+            echo "Nothing to commit."
+          else
+            git commit -m "Add redo files"
+            git push
+          fi
