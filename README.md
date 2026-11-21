@@ -1,6 +1,6 @@
 # 📖 LeetCode Journey
 
-**🚀 Total Problems Solved: 324**
+**🚀 Total Problems Solved: 325**
 
 This repository tracks my LeetCode progress across multiple years.
 
@@ -406,7 +406,7 @@ This repository tracks my LeetCode progress across multiple years.
 
 ### November
 <details>
-<summary><b>📂 View November 2026 Progress (20 Problems)</b></summary>
+<summary><b>📂 View November 2026 Progress (21 Problems)</b></summary>
 
 | ID | Problem Title | Description | Solution |
 | :--- | :--- | :--- | :--- |
@@ -430,64 +430,8 @@ This repository tracks my LeetCode progress across multiple years.
 | `2914` | **2914. Minimum Number of Changes to Make Binary String Beautiful** | You are given a 0-indexed binary string s having an even length. A string is beautiful if it's possible to partition ... | [View Code](./2026/November/Day%20322%20-%20(2914).py) |
 | `2567` | **2567. Minimum Score by Changing Two Elements** | You are given an integer array nums. The low score of nums is the minimum absolute difference between any two integer... | [View Code](./2026/November/Day%20323%20-%20(2567).py) |
 | `3041` | **3041. Maximize Consecutive Elements in an Array After Modification** | You are given a 0-indexed array nums consisting of positive integers. Initially, you can increase the value of any el... | [View Code](./2026/November/Day%20324%20-%20(3041).py) |
+| `3331` | **3331. Find Subtree Sizes After Changes** | You are given a tree rooted at node 0 that consists of n nodes numbered from 0 to n - 1. The tree is represented by a... | [View Code](./2026/November/Day%20325%20-%20(3331).py) |
 
 </details>
 
 ---
-
-## Re-do files
-
-<!-- REDO-LINKS-START -->
-- [April/Day 111 - (1722).py](redo/2026/April/Day%20111%20-%20%281722%29_redo.py)
-- [April/Day 119 - (3225).py](redo/2026/April/Day%20119%20-%20%283225%29_redo.py)
-- [April/Day 92 - (3416).py](redo/2026/April/Day%2092%20-%20%283416%29_redo.py)
-- [April/Day 93 - (3661).py](redo/2026/April/Day%2093%20-%20%283661%29_redo.py)
-- [April/Day 97 - (2069).py](redo/2026/April/Day%2097%20-%20%282069%29_redo.py)
-- [April/Day 99 - (3655).py](redo/2026/April/Day%2099%20-%20%283655%29_redo.py)
-- [August/Day 213 - (486).py](redo/2026/August/Day%20213%20-%20%28486%29_redo.py)
-- [August/Day 219 - (3348).py](redo/2026/August/Day%20219%20-%20%283348%29_redo.py)
-- [August/Day 221 - (1140).py](redo/2026/August/Day%20221%20-%20%281140%29_redo.py)
-- [August/Day 225 - (2213).py](redo/2026/August/Day%20225%20-%20%282213%29_redo.py)
-- [August/Day 229 - (1563).py](redo/2026/August/Day%20229%20-%20%281563%29_redo.py)
-- [August/Day 233 - (3116).py](redo/2026/August/Day%20233%20-%20%283116%29_redo.py)
-- [February/Day 42 - (3751).py](redo/2026/February/Day%2042%20-%20%283751%29_redo.py)
-- [February/Day 51 - (761).py](redo/2026/February/Day%2051%20-%20%28761%29_redo.py)
-- [January/Day 14 - (3454).py](redo/2026/January/Day%2014%20-%20%283454%29_redo.py)
-- [January/Day 23 - (3510).py](redo/2026/January/Day%2023%20-%20%283510%29_redo.py)
-- [January/Day 29 - (2976).py](redo/2026/January/Day%2029%20-%20%282976%29_redo.py)
-- [July/Day 191 - (3534).py](redo/2026/July/Day%20191%20-%20%283534%29_redo.py)
-- [July/Day 195 - (3336).py](redo/2026/July/Day%20195%20-%20%283336%29_redo.py)
-- [July/Day 198 - (3312).py](redo/2026/July/Day%20198%20-%20%283312%29_redo.py)
-- [June/Day 153 - (3633).py](redo/2026/June/Day%20153%20-%20%283633%29_redo.py)
-- [June/Day 154 - (3635).py](redo/2026/June/Day%20154%20-%20%283635%29_redo.py)
-- [June/Day 156 - (3751).py](redo/2026/June/Day%20156%20-%20%283751%29_redo.py)
-- [June/Day 161 - (3691).py](redo/2026/June/Day%20161%20-%20%283691%29_redo.py)
-- [June/Day 163 - (3559).py](redo/2026/June/Day%20163%20-%20%283559%29_redo.py)
-- [June/Day 168 - (3614).py](redo/2026/June/Day%20168%20-%20%283614%29_redo.py)
-- [June/Day 171 - (1840).py](redo/2026/June/Day%20171%20-%20%281840%29_redo.py)
-- [June/Day 174 - (3699).py](redo/2026/June/Day%20174%20-%20%283699%29_redo.py)
-- [March/Day 68 - (3129).py](redo/2026/March/Day%2068%20-%20%283129%29_redo.py)
-- [March/Day 71 - (3600).py](redo/2026/March/Day%2071%20-%20%283600%29_redo.py)
-- [March/Day 85 - (3548).py](redo/2026/March/Day%2085%20-%20%283548%29_redo.py)
-- [March/Day 87 - (2573).py](redo/2026/March/Day%2087%20-%20%282573%29_redo.py)
-- [March/Day 90 -(3474).py](redo/2026/March/Day%2090%20-%283474%29_redo.py)
-- [May/Day 121 - (396).py](redo/2026/May/Day%20121%20-%20%28396%29_redo.py)
-- [May/Day 132 - (1665).py](redo/2026/May/Day%20132%20-%20%281665%29_redo.py)
-- [May/Day 148 - (3093).py](redo/2026/May/Day%20148%20-%20%283093%29_redo.py)
-- [May/Day 150 - (3161).py](redo/2026/May/Day%20150%20-%20%283161%29_redo.py)
-- [November/Day 311 - (1882).py](redo/2026/November/Day%20311%20-%20%281882%29_redo.py)
-- [November/Day 313 - (1606).py](redo/2026/November/Day%20313%20-%20%281606%29_redo.py)
-- [November/Day 321 - (2911).py](redo/2026/November/Day%20321%20-%20%282911%29_redo.py)
-- [October/Day 277 - (678).py](redo/2026/October/Day%20277%20-%20%28678%29_redo.py)
-- [October/Day 280 - (301).py](redo/2026/October/Day%20280%20-%20%28301%29_redo.py)
-- [October/Day 283 - (2333).py](redo/2026/October/Day%20283%20-%20%282333%29_redo.py)
-- [October/Day 285 - (2897).py](redo/2026/October/Day%20285%20-%20%282897%29_redo.py)
-- [October/Day 301 - (3882).py](redo/2026/October/Day%20301%20-%20%283882%29_redo.py)
-- [October/Day 302 - (3841).py](redo/2026/October/Day%20302%20-%20%283841%29_redo.py)
-- [October/Day 303 - (3970).py](redo/2026/October/Day%20303%20-%20%283970%29_redo.py)
-- [October/Day 304 - (3665).py](redo/2026/October/Day%20304%20-%20%283665%29_redo.py)
-- [September/Day 256 - (835).py](redo/2026/September/Day%20256%20-%20%28835%29_redo.py)
-- [September/Day 265 - (3525).py](redo/2026/September/Day%20265%20-%20%283525%29_redo.py)
-- [September/Day 268 - (1096).py](redo/2026/September/Day%20268%20-%20%281096%29_redo.py)
-- [September/Day 270 - (1190).py](redo/2026/September/Day%20270%20-%20%281190%29_redo.py)
-<!-- REDO-LINKS-END -->
