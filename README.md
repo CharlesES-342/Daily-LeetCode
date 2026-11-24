@@ -1,6 +1,6 @@
 # 📖 LeetCode Journey
 
-**🚀 Total Problems Solved: 325**
+**🚀 Total Problems Solved: 327**
 
 This repository tracks my LeetCode progress across multiple years.
 
@@ -406,7 +406,7 @@ This repository tracks my LeetCode progress across multiple years.
 
 ### November
 <details>
-<summary><b>📂 View November 2026 Progress (21 Problems)</b></summary>
+<summary><b>📂 View November 2026 Progress (23 Problems)</b></summary>
 
 | ID | Problem Title | Description | Solution |
 | :--- | :--- | :--- | :--- |
@@ -431,6 +431,8 @@ This repository tracks my LeetCode progress across multiple years.
 | `2567` | **2567. Minimum Score by Changing Two Elements** | You are given an integer array nums. The low score of nums is the minimum absolute difference between any two integer... | [View Code](./2026/November/Day%20323%20-%20(2567).py) |
 | `3041` | **3041. Maximize Consecutive Elements in an Array After Modification** | You are given a 0-indexed array nums consisting of positive integers. Initially, you can increase the value of any el... | [View Code](./2026/November/Day%20324%20-%20(3041).py) |
 | `3331` | **3331. Find Subtree Sizes After Changes** | You are given a tree rooted at node 0 that consists of n nodes numbered from 0 to n - 1. The tree is represented by a... | [View Code](./2026/November/Day%20325%20-%20(3331).py) |
+| `2124` | **2124. Check if All A's Appears Before All B's** | Given a string s consisting of only the characters 'a' and 'b', return true if every 'a' appears before every 'b' in ... | [View Code](./2026/November/Day%20326%20-%20(2124).py) |
+| `1352` | **1352. Product of the Last K Numbers** | Design an algorithm that accepts a stream of integers and retrieves the product of the last k integers of the stream. | [View Code](./2026/November/Day%20327%20-%20(1352).py) |
 
 </details>
 
