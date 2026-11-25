@@ -1,6 +1,6 @@
 # 📖 LeetCode Journey
 
-**🚀 Total Problems Solved: 327**
+**🚀 Total Problems Solved: 328**
 
 This repository tracks my LeetCode progress across multiple years.
 
@@ -406,7 +406,7 @@ This repository tracks my LeetCode progress across multiple years.
 
 ### November
 <details>
-<summary><b>📂 View November 2026 Progress (23 Problems)</b></summary>
+<summary><b>📂 View November 2026 Progress (24 Problems)</b></summary>
 
 | ID | Problem Title | Description | Solution |
 | :--- | :--- | :--- | :--- |
@@ -433,6 +433,7 @@ This repository tracks my LeetCode progress across multiple years.
 | `3331` | **3331. Find Subtree Sizes After Changes** | You are given a tree rooted at node 0 that consists of n nodes numbered from 0 to n - 1. The tree is represented by a... | [View Code](./2026/November/Day%20325%20-%20(3331).py) |
 | `2124` | **2124. Check if All A's Appears Before All B's** | Given a string s consisting of only the characters 'a' and 'b', return true if every 'a' appears before every 'b' in ... | [View Code](./2026/November/Day%20326%20-%20(2124).py) |
 | `1352` | **1352. Product of the Last K Numbers** | Design an algorithm that accepts a stream of integers and retrieves the product of the last k integers of the stream. | [View Code](./2026/November/Day%20327%20-%20(1352).py) |
+| `3411` | **3411. Maximum Subarray With Equal Products** | You are given an array of positive integers nums. An array arr is called product equivalent if prod(arr) == lcm(arr) ... | [View Code](./2026/November/Day%20328%20-%20(3411).py) |
 
 </details>
 
