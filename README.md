@@ -1,6 +1,6 @@
 # 📖 LeetCode Journey
 
-**🚀 Total Problems Solved: 329**
+**🚀 Total Problems Solved: 330**
 
 This repository tracks my LeetCode progress across multiple years.
 
@@ -406,7 +406,7 @@ This repository tracks my LeetCode progress across multiple years.
 
 ### November
 <details>
-<summary><b>📂 View November 2026 Progress (25 Problems)</b></summary>
+<summary><b>📂 View November 2026 Progress (26 Problems)</b></summary>
 
 | ID | Problem Title | Description | Solution |
 | :--- | :--- | :--- | :--- |
@@ -435,6 +435,7 @@ This repository tracks my LeetCode progress across multiple years.
 | `1352` | **1352. Product of the Last K Numbers** | Design an algorithm that accepts a stream of integers and retrieves the product of the last k integers of the stream. | [View Code](./2026/November/Day%20327%20-%20(1352).py) |
 | `3411` | **3411. Maximum Subarray With Equal Products** | You are given an array of positive integers nums. An array arr is called product equivalent if prod(arr) == lcm(arr) ... | [View Code](./2026/November/Day%20328%20-%20(3411).py) |
 | `3934` | **3934. Smallest Unique Subarray** | You are given an integer array nums. Find the minimum length of a subarray that is not identical to any other subarra... | [View Code](./2026/November/Day%20329%20-%20(3934).py) |
+| `3360` | **3360. Stone Removal Game** | Alice and Bob are playing a game where they take turns removing stones from a pile, with Alice going first. Alice sta... | [View Code](./2026/November/Day%20330%20-%20(3360).py) |
 
 </details>
 
