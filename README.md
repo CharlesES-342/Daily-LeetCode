@@ -1,6 +1,6 @@
 # 📖 LeetCode Journey
 
-**🚀 Total Problems Solved: 330**
+**🚀 Total Problems Solved: 331**
 
 This repository tracks my LeetCode progress across multiple years.
 
@@ -406,7 +406,7 @@ This repository tracks my LeetCode progress across multiple years.
 
 ### November
 <details>
-<summary><b>📂 View November 2026 Progress (26 Problems)</b></summary>
+<summary><b>📂 View November 2026 Progress (27 Problems)</b></summary>
 
 | ID | Problem Title | Description | Solution |
 | :--- | :--- | :--- | :--- |
@@ -436,6 +436,7 @@ This repository tracks my LeetCode progress across multiple years.
 | `3411` | **3411. Maximum Subarray With Equal Products** | You are given an array of positive integers nums. An array arr is called product equivalent if prod(arr) == lcm(arr) ... | [View Code](./2026/November/Day%20328%20-%20(3411).py) |
 | `3934` | **3934. Smallest Unique Subarray** | You are given an integer array nums. Find the minimum length of a subarray that is not identical to any other subarra... | [View Code](./2026/November/Day%20329%20-%20(3934).py) |
 | `3360` | **3360. Stone Removal Game** | Alice and Bob are playing a game where they take turns removing stones from a pile, with Alice going first. Alice sta... | [View Code](./2026/November/Day%20330%20-%20(3360).py) |
+| `3946` | **3946. Maximum Number of Items From Sale I** | You are given a 2D integer array items, where items[i] = [factori, pricei] represents the ith item. You are also give... | [View Code](./2026/November/Day%20331%20-%20(3946).py) |
 
 </details>
 
